@@ -1,0 +1,996 @@
+---
+tenant_id: mrm
+client_id: global
+project_id: platform_docs
+artifact_type: guide_doc
+title: Sales Playbook - Пособие по продажам
+language: ru
+industry: advertising
+role_apply: [founder, sales, pm]
+period: 2025-10
+version: "1.0"
+source_path: 11_BUSINESS/Sales/Sales_Playbook_Template.md
+effective_date: 2025-10-24
+visibility: internal
+security_level: medium
+tags: [sales, playbook, scripts, objections, demo]
+synonyms: [продажи, sales process, selling]
+---
+
+# Sales Playbook
+## Руководство по продажам MRM AI Platform
+
+→ [Product Gaps Analysis](../../PRODUCT_GAPS_ANALYSIS.md) | [Business](../_README.md)
+
+---
+
+## 🎯 Ideal Customer Profile (ICP)
+
+### Primary ICP: Small-Medium Agencies (5-50 people)
+
+**Firmographics:**
+- **Industry:** Advertising / Marketing agency
+- **Size:** 5-50 employees
+- **Revenue:** $500K - $10M annually
+- **Clients:** 10-100 active advertising clients
+- **Ad spend managed:** $500K - $10M/month
+- **Geography:** Russia (Moscow, SPB, regional), CIS
+
+**Tech profile:**
+- Currently using Excel/Google Sheets for media planning
+- Using generic PM tools (Asana, Monday, Trello) but unhappy
+- Tech-savvy enough to adopt new SaaS tools
+- Looking to modernize and automate
+
+**Pain points:**
+- Spending 10-15h/week on manual work (data collection, media planning, reporting)
+- Using multiple disconnected tools
+- Scaling challenges (can't hire fast enough)
+- Client demands for faster turnaround and better analytics
+
+**Buying behavior:**
+- Budget: $100-500/month for software
+- Decision maker: Founder, Head of PM, Operations Manager
+- Buying cycle: 2-4 weeks (fast decision)
+- Prefers product-led growth (trial first)
+
+---
+
+### Secondary ICP: Inhouse Marketing Teams
+
+**Firmographics:**
+- **Industry:** Retail, E-commerce, Finance, FMCG
+- **Team size:** 10-30 people in marketing
+- **Ad spend:** $1M+ per month
+- **Geography:** Russia, large cities
+
+**Pain points:**
+- Lack of agility (slow to launch campaigns)
+- Compliance and approval workflows
+- Need for executive reporting and BI
+- Integration with corporate systems
+
+**Buying behavior:**
+- Budget: $500-2000/month
+- Decision maker: Head of Marketing, CMO
+- Buying cycle: 1-3 months (longer, more stakeholders)
+- Requires security/compliance review
+
+---
+
+## 🎯 Qualification: BANT Framework
+
+**Use BANT to qualify leads:**
+
+### B - Budget
+**Question:** "What's your current budget for project management and analytics tools?"
+- ✅ Qualified: >$100/month or willingness to reallocate budget
+- ❌ Disqualified: $0 and no plan to spend
+
+### A - Authority
+**Question:** "Who's involved in the decision to buy new software?"
+- ✅ Qualified: You're talking to decision maker or strong influencer
+- ❌ Disqualified: Junior employee with no influence
+
+### N - Need
+**Question:** "What's the biggest problem you're facing right now?"
+- ✅ Qualified: Clear pain point that we solve (e.g., manual data collection takes 10h/week)
+- ❌ Disqualified: Vague or no clear pain
+
+### T - Timeline
+**Question:** "When are you looking to implement a solution?"
+- ✅ Qualified: Within 1-3 months
+- ❌ Disqualified: "Just researching" with no timeline
+
+**Scoring:**
+- 4/4 BANT = Hot lead (prioritize)
+- 3/4 BANT = Warm lead (nurture)
+- 2/4 BANT = Cold lead (long-term nurture)
+- <2/4 BANT = Disqualified (politely exit)
+
+---
+
+## 📞 Outreach Scripts
+
+### Cold Email Template 1: Pain-Focused
+
+**Subject:** How [Agency Name] can save 10+ hours/week on media planning
+
+```
+Hi [Name],
+
+I came across [Agency Name] and was impressed by [specific detail: client roster, case study, award].
+
+Quick question: How much time does your team spend each week on:
+• Creating media plans from scratch
+• Collecting campaign data from multiple platforms
+• Generating client reports
+
+Most agencies we talk to spend 10-15 hours/week on this — time that could be spent on strategy and growth.
+
+We built MRM AI to solve exactly this problem. It's the first platform designed specifically for advertising agencies, with:
+✅ AI-powered media plan generation (minutes, not hours)
+✅ Auto data collection from all ad platforms
+✅ One-click client-ready reports
+
+Would you be open to a quick 15-min call to see if we can help [Agency Name] save time and scale faster?
+
+Best,
+[Your Name]
+
+P.S. Early adopters get 50% off for 6 months.
+```
+
+---
+
+### Cold Email Template 2: Social Proof
+
+**Subject:** How [Similar Agency] cut reporting time by 70% with MRM AI
+
+```
+Hi [Name],
+
+We recently helped [Similar Agency] (also [X] people, managing [Y] clients) reduce their reporting time from 12 hours/week to 3 hours/week.
+
+They were struggling with:
+• Manual data collection from Yandex, Google, VK
+• Creating media plans in Excel (prone to errors)
+• Coordinating across PM, specialists, analysts
+
+Sound familiar?
+
+MRM AI automated all of this for them. Now:
+✅ Data auto-syncs daily from all platforms
+✅ Media plans generated by AI in 5 minutes
+✅ Reports sent to clients with 1 click
+
+Would a 15-min demo be helpful? I can show you exactly how it works with your stack.
+
+Best,
+[Your Name]
+
+P.S. [Similar Agency Quote]: "This saved us 12 hours/week. Best investment we made."
+```
+
+---
+
+### LinkedIn InMail Template
+
+**Subject:** Idea for [Company Name]
+
+```
+Hi [Name],
+
+I noticed you're [role] at [Company] — managing advertising for [X] clients must keep you busy!
+
+I'm reaching out because we've built something specifically for agencies like yours: MRM AI Platform.
+
+It helps agencies save 10-15 hours/week on:
+• Media planning (AI-powered)
+• Data collection (auto-sync from all ad platforms)
+• Client reporting (one-click generation)
+
+We're working with agencies like [Similar 1], [Similar 2], [Similar 3] and the feedback has been great.
+
+Would you be open to a 15-min demo? I think you'd find it valuable.
+
+Best,
+[Your Name]
+[Title], MRM AI
+```
+
+---
+
+### Follow-up Email (if no response to first email)
+
+**Subject:** Re: How [Agency Name] can save 10+ hours/week
+
+```
+Hi [Name],
+
+Just following up on my email from last week.
+
+I know you're busy, so I'll be brief:
+
+MRM AI helps advertising agencies:
+→ Save 10-15 hours/week on manual work
+→ Automate media planning, data collection, reporting
+→ Scale without hiring more people
+
+If this sounds interesting, I'd love to show you a quick 15-min demo.
+
+If not a priority right now, no worries — feel free to ignore this email.
+
+Best,
+[Your Name]
+
+P.S. Here's a 2-min demo video if you prefer: [link]
+```
+
+---
+
+## 📞 Discovery Call Script (30 min)
+
+**Goal:** Understand their problems, qualify, book demo
+
+### Opening (2 min)
+
+```
+"Hi [Name], thanks for taking the time!
+
+Quick intro: I'm [Your Name] from MRM AI. We help advertising agencies automate their workflows — media planning, data collection, reporting.
+
+Before I tell you more, I'd love to understand your current setup and challenges. Is that okay?
+
+[Wait for yes]
+
+Great! Let me ask a few questions..."
+```
+
+---
+
+### Discovery Questions (15 min)
+
+**1. Current Setup:**
+"Tell me about your team and workflow."
+- How many people on your team?
+- How many clients/projects do you manage?
+- What tools do you use now? (PM, analytics, media planning)
+
+**2. Pain Points:**
+"What's the biggest bottleneck or frustration in your process?"
+- [Listen carefully! Take notes]
+- "Can you give me a specific example?"
+- "How much time does that take per week?"
+
+**3. Impact:**
+"What's the cost of this problem?"
+- Lost revenue?
+- Team burnout?
+- Client dissatisfaction?
+- Scaling challenges?
+
+**4. Current Solutions:**
+"How are you solving this today?"
+- What have you tried?
+- Why didn't it work?
+
+**5. Ideal State:**
+"If you had a magic wand, what would you change?"
+- [Take notes — this is their dream state!]
+
+**6. BANT Qualification:**
+"A few logistical questions..."
+- Budget: "What's your budget for tools like this?"
+- Authority: "Who else needs to be involved in the decision?"
+- Timeline: "When are you looking to implement something?"
+
+---
+
+### Mini-Pitch (5 min)
+
+**Only if they're qualified (3/4 BANT)**
+
+```
+"Thanks for sharing! Based on what you told me, I think MRM AI could be a great fit.
+
+Here's how we solve [their top 3 pain points]:
+
+1. [Pain 1]: We have [Feature X] that [benefit]
+   Example: If you spend 10h/week on data collection, our auto-sync reduces that to 30 minutes.
+
+2. [Pain 2]: Our [Feature Y] handles [benefit]
+   Example: AI media plan generator creates plans in 5 minutes vs 6 hours in Excel.
+
+3. [Pain 3]: [Feature Z] means [benefit]
+   Example: One-click reports for clients — no more copy-paste from 5 different sources.
+
+ROI: Most agencies save 10-15 hours/week, which is $2,000-4,000/month in labor cost.
+
+Does this sound like it could work for you?"
+```
+
+---
+
+### Close for Demo (3 min)
+
+```
+"Great! The best way to see if this fits is a live demo with your actual data.
+
+I can show you:
+✅ How to migrate your existing projects in minutes
+✅ How AI generates media plans
+✅ How reports look for your clients
+✅ Answer any questions
+
+It takes about 30 minutes. Do you have your calendar handy? Let's find a time."
+
+[Book demo on the spot]
+
+"Perfect! I'll send a calendar invite. 
+
+In the meantime:
+- Can you send me a sample media plan (Excel/Sheets)? I'll use it in the demo.
+- Anyone else should join? (PM, analyst, etc)
+
+Looking forward to showing you this!"
+```
+
+---
+
+## 🎥 Demo Call Script (30 min)
+
+**Goal:** Show value, handle objections, close for trial/purchase
+
+### Pre-Demo Prep
+
+**Before the call:**
+- [ ] Review their sample media plan / data
+- [ ] Customize demo to their use case
+- [ ] Prepare their industry examples
+- [ ] Test all features (no bugs during demo!)
+- [ ] Have pricing sheet ready
+
+---
+
+### Demo Flow (30 min)
+
+#### 1. Re-State Problems (2 min)
+
+```
+"Hi [Name], great to see you!
+
+Quick recap from our last call:
+- You're spending [X hours] on [pain 1]
+- [Pain 2] is causing [impact]
+- You want [desired outcome]
+
+Today I'll show you exactly how MRM AI solves this. Sound good?
+
+[Wait for yes]
+
+I'll share my screen. Feel free to interrupt with questions anytime."
+```
+
+---
+
+#### 2. The Wow Moment: Migration Assistant (5 min)
+
+**Goal:** Show instant value
+
+```
+"Let me start with the Migration Assistant — this is what gets agencies excited.
+
+[Share screen: Upload interface]
+
+See this Excel file? It's your media plan you sent me.
+
+Watch what happens when I upload it...
+
+[Upload, AI processes in 10 seconds]
+
+[Show result: perfectly structured media plan in platform]
+
+There. In 10 seconds, your media plan is now in the system:
+✓ All channels mapped
+✓ Budget allocated
+✓ Dates set
+✓ Ready to go
+
+Most agencies tell us this alone saves them 2-3 hours per project.
+
+Questions so far?"
+```
+
+**Pause for reaction (they'll be impressed!)**
+
+---
+
+#### 3. Core Feature 1: AI Media Plan Analyzer (7 min)
+
+```
+"Now let's say you have this media plan, and you want to optimize it.
+
+[Click: Analyze button]
+
+The AI looks at:
+- Budget allocation across channels
+- Frequency and reach calculations
+- Historical performance data
+- Industry benchmarks
+
+[Show results in 5 seconds]
+
+Here's what it found:
+• 'TV budget is 40% but only reaches 25% of target audience — consider shifting 10% to Digital OLV'
+• 'Current frequency is 8.2, which is above optimal (5-7) — diminishing returns'
+• 'Adding ₽50K to VK Ads could increase reach by 15% based on your past campaigns'
+
+You can accept these suggestions, reject them, or customize.
+
+Want to see it apply the optimization?
+
+[Click: Apply]
+
+[Show: updated media plan with new allocations]
+
+Boom. What took 2 hours of manual calculation and guesswork — done in 30 seconds.
+
+This is using scientific media planning models (Shmatov methodology) under the hood.
+
+Questions?"
+```
+
+---
+
+#### 4. Core Feature 2: Auto Data Collection & Reporting (7 min)
+
+```
+"Next: reporting. This is where agencies spend 10+ hours/week.
+
+[Navigate to Integrations]
+
+You connect your ad platforms once — Yandex Direct, Metrika, VK Ads, Google — and we auto-sync data every day.
+
+[Show: Integration dashboard with live data]
+
+Now when you need a report:
+
+[Navigate to Report Generator]
+
+Select:
+- Date range: last month
+- Metrics: impressions, clicks, CPC, conversions
+- Format: client-facing (branded)
+
+[Click: Generate]
+
+[5 seconds later: beautiful PDF report]
+
+[Show report: charts, tables, insights]
+
+And here's the best part — see this section?
+
+[Point to AI Insights]
+
+'CTR dropped 15% in week 3. Recommendation: pause underperforming ad groups XYZ and reallocate ₽20K to top performers.'
+
+The AI not only reports the data but tells you what to DO about it.
+
+This report — formatted, branded, with insights — used to take your analyst 4-5 hours.
+
+Now: 30 seconds.
+
+Questions?"
+```
+
+---
+
+#### 5. Core Feature 3: AI Project Assistant (5 min)
+
+```
+"Last thing: project management.
+
+[Navigate to Project view]
+
+You can create projects, assign tasks, RACI matrix — standard stuff.
+
+But here's where it gets interesting:
+
+[Click: AI Assistant]
+
+You can literally talk to it:
+
+[Type: 'We're launching a new campaign for Client X. Budget: ₽1M. Goal: awareness. Create a project plan.']
+
+[AI generates in 10 seconds:]
+- Task breakdown (8 tasks)
+- Timeline (4 weeks)
+- RACI assignments (based on your team roles)
+- Milestones
+
+[Show: Generated project plan]
+
+You can edit, approve, or regenerate.
+
+This is what PMs love — it takes the 'blank page' problem away. You start with 80% done, just need to refine.
+
+Questions?"
+```
+
+---
+
+#### 6. Wrap-up & Address Their Specific Use Case (3 min)
+
+```
+"So to recap, MRM AI helps [Agency Name] with:
+✅ [Pain 1] → [Feature X] (saves Y hours)
+✅ [Pain 2] → [Feature Y] (saves Y hours)
+✅ [Pain 3] → [Feature Z] (saves Y hours)
+
+Total time saved: ~10-15 hours/week
+
+At your team's cost (₽2,000/hour), that's ₽20,000-30,000/month saved.
+
+Our pricing:
+- Business plan: ₽9,900/month
+- ROI: 2-3x in month 1
+
+Does this make sense for [Agency Name]?"
+```
+
+---
+
+### Handle Objections (see next section)
+
+### Close for Trial/Purchase (2 min)
+
+```
+"Great! Here's what I recommend:
+
+We have a 14-day free trial — no credit card required.
+
+I can set you up today and:
+✓ Help migrate your first 2-3 projects
+✓ Connect your ad platforms
+✓ Train your team (30-min onboarding call)
+
+If you love it (which I think you will), you can upgrade to Business plan.
+
+If not, no hard feelings.
+
+Sound fair?
+
+[Wait for yes]
+
+Perfect! Let me send you the signup link and calendar invite for onboarding.
+
+[Send link in chat]
+
+Any questions before we wrap up?"
+```
+
+---
+
+## 🚫 Objection Handling Guide
+
+### Objection 1: "We already use [Monday/Asana/etc]"
+
+**Response:**
+```
+"That's great! Monday/Asana are solid tools.
+
+Here's the difference:
+- Monday/Asana are horizontal (work for any industry)
+- MRM AI is vertical (built specifically for advertising)
+
+For example:
+• Can Monday auto-generate media plans? No.
+• Can Asana pull data from Yandex Direct and Metrika? No.
+• Does ClickUp have scientific media planning calculators? No.
+
+Think of it this way:
+Monday/Asana = Google Docs (general purpose)
+MRM AI = Figma for designers (purpose-built)
+
+You wouldn't use Google Docs for design, right?
+
+Most of our clients still use Monday for non-advertising work.
+But for advertising projects, MRM AI is 10x better.
+
+Want to see a side-by-side comparison?"
+```
+
+---
+
+### Objection 2: "Too expensive / We don't have budget"
+
+**Response:**
+```
+"I understand budget is tight. Let me show you the ROI:
+
+You mentioned you spend:
+- [X hours/week] on data collection
+- [Y hours/week] on media planning
+- [Z hours/week] on reporting
+
+Total: ~15 hours/week = 60 hours/month
+
+At ₽2,000/hour (conservative estimate), that's ₽120,000/month in labor cost.
+
+MRM AI costs ₽9,900/month and saves 60% of that time.
+
+ROI:
+- Cost: ₽9,900/month
+- Savings: ₽72,000/month (60% of 120K)
+- Net savings: ₽62,000/month
+
+That's 7x ROI in month 1.
+
+Plus: faster turnaround = happier clients = more retention.
+
+The real question isn't 'can we afford it?'
+It's 'can we afford NOT to automate?'
+
+What if we start with a 14-day free trial so you can prove the ROI yourself?"
+```
+
+---
+
+### Objection 3: "We need to think about it"
+
+**Response:**
+```
+"Absolutely, big decision!
+
+Before I let you go, can I ask:
+What specifically do you need to think about?
+- Is it the price?
+- Features you're unsure about?
+- Need to get approval from someone?
+- Want to see more case studies?
+
+[Listen to real objection, address it]
+
+"I totally get it. Here's what I suggest:
+
+How about we do a 14-day free trial (no credit card needed)?
+
+That way you can:
+✓ Test it with your real projects
+✓ Show your team
+✓ Measure actual time savings
+
+At the end of 14 days, if it's not a slam dunk, no problem.
+
+But at least you'll have real data to make the decision.
+
+Fair?"
+```
+
+---
+
+### Objection 4: "Can we try it for free longer? 14 days isn't enough"
+
+**Response:**
+```
+"I hear you — 14 days can feel short.
+
+Here's the thing: we've found that agencies who are a good fit know within 7 days.
+
+You'll:
+- Migrate 1-2 projects: Day 1 (30 min)
+- Generate a media plan: Day 2 (10 min)
+- Set up integrations: Day 3 (15 min)
+- Create a report: Day 4 (10 min)
+
+By day 5, you'll know if this saves you time.
+
+That said, if you need more time to test with your team, I can extend to 21 days.
+
+But I need a commitment from you:
+- You'll actually use it (not just sign up and forget)
+- You'll have a decision by day 21
+
+Deal?"
+```
+
+---
+
+### Objection 5: "We'll build it ourselves / We have dev team"
+
+**Response:**
+```
+"That's ambitious! A few things to consider:
+
+1. **Time to market:**
+   - Building this took us 12 months with 8 engineers.
+   - You'd need: backend, frontend, AI specialist, integrations, QA.
+   - Timeline: 12-18 months minimum.
+
+2. **Cost:**
+   - 8 engineers × $8K/month × 12 months = $768K
+   - vs MRM AI: $10K/month = $120K/year
+
+3. **Opportunity cost:**
+   - What else could your dev team be building?
+   - Revenue-generating features? Client-facing tools?
+
+4. **Ongoing maintenance:**
+   - Ad platform APIs change constantly (Yandex, Google, VK)
+   - You'd need dedicated team to maintain integrations.
+
+5. **AI complexity:**
+   - Training LLMs, managing prompts, RAG systems — highly specialized.
+
+Most agencies realize:
+'This is not our core competency. Let's focus on serving clients, not building software.'
+
+But I get it — you want control and customization.
+
+What if you:
+- Use MRM AI for 80% of needs (off-the-shelf)
+- Build custom integrations for your unique workflows (via our API)
+
+We have an Enterprise plan with:
+✓ API access
+✓ Custom integrations
+✓ White-label option
+
+Want to explore that?"
+```
+
+---
+
+### Objection 6: "We're worried about AI making mistakes"
+
+**Response:**
+```
+"Totally valid concern! AI is powerful but not perfect.
+
+Here's how we handle this:
+
+1. **Human-in-the-loop:**
+   - AI generates suggestions (media plans, insights, tasks)
+   - YOU review and approve before execution
+   - Think of AI as a smart assistant, not autopilot
+
+2. **Confidence scores:**
+   - AI shows confidence level for each suggestion
+   - Low confidence? It flags it for your review
+
+3. **Edit everything:**
+   - All AI outputs are editable
+   - You have full control
+
+4. **Audit trail:**
+   - Every change is logged
+   - You can see what AI suggested vs what you approved
+
+5. **Learning from feedback:**
+   - When you edit AI output, it learns and improves
+
+Real-world example:
+- Agency X uses MRM AI for 6 months
+- AI generates 100 media plans
+- 85 approved as-is
+- 15 edited (minor tweaks)
+- 0 rejected (major errors)
+
+85% time savings with 100% accuracy (after review).
+
+The key: AI does the heavy lifting, you do the QA.
+
+Want to see how the review workflow works in the demo?"
+```
+
+---
+
+## 💰 Pricing Presentation
+
+### Pricing Sheet (show during demo or send after)
+
+```markdown
+# MRM AI Platform — Pricing
+
+## 🆓 FREE TRIAL
+✓ 14 days, no credit card required
+✓ Full access to all features
+✓ Onboarding call included
+✓ Cancel anytime
+
+---
+
+## 💼 TEAM — ₽4,900/month
+Perfect for small agencies (5-15 people)
+
+✓ Up to 15 users
+✓ Up to 10 active projects
+✓ AI Media Plan Analyzer
+✓ Migration Assistant
+✓ Report Generator
+✓ Basic AI assistants (PM only)
+✓ Integrations: 5 platforms
+✓ Email support
+✓ 30-day history
+
+**Best for:** Agencies just starting to automate
+
+---
+
+## 🚀 BUSINESS — ₽9,900/month ⭐ Most Popular
+For growing agencies (15-50 people)
+
+✓ Up to 50 users
+✓ Unlimited projects
+✓ All AI assistants (PM, Analyst, Media Planner, Strategist)
+✓ Advanced analytics & dashboards
+✓ All integrations (unlimited platforms)
+✓ Priority support (4h response)
+✓ 90-day history
+✓ API access
+✓ Custom exports (branded PPTX, PDF)
+
+**Best for:** Agencies ready to scale
+
+**ROI:** Save 10-15h/week = ₽60K+/month
+**Payback:** <1 month
+
+---
+
+## 🏢 ENTERPRISE — Custom (from ₽29,900/month)
+For large agencies & inhouse teams (50+ people)
+
+✓ Unlimited users
+✓ Everything in Business, plus:
+✓ Marketing Mix Modeling (MMM)
+✓ White-label option
+✓ SSO (SAML, OAuth)
+✓ Dedicated account manager
+✓ SLA 99.9% uptime
+✓ Custom integrations
+✓ Advanced permissions & audit logs
+✓ Unlimited history
+✓ Quarterly business reviews
+
+**Best for:** Enterprises with complex needs
+
+---
+
+## 💳 ADD-ONS
+
+**AI Token Packs:**
+- +500 AI requests: ₽990/month
+- +2000 AI requests: ₽2,990/month
+- +10,000 AI requests: ₽9,900/month
+
+**Professional Services:**
+- Onboarding & training: ₽50,000 one-time
+- Custom integration: ₽250,000-500,000
+- Migration service: ₽100,000-300,000
+
+---
+
+## 🎁 EARLY ADOPTER OFFER
+
+**50% OFF for 6 months** (first 50 agencies)
+- Team: ₽2,450/month (save ₽14,700)
+- Business: ₽4,950/month (save ₽29,700)
+
+Expires: [Date]
+
+---
+
+## ❓ FAQ
+
+**Q: Can we upgrade/downgrade anytime?**
+A: Yes! No penalties. Pro-rated billing.
+
+**Q: What if we exceed user limits?**
+A: We'll notify you. You can upgrade or pay ₽300/user overage.
+
+**Q: Do we need a contract?**
+A: Team/Business: month-to-month, cancel anytime.
+   Enterprise: annual contract.
+
+**Q: What payment methods?**
+A: Credit card, wire transfer, invoicing (Enterprise only).
+
+**Q: Do you offer refunds?**
+A: 30-day money-back guarantee if not satisfied.
+```
+
+---
+
+## 📊 ROI Calculator (use in sales conversations)
+
+### Template:
+
+```
+Client: [Agency Name]
+Team size: ____ people
+Projects: ____ per month
+
+Current Time Spent (hours/week):
+- Data collection: ____ hours × ₽2,000/hour = ₽_____
+- Media planning: ____ hours × ₽2,000/hour = ₽_____
+- Reporting: ____ hours × ₽2,000/hour = ₽_____
+- PM coordination: ____ hours × ₽2,000/hour = ₽_____
+-----------------------------------------
+Total: ____ hours/week = ₽_____ /month
+
+Time Saved with MRM AI (60% reduction):
+- Data collection: saved ____ hours = ₽_____
+- Media planning: saved ____ hours = ₽_____
+- Reporting: saved ____ hours = ₽_____
+- PM coordination: saved ____ hours = ₽_____
+-----------------------------------------
+Total Savings: ₽_____ /month
+
+MRM AI Cost: ₽9,900/month
+
+Net Savings: ₽_____ /month
+ROI: ___x
+
+Payback Period: <1 month
+```
+
+---
+
+## ✅ Next Steps After Close
+
+### Immediate (within 24h):
+- [ ] Send welcome email with:
+  - Trial signup link (or paid account access)
+  - Onboarding calendar invite
+  - Getting started guide
+- [ ] Add to CRM (mark as "Customer")
+- [ ] Set reminder for onboarding call
+
+### Onboarding Call (30 min):
+- [ ] Account setup & team invites
+- [ ] Connect first integration (Yandex/Google)
+- [ ] Upload/migrate first project
+- [ ] Generate first media plan or report
+- [ ] Answer questions
+- [ ] Schedule 14-day check-in
+
+### Day 7 Check-in (email):
+- [ ] "How's it going? Any questions?"
+- [ ] Share tips & best practices
+- [ ] Offer extra training if needed
+
+### Day 14 (end of trial):
+- [ ] Check usage metrics (did they actually use it?)
+- [ ] If yes: "Ready to upgrade? Here's the link"
+- [ ] If no: "Didn't get a chance to try? Let's extend 7 days"
+
+### Post-Purchase:
+- [ ] Send onboarding materials
+- [ ] Introduce to Customer Success Manager
+- [ ] Add to customer Slack channel
+- [ ] Schedule monthly check-ins
+
+---
+
+## 📚 Resources
+
+### Internal:
+- [Product Demos](link to Loom videos)
+- [Case Studies](link)
+- [ROI Calculator](link to spreadsheet)
+- [Competitor Battlecards](link)
+
+### Customer-Facing:
+- [Landing Page](https://mrmaiplatform.com)
+- [Demo Video (2 min)](link)
+- [Knowledge Base](link)
+- [API Docs](link)
+
+---
+
+**Версия:** 1.0  
+**Дата:** 24 октября 2025  
+**Автор:** Sales Team  
+**Статус:** ✅ Ready to Use
+

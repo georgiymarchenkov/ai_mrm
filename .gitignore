@@ -1,0 +1,182 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Files that might appear in the root
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.ico
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Office temporary files
+~$*.xlsx
+~$*.pptx
+~$*.docx
+~$*.doc
+
+# Binary files (Excel, PowerPoint, Word)
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.docx
+*.doc
+
+# PDF files
+*.pdf
+
+# Video files
+*.mp4
+*.mov
+*.avi
+
+# CSV files (могут содержать конфиденциальные данные)
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.cursor/
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# ADMIN temporary files
+ADMIN/tmp/
+ADMIN/**/*_draft.md
+ADMIN/**/*_temp.md
+ADMIN/ARCHIVE/
+
+# Test files
+test-artifacts.js
+
+# Scripts (могут содержать чувствительные данные)
+*.py
+
+# Кириллица (проблемы с кросс-платформенностью)
+*[А-Яа-я]*.txt
+*[А-Яа-я]*.md
+# Но разрешаем основные документы с кириллицей в названии папок
+!00_*/**
+!01_*/**
+!02_*/**
+!03_*/**
+!04_*/**
+!05_*/**
+!06_*/**
+!07_*/**
+!08_*/**
+!09_*/**
+!10_*/**
+!11_*/**
+!12_*/**
+!13_*/**
+!14_*/**
+!15_*/**
+!ADMIN/**
+
+# Но включаем конкретные важные файлы
+!README.md
+!ADMIN/README.md
+!ADMIN/QUICK_START.md
+!ADMIN/MIGRATION_STATUS.md
+!ADMIN/TASKS/INDEX.md
+!ADMIN/SESSIONS/INDEX.md
+!ADMIN/TASKS/ACTIVE/*.md
+!ADMIN/TASKS/COMPLETED/*.md
+
+# Исключаем временные отчеты из корня (будут в ADMIN)
+_*.md
+_*.json
+_*.txt
+
+# Но разрешаем файлы в подпапках
+!00_*/**/_*.md
+!01_*/**/_*.md
+!02_*/**/_*.md
+!03_*/**/_*.md
+!04_*/**/_*.md
+!05_*/**/_*.md
+!06_*/**/_*.md
+!07_*/**/_*.md
+!08_*/**/_*.md
+!09_*/**/_*.md
+!10_*/**/_*.md
+!11_*/**/_*.md
+!12_*/**/_*.md
+!13_*/**/_*.md
+!14_*/**/_*.md
+!15_*/**/_*.md
+!ADMIN/**/_*.md
+
+# Разрешаем .cursorrules
+!.cursorrules
+
+# Медиакиты
+mediakit's/
+

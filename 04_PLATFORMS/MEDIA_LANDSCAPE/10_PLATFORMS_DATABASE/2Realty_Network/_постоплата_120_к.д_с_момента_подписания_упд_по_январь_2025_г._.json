@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt__постоплата_120_к.д_с_момента_подписания_упд_по_январь_2025_г._",
+  "name": "Ozon.ru",
+  "site": " постоплата 120 к.д с момента подписания УПД по январь 2025 г. ",
+  "website_url": "https:// постоплата 120 к.д с момента подписания УПД по январь 2025 г. ",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Ozon.ru",
+  "holding": "Ozon.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Ozon.ru",
+      "seller": "Ozon.ru",
+      "site_meta": " постоплата 120 к.д с момента подписания УПД по январь 2025 г. ",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Ozon.ru",
+        "Ozon.ru",
+        " постоплата 120 к.д с момента подписания УПД по январь 2025 г. ",
+        " постоплата 120 к.д с момента подписания УПД по январь 2025 г. ",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

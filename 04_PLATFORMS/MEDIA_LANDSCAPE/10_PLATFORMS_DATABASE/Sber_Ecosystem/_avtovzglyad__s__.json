@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt__avtovzglyad__s__",
+  "name": " Avtovzglyad (S) ",
+  "site": " Avtovzglyad (S) ",
+  "website_url": "https:// Avtovzglyad (S) ",
+  "category": "Sber",
+  "seller": " Avtovzglyad (S) ",
+  "holding": " Avtovzglyad (S) ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": " Avtovzglyad (S) ",
+      "seller": " Avtovzglyad (S) ",
+      "site_meta": " Avtovzglyad (S) ",
+      "full_row": [
+        "Sber",
+        " Avtovzglyad (S) ",
+        " Avtovzglyad (S) ",
+        " Avtovzglyad (S) ",
+        " Avtovzglyad (S) ",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "на согласовании",
+        " Avtovzglyad.ru (S) ",
+        "Business-gazeta",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt__genius_group",
+  "name": "ugolnikova@timeout.ru \nАлёна Угольникова",
+  "site": " Genius Group",
+  "website_url": "https:// Genius Group",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "ugolnikova@timeout.ru \nАлёна Угольникова",
+  "holding": "ugolnikova@timeout.ru \nАлёна Угольникова",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "ugolnikova@timeout.ru \nАлёна Угольникова",
+      "seller": "ugolnikova@timeout.ru \nАлёна Угольникова",
+      "site_meta": " Genius Group",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "ugolnikova@timeout.ru \nАлёна Угольникова",
+        "ugolnikova@timeout.ru \nАлёна Угольникова",
+        " Genius Group",
+        " Genius Group",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "geniusgroup.cc",
+        "ООО \"Рекламная платформа\"",
+        "ООО \"Рекламная платформа\"",
+        "Programmatic-реклама, в том числе VPN - СК 40%\nGenius O2O -  СК 30% на основную кампанию, на выгрузку по  SKU (170 тыс руб) и на Sales Lift - нет СК \nGenius Production — по договорённости\nGenius Performance — по договоренности от брифа (10 - 20%)\nдля клиента ОРМАТЕК индивидуальная СК 15% с июля на согласованую РК, далее возможно продление ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

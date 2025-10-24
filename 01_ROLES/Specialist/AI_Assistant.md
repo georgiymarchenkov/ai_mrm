@@ -34,109 +34,27 @@ tags: [role, specialist, ai_assistant]
 
 ## 🎯 КЛЮЧЕВЫЕ ВОЗМОЖНОСТИ
 
-### 1. AI МЕДИАПЛАНИРОВАНИЕ ⭐ С МЕДИАЛАНДШАФТОМ!
+### 1. AI МЕДИАПЛАНИРОВАНИЕ
 
-**Процесс (НОВЫЙ с медиаландшафтом):**
+**Процесс:**
 ```
 1. Input: Brief + Strategy
-
-2. AI загружает медиаландшафт:
-   → 707 площадок, 50 категорий
-   → Бенчмарки CPM, охваты, контакты
-   → Типология площадок
-   
-3. AI анализирует и фильтрует:
-   - Площадки по категориям (из taxonomy)
-   - По бюджету (min_budget <= budget)
-   - По гео (доступность в РФ)
-   - По целям (objectives match)
-   → Результат: 20-30 подходящих площадок
-   
-4. AI предлагает channel mix:
-   - Топ-10 площадок с обоснованием
+2. AI предлагает:
+   - Channel mix
    - Budget allocation
-   - CPM и прогноз показов (из медиаландшафта!)
    - Reach & Frequency forecast
    
-5. AI рассчитывает метрики:
-   - GRP, TRP (калькуляторы Шматова)
-   - Coverage, Effective reach
-   - ROI прогноз
+3. AI рассчитывает:
+   - GRP, TRP
+   - Coverage
+   - Effective reach
+   (используя калькуляторы Шматова)
    
-6. AI генерирует медиаплан:
-   - 100-150 строк
-   - С бенчмарками из медиаландшафта
-   - С контактами для уточнения
-   
-7. Specialist review (30мин) + adjustments
-8. Export to Google Sheets / presentation
+4. Specialist review (30мин) + adjustments
+5. Export to presentation
 ```
 
-**Код интеграции:**
-```typescript
-class AIMediaPlannerWithLandscape {
-  async generateMediaPlan(brief: Brief, strategy: Strategy) {
-    // 1. Загрузить медиаландшафт
-    const landscape = await this.loadMediaLandscape();
-    
-    // 2. Определить подходящие категории
-    const categories = await this.selectCategories(
-      brief.objectives,
-      landscape.taxonomy
-    );
-    
-    // 3. Загрузить площадки из категорий
-    const platforms = await this.loadPlatforms(categories);
-    
-    // 4. Фильтровать по критериям
-    const suitable = platforms.filter(p => {
-      return p.source_data.min_budget <= strategy.budget &&
-             p.availability === 'russia' &&
-             p.source_data.objectives.includes(brief.objective);
-    });
-    
-    // 5. Ранжировать по эффективности
-    const ranked = suitable.sort((a, b) => {
-      const effA = a.source_data.audience_size / a.source_data.cpm;
-      const effB = b.source_data.audience_size / b.source_data.cpm;
-      return effB - effA;
-    });
-    
-    // 6. LLM генерирует план с контекстом
-    const prompt = `
-      Создай медиаплан для:
-      - Бюджет: ${strategy.budget}₽
-      - Цели: ${brief.objectives}
-      - Гео: ${brief.geo}
-      
-      Топ площадок из медиаландшафта:
-      ${ranked.slice(0, 20).map(p => 
-        `${p.name}: CPM ${p.source_data.cpm}₽, охват ${p.source_data.audience_size}`
-      ).join('\n')}
-      
-      Распределяй бюджет оптимально по этим площадкам.
-    `;
-    
-    const plan = await this.llm.generate(prompt);
-    
-    // 7. Обогатить данными из медиаландшафта
-    return this.enrichWithLandscapeData(plan, ranked);
-  }
-  
-  async loadMediaLandscape() {
-    return {
-      taxonomy: await loadJSON('09_ANALYTICS/platform_taxonomy.json'),
-      platforms: await loadAllPlatforms('10_PLATFORMS_DATABASE/'),
-      benchmarks: await loadJSON('04_PRICING/benchmark_prices.json')
-    };
-  }
-}
-```
-
-**Экономия:** 
-- БЕЗ медиаландшафта: 6-8ч
-- С медиаландшафтом: 1-1.5ч (**↓80%!**)
-- Качество: +50% охват площадок
+**Экономия:** 6-8ч на план
 
 ---
 

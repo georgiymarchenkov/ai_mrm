@@ -1,12 +1,62 @@
-# Byte-compiled / optimized / DLL files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+
+# Thumbnails
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# Files that might appear in the root
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.ico
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Office temporary files
+~$*.xlsx
+~$*.pptx
+~$*.docx
+~$*.doc
+
+# Binary files (Excel, PowerPoint, Word)
+*.xlsx
+*.xls
+*.pptx
+*.ppt
+*.docx
+*.doc
+
+# PDF files
+*.pdf
+
+# Video files
+*.mp4
+*.mov
+*.avi
+
+# CSV files (могут содержать конфиденциальные данные)
+*.csv
+
+# Python
 __pycache__/
 *.py[cod]
 *$py.class
-
-# C extensions
 *.so
-
-# Distribution / packaging
 .Python
 build/
 develop-eggs/
@@ -20,332 +70,113 @@ parts/
 sdist/
 var/
 wheels/
-share/python-wheels/
 *.egg-info/
 .installed.cfg
 *.egg
-MANIFEST
 
-# PyInstaller
-*.manifest
-*.spec
-
-# Installer logs
-pip-log.txt
-pip-delete-this-directory.txt
-
-# Unit test / coverage reports
-htmlcov/
-.tox/
-.nox/
-.coverage
-.coverage.*
-.cache
-nosetests.xml
-coverage.xml
-*.cover
-*.py,cover
-.hypothesis/
-.pytest_cache/
-cover/
-
-# Translations
-*.mo
-*.pot
-
-# Django stuff:
-*.log
-local_settings.py
-db.sqlite3
-db.sqlite3-journal
-
-# Flask stuff:
-instance/
-.webassets-cache
-
-# Scrapy stuff:
-.scrapy
-
-# Sphinx documentation
-docs/_build/
-
-# PyBuilder
-.pybuilder/
-target/
-
-# Jupyter Notebook
-.ipynb_checkpoints
-
-# IPython
-profile_default/
-ipython_config.py
-
-# pyenv
-# .python-version
-
-# pipenv
-#Pipfile.lock
-
-# poetry
-#poetry.lock
-
-# pdm
-.pdm.toml
-
-# PEP 582
-__pypackages__/
-
-# Celery stuff
-celerybeat-schedule
-celerybeat.pid
-
-# SageMath parsed files
-*.sage.py
-
-# Environments
-.env
-.venv
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
-
-# Spyder project settings
-.spyderproject
-.spyproject
-
-# Rope project settings
-.ropeproject
-
-# mkdocs documentation
-/site
-
-# mypy
-.mypy_cache/
-.dmypy.json
-dmypy.json
-
-# Pyre type checker
-.pyre/
-
-# pytype static type analyzer
-.pytype/
-
-# Cython debug symbols
-cython_debug/
-
-# PyCharm
-.idea/
-
-# Node.js
+# Node
 node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-lerna-debug.log*
 .pnpm-debug.log*
 
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Coverage directory used by tools like istanbul
-coverage/
-*.lcov
-
-# nyc test coverage
-.nyc_output
-
-# Grunt intermediate storage
-.grunt
-
-# Bower dependency directory
-bower_components
-
-# node-waf configuration
-.lock-wscript
-
-# Compiled binary addons
-build/Release
-
-# Dependency directories
-jspm_packages/
-
-# Snowpack dependency directory
-web_modules/
-
-# TypeScript cache
-*.tsbuildinfo
-
-# Optional npm cache directory
-.npm
-
-# Optional eslint cache
-.eslintcache
-
-# Optional stylelint cache
-.stylelintcache
-
-# Microbundle cache
-.rpt2_cache/
-.rts2_cache_cjs/
-.rts2_cache_es/
-.rts2_cache_umd/
-
-# Optional REPL history
-.node_repl_history
-
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
-# dotenv environment variable files
-.env.development.local
-.env.test.local
-.env.production.local
-.env.local
-
-# parcel-bundler cache
-.cache
-.parcel-cache
-
-# Next.js build output
-.next
-out
-
-# Nuxt.js build / generate output
-.nuxt
-dist
-
-# Gatsby files
-.cache/
-public
-
-# Storybook build outputs
-.out
-.storybook-out
-storybook-static
-
-# Temporary folders
-tmp/
-temp/
-
-# Logs
-logs
-*.log
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Optional REPL history
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# AI/ML specific
-*.h5
-*.hdf5
-*.pkl
-*.pickle
-*.joblib
-*.model
-*.weights
-checkpoints/
-models/
-data/
-datasets/
-*.tfrecord
-*.npy
-*.npz
-
-# Jupyter
-.ipynb_checkpoints/
-
-# Virtual environments
-venv/
-env/
-.env
-.venv
-
-# IDE and editors
-.vscode/
+# IDEs
 .idea/
-.cursor/
+.vscode/
 *.swp
 *.swo
 *~
+.cursor/
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+# Environment
+.env
+.env.local
+.env.*.local
 
-# ====== PROJECT SPECIFIC ======
+# Logs
+logs/
+*.log
 
-# Временные отчеты и файлы сессий
-_*_REPORT*.md
-_*_SUMMARY*.md
-_SESSION*.md
-_AUDIT*.md
-_QUICK*.md
-_FINAL*.md
-_GAPS*.md
-_REFERENCES*.md
-_DATA_TRANSFORMATION*.md
-_ARTIFACT_PROCESSING*.json
-_ARTIFACT_PROCESSING*.md
-_ПРИОРИТЕТЫ*.md
-_КРАТКАЯ*.md
-_ИТОГОВЫЙ*.md
-_ВИЗУАЛИЗАЦИЯ*.txt
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
 
-# Временные файлы Office
-~$*.xlsx
-~$*.pptx
-~$*.docx
+# ADMIN temporary files
+ADMIN/tmp/
+ADMIN/**/*_draft.md
+ADMIN/**/*_temp.md
+ADMIN/ARCHIVE/
 
-# PDF документация (если не критична)
-*.pdf
+# Test files
+test-artifacts.js
 
-# Video files
-*.mp4
-*.avi
-*.mov
+# Scripts (могут содержать чувствительные данные)
+*.py
 
-# Excel данные (рабочие файлы)
-*.xlsx
-*.xls
-*.csv
+# Кириллица (проблемы с кросс-платформенностью)
+*[А-Яа-я]*.txt
+*[А-Яа-я]*.md
+# Но разрешаем основные документы с кириллицей в названии папок
+!00_*/**
+!01_*/**
+!02_*/**
+!03_*/**
+!04_*/**
+!05_*/**
+!06_*/**
+!07_*/**
+!08_*/**
+!09_*/**
+!10_*/**
+!11_*/**
+!12_*/**
+!13_*/**
+!14_*/**
+!15_*/**
+!ADMIN/**
 
-# Скриншоты
-Снимок*.png
-Screenshot*.png
+# Но включаем конкретные важные файлы
+!README.md
+!ADMIN/README.md
+!ADMIN/QUICK_START.md
+!ADMIN/MIGRATION_STATUS.md
+!ADMIN/TASKS/INDEX.md
+!ADMIN/SESSIONS/INDEX.md
+!ADMIN/TASKS/ACTIVE/*.md
+!ADMIN/TASKS/COMPLETED/*.md
 
-# Media kits (если не нужны в репо)
+# Исключаем временные отчеты из корня (будут в ADMIN)
+_*.md
+_*.json
+_*.txt
+
+# Но разрешаем файлы в подпапках
+!00_*/**/_*.md
+!01_*/**/_*.md
+!02_*/**/_*.md
+!03_*/**/_*.md
+!04_*/**/_*.md
+!05_*/**/_*.md
+!06_*/**/_*.md
+!07_*/**/_*.md
+!08_*/**/_*.md
+!09_*/**/_*.md
+!10_*/**/_*.md
+!11_*/**/_*.md
+!12_*/**/_*.md
+!13_*/**/_*.md
+!14_*/**/_*.md
+!15_*/**/_*.md
+!ADMIN/**/_*.md
+
+# Разрешаем .cursorrules
+!.cursorrules
+
+# Медиакиты
 mediakit's/
 
-# Изображения (кроме схем в README)
-*.png
-!mrm.png
-!*prototype*.png
-!*schema*.png
-
-# Временные Python скрипты
-create_hubs.py
-test-artifacts.js

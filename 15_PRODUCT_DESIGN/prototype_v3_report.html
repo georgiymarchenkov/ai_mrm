@@ -1,0 +1,1075 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MRM AI - Отчет по кампании ЖК "Зеленая Долина"</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', sans-serif;
+            background: #f5f7fa;
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #fef3c7 0%, #fde68a 100%);
+            height: 80px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 30px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+        }
+
+        .project-info {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .project-logo {
+            width: 50px;
+            height: 50px;
+            background: white;
+            border-radius: 12px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+        }
+
+        .project-details h1 {
+            font-size: 18px;
+            color: #1a202c;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .project-details p {
+            font-size: 13px;
+            color: #4a5568;
+        }
+
+        .project-status {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+
+        .status-badge {
+            padding: 6px 14px;
+            background: white;
+            border-radius: 20px;
+            font-size: 13px;
+            font-weight: 500;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+        }
+
+        .status-badge.active {
+            color: #059669;
+            border: 2px solid #059669;
+        }
+
+        .user-section {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .user-avatar {
+            width: 42px;
+            height: 42px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 600;
+            font-size: 16px;
+        }
+
+        .container {
+            display: flex;
+            height: calc(100vh - 80px);
+        }
+
+        .sidebar {
+            width: 80px;
+            background: linear-gradient(180deg, #a78bfa 0%, #8b5cf6 100%);
+            padding: 20px 10px;
+            overflow-y: auto;
+            box-shadow: 2px 0 10px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+        }
+
+        .artifact-icon {
+            width: 56px;
+            height: 56px;
+            border-radius: 14px;
+            background: rgba(255, 255, 255, 0.15);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 26px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+        }
+
+        .artifact-icon:hover {
+            background: rgba(255, 255, 255, 0.25);
+            transform: scale(1.1);
+        }
+
+        .artifact-icon.active {
+            background: white;
+            box-shadow: 0 4px 12px rgba(139, 92, 246, 0.4);
+            transform: scale(1.05);
+        }
+
+        .icon-badge {
+            position: absolute;
+            top: -4px;
+            right: -4px;
+            background: #ef4444;
+            color: white;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            font-size: 11px;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 2px solid #8b5cf6;
+        }
+
+        .content {
+            flex: 1;
+            background: linear-gradient(135deg, #e9d5ff 0%, #ddd6fe 100%);
+            padding: 30px;
+            overflow-y: auto;
+        }
+
+        .report-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+        }
+
+        .report-title {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .report-title h2 {
+            font-size: 28px;
+            font-weight: 800;
+            color: #1a202c;
+        }
+
+        .period-selector {
+            display: flex;
+            gap: 10px;
+            background: white;
+            padding: 6px;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .period-btn {
+            padding: 8px 16px;
+            border: none;
+            background: transparent;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 600;
+            color: #64748b;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .period-btn.active {
+            background: #8b5cf6;
+            color: white;
+        }
+
+        .period-btn:hover:not(.active) {
+            background: #f1f5f9;
+        }
+
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(5, 1fr);
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .kpi-card {
+            background: white;
+            border-radius: 14px;
+            padding: 18px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            transition: all 0.3s;
+        }
+
+        .kpi-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 6px 16px rgba(0,0,0,0.12);
+        }
+
+        .kpi-icon {
+            font-size: 24px;
+            margin-bottom: 8px;
+        }
+
+        .kpi-label {
+            font-size: 11px;
+            color: #64748b;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 8px;
+        }
+
+        .kpi-value {
+            font-size: 26px;
+            font-weight: 800;
+            color: #1a202c;
+            margin-bottom: 6px;
+        }
+
+        .kpi-delta {
+            font-size: 12px;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .kpi-delta.positive {
+            color: #10b981;
+        }
+
+        .kpi-delta.negative {
+            color: #ef4444;
+        }
+
+        .charts-section {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 20px;
+            margin-bottom: 25px;
+        }
+
+        .chart-card {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .chart-title {
+            font-size: 16px;
+            font-weight: 700;
+            color: #1a202c;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .line-chart {
+            height: 250px;
+            position: relative;
+        }
+
+        .chart-grid {
+            position: absolute;
+            top: 0;
+            left: 40px;
+            right: 0;
+            bottom: 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+
+        .grid-line {
+            border-top: 1px dashed #e2e8f0;
+            position: relative;
+        }
+
+        .grid-label {
+            position: absolute;
+            left: -40px;
+            top: -8px;
+            font-size: 11px;
+            color: #94a3b8;
+            font-weight: 600;
+        }
+
+        .chart-area {
+            position: absolute;
+            bottom: 30px;
+            left: 40px;
+            right: 0;
+            top: 0;
+        }
+
+        .chart-line {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 100%;
+        }
+
+        .chart-area-fill {
+            fill: url(#gradient);
+            opacity: 0.3;
+        }
+
+        .chart-area-stroke {
+            fill: none;
+            stroke: #8b5cf6;
+            stroke-width: 3;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        .x-axis {
+            position: absolute;
+            bottom: 0;
+            left: 40px;
+            right: 0;
+            display: flex;
+            justify-content: space-between;
+            padding-top: 10px;
+        }
+
+        .x-label {
+            font-size: 11px;
+            color: #94a3b8;
+            font-weight: 600;
+        }
+
+        .pie-chart {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 250px;
+            position: relative;
+        }
+
+        .pie-legend {
+            margin-top: 20px;
+        }
+
+        .legend-item {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 10px;
+            border-radius: 8px;
+            margin-bottom: 8px;
+            transition: all 0.2s;
+        }
+
+        .legend-item:hover {
+            background: #f8fafc;
+        }
+
+        .legend-label {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 13px;
+            font-weight: 600;
+            color: #1a202c;
+        }
+
+        .legend-color {
+            width: 14px;
+            height: 14px;
+            border-radius: 4px;
+        }
+
+        .legend-value {
+            font-size: 13px;
+            font-weight: 700;
+            color: #64748b;
+        }
+
+        .insights-section {
+            background: white;
+            border-radius: 16px;
+            padding: 24px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .insight-item {
+            display: flex;
+            gap: 16px;
+            padding: 16px;
+            background: #f8fafc;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            border-left: 4px solid transparent;
+            transition: all 0.2s;
+        }
+
+        .insight-item:hover {
+            background: #f1f5f9;
+            transform: translateX(4px);
+        }
+
+        .insight-item.positive {
+            border-left-color: #10b981;
+        }
+
+        .insight-item.warning {
+            border-left-color: #f59e0b;
+        }
+
+        .insight-item.negative {
+            border-left-color: #ef4444;
+        }
+
+        .insight-icon {
+            font-size: 28px;
+            flex-shrink: 0;
+        }
+
+        .insight-content {
+            flex: 1;
+        }
+
+        .insight-title {
+            font-size: 14px;
+            font-weight: 700;
+            color: #1a202c;
+            margin-bottom: 4px;
+        }
+
+        .insight-description {
+            font-size: 13px;
+            color: #64748b;
+            line-height: 1.5;
+        }
+
+        .insight-metric {
+            font-weight: 700;
+            color: #1a202c;
+        }
+
+        /* Chat Assistant */
+        .chat-assistant {
+            width: 420px;
+            background: linear-gradient(180deg, #a7f3d0 0%, #6ee7b7 100%);
+            display: flex;
+            flex-direction: column;
+            box-shadow: -2px 0 10px rgba(0,0,0,0.1);
+        }
+
+        .chat-header {
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .chat-header h3 {
+            font-size: 16px;
+            color: #065f46;
+            font-weight: 700;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .chat-messages {
+            flex: 1;
+            padding: 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 16px;
+        }
+
+        .message {
+            display: flex;
+            gap: 12px;
+            animation: slideIn 0.3s ease;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .message-avatar {
+            width: 36px;
+            height: 36px;
+            border-radius: 50%;
+            background: white;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            flex-shrink: 0;
+        }
+
+        .message-content {
+            flex: 1;
+        }
+
+        .message-bubble {
+            background: white;
+            padding: 14px 16px;
+            border-radius: 16px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+            margin-bottom: 8px;
+        }
+
+        .message-text {
+            font-size: 14px;
+            color: #1a202c;
+            line-height: 1.6;
+        }
+
+        .message-time {
+            font-size: 11px;
+            color: #065f46;
+            opacity: 0.7;
+        }
+
+        .message-actions {
+            display: flex;
+            gap: 8px;
+            margin-top: 12px;
+            flex-wrap: wrap;
+        }
+
+        .action-btn {
+            padding: 8px 14px;
+            background: white;
+            color: #059669;
+            border-radius: 10px;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            border: 2px solid #059669;
+            transition: all 0.2s;
+        }
+
+        .action-btn:hover {
+            background: #059669;
+            color: white;
+        }
+
+        .chat-input {
+            padding: 20px;
+            background: rgba(255, 255, 255, 0.3);
+            border-top: 1px solid rgba(255, 255, 255, 0.3);
+        }
+
+        .input-wrapper {
+            display: flex;
+            gap: 10px;
+            background: white;
+            border-radius: 12px;
+            padding: 12px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        .input-wrapper input {
+            flex: 1;
+            border: none;
+            outline: none;
+            font-size: 14px;
+            color: #1a202c;
+        }
+
+        .send-btn {
+            background: #059669;
+            color: white;
+            padding: 8px 16px;
+            border-radius: 8px;
+            border: none;
+            cursor: pointer;
+            font-weight: 600;
+            font-size: 13px;
+            transition: all 0.2s;
+        }
+
+        .send-btn:hover {
+            background: #047857;
+        }
+
+        .suggestions {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 12px;
+        }
+
+        .suggestion-chip {
+            padding: 6px 12px;
+            background: white;
+            border-radius: 16px;
+            font-size: 12px;
+            color: #065f46;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .suggestion-chip:hover {
+            background: #d1fae5;
+            transform: translateY(-2px);
+        }
+
+        .quick-actions {
+            position: absolute;
+            right: 20px;
+            bottom: 100px;
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .quick-action {
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            background: white;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-size: 20px;
+        }
+
+        .quick-action:hover {
+            transform: scale(1.1);
+            box-shadow: 0 6px 20px rgba(0,0,0,0.2);
+        }
+
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.1);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: rgba(139, 92, 246, 0.5);
+            border-radius: 4px;
+        }
+
+        .chat-messages::-webkit-scrollbar-thumb {
+            background: rgba(5, 150, 105, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <div class="project-info">
+            <div class="project-logo">🏢</div>
+            <div class="project-details">
+                <h1>ЖК «Зеленая Долина» - Осенний запуск</h1>
+                <p>ГК «СтройИнвест» • ID: PRJ_2025_142</p>
+            </div>
+        </div>
+        <div class="project-status">
+            <div class="status-badge active">● Активна</div>
+            <div class="status-badge">Отчет: Октябрь 2025</div>
+            <div class="status-badge">Обновлен: Сегодня, 08:00</div>
+        </div>
+        <div class="user-section">
+            <div class="user-avatar">ИП</div>
+            <div>
+                <div style="font-size: 14px; font-weight: 600; color: #1a202c;">Игорь Петров</div>
+                <div style="font-size: 12px; color: #4a5568;">Analyst</div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="artifact-icon">📋</div>
+            <div class="artifact-icon">
+                ✓
+                <span class="icon-badge">5</span>
+            </div>
+            <div class="artifact-icon">👥</div>
+            <div class="artifact-icon">📝</div>
+            <div class="artifact-icon">📄</div>
+            <div class="artifact-icon">🎯</div>
+            <div class="artifact-icon">
+                💬
+                <span class="icon-badge">!</span>
+            </div>
+            <div class="artifact-icon">⚠️</div>
+            <div class="artifact-icon">📊</div>
+            <div class="artifact-icon">⚙️</div>
+            <div class="artifact-icon active">📈</div>
+            <div class="artifact-icon">💰</div>
+        </div>
+
+        <!-- Content Area -->
+        <div class="content">
+            <div class="report-header">
+                <div class="report-title">
+                    <span style="font-size: 36px;">📈</span>
+                    <div>
+                        <h2>Отчет по кампании</h2>
+                        <p style="font-size: 14px; color: #64748b; margin-top: 4px;">
+                            Период: 1 октября - 24 октября 2025
+                        </p>
+                    </div>
+                </div>
+                <div class="period-selector">
+                    <button class="period-btn">Неделя</button>
+                    <button class="period-btn active">Месяц</button>
+                    <button class="period-btn">Квартал</button>
+                    <button class="period-btn">Весь период</button>
+                </div>
+            </div>
+
+            <!-- KPI Cards -->
+            <div class="kpi-grid">
+                <div class="kpi-card">
+                    <div class="kpi-icon">👁️</div>
+                    <div class="kpi-label">Показы</div>
+                    <div class="kpi-value">8.5М</div>
+                    <div class="kpi-delta positive">↑ 12.5%</div>
+                </div>
+
+                <div class="kpi-card">
+                    <div class="kpi-icon">👆</div>
+                    <div class="kpi-label">Клики</div>
+                    <div class="kpi-value">127K</div>
+                    <div class="kpi-delta positive">↑ 8.3%</div>
+                </div>
+
+                <div class="kpi-card">
+                    <div class="kpi-icon">🎯</div>
+                    <div class="kpi-label">Лиды</div>
+                    <div class="kpi-value">187</div>
+                    <div class="kpi-delta positive">↑ 37%</div>
+                </div>
+
+                <div class="kpi-card">
+                    <div class="kpi-icon">📊</div>
+                    <div class="kpi-label">CTR</div>
+                    <div class="kpi-value">1.49%</div>
+                    <div class="kpi-delta negative">↓ 0.1%</div>
+                </div>
+
+                <div class="kpi-card">
+                    <div class="kpi-icon">💰</div>
+                    <div class="kpi-label">CPL</div>
+                    <div class="kpi-value">2,950₽</div>
+                    <div class="kpi-delta positive">↓ 5.2%</div>
+                </div>
+            </div>
+
+            <!-- Charts Section -->
+            <div class="charts-section">
+                <!-- Line Chart -->
+                <div class="chart-card">
+                    <div class="chart-title">
+                        📊 Динамика лидов по неделям
+                    </div>
+                    <div class="line-chart">
+                        <div class="chart-grid">
+                            <div class="grid-line"><span class="grid-label">50</span></div>
+                            <div class="grid-line"><span class="grid-label">40</span></div>
+                            <div class="grid-line"><span class="grid-label">30</span></div>
+                            <div class="grid-line"><span class="grid-label">20</span></div>
+                            <div class="grid-line"><span class="grid-label">10</span></div>
+                        </div>
+                        
+                        <div class="chart-area">
+                            <svg width="100%" height="100%" style="position: absolute; top: 0; left: 0;">
+                                <defs>
+                                    <linearGradient id="gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+                                        <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:0.8" />
+                                        <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:0" />
+                                    </linearGradient>
+                                </defs>
+                                <!-- Area fill -->
+                                <path class="chart-area-fill" d="M 0,180 L 0,80 L 150,60 L 300,70 L 450,50 L 600,180 Z" />
+                                <!-- Line stroke -->
+                                <path class="chart-area-stroke" d="M 0,80 L 150,60 L 300,70 L 450,50" />
+                                <!-- Points -->
+                                <circle cx="0" cy="80" r="6" fill="#8b5cf6" stroke="white" stroke-width="3" />
+                                <circle cx="150" cy="60" r="6" fill="#8b5cf6" stroke="white" stroke-width="3" />
+                                <circle cx="300" cy="70" r="6" fill="#8b5cf6" stroke="white" stroke-width="3" />
+                                <circle cx="450" cy="50" r="6" fill="#8b5cf6" stroke="white" stroke-width="3" />
+                            </svg>
+                        </div>
+                        
+                        <div class="x-axis">
+                            <span class="x-label">Неделя 1<br><small style="color: #cbd5e1;">40 лидов</small></span>
+                            <span class="x-label">Неделя 2<br><small style="color: #cbd5e1;">42 лида</small></span>
+                            <span class="x-label">Неделя 3<br><small style="color: #cbd5e1;">38 лидов</small></span>
+                            <span class="x-label">Неделя 4<br><small style="color: #cbd5e1;">45 лидов</small></span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pie Chart -->
+                <div class="chart-card">
+                    <div class="chart-title">
+                        🎯 Распределение лидов
+                    </div>
+                    <div class="pie-chart">
+                        <svg width="180" height="180" viewBox="0 0 180 180">
+                            <!-- VK - 32% -->
+                            <circle cx="90" cy="90" r="75" fill="none" stroke="#3b82f6" stroke-width="30"
+                                    stroke-dasharray="150.72 471.24" transform="rotate(-90 90 90)" />
+                            <!-- Yandex - 40% -->
+                            <circle cx="90" cy="90" r="75" fill="none" stroke="#fbbf24" stroke-width="30"
+                                    stroke-dasharray="188.4 471.24" stroke-dashoffset="-150.72" transform="rotate(-90 90 90)" />
+                            <!-- Google - 16% -->
+                            <circle cx="90" cy="90" r="75" fill="none" stroke="#4ade80" stroke-width="30"
+                                    stroke-dasharray="75.36 471.24" stroke-dashoffset="-339.12" transform="rotate(-90 90 90)" />
+                            <!-- myTarget - 12% -->
+                            <circle cx="90" cy="90" r="75" fill="none" stroke="#f87171" stroke-width="30"
+                                    stroke-dasharray="56.52 471.24" stroke-dashoffset="-414.48" transform="rotate(-90 90 90)" />
+                            <!-- Center text -->
+                            <text x="90" y="85" text-anchor="middle" font-size="32" font-weight="800" fill="#1a202c">187</text>
+                            <text x="90" y="105" text-anchor="middle" font-size="13" fill="#64748b">лидов</text>
+                        </svg>
+                    </div>
+                    <div class="pie-legend">
+                        <div class="legend-item">
+                            <div class="legend-label">
+                                <div class="legend-color" style="background: #fbbf24;"></div>
+                                Яндекс Директ
+                            </div>
+                            <div class="legend-value">75 (40%)</div>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-label">
+                                <div class="legend-color" style="background: #3b82f6;"></div>
+                                VK Реклама
+                            </div>
+                            <div class="legend-value">60 (32%)</div>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-label">
+                                <div class="legend-color" style="background: #4ade80;"></div>
+                                Google Ads
+                            </div>
+                            <div class="legend-value">30 (16%)</div>
+                        </div>
+                        <div class="legend-item">
+                            <div class="legend-label">
+                                <div class="legend-color" style="background: #f87171;"></div>
+                                myTarget
+                            </div>
+                            <div class="legend-value">22 (12%)</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- AI Insights -->
+            <div class="insights-section">
+                <div class="chart-title" style="margin-bottom: 16px;">
+                    🤖 AI Инсайты и рекомендации
+                </div>
+
+                <div class="insight-item positive">
+                    <div class="insight-icon">✅</div>
+                    <div class="insight-content">
+                        <div class="insight-title">Отличная динамика по лидам</div>
+                        <div class="insight-description">
+                            Количество лидов <span class="insight-metric">на 37% выше плана</span> (187 vs 136 по плану). 
+                            Особенно хорошо показывает себя неделя 4 с результатом <span class="insight-metric">45 лидов</span>.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="insight-item positive">
+                    <div class="insight-icon">💰</div>
+                    <div class="insight-content">
+                        <div class="insight-title">CPL ниже плана</div>
+                        <div class="insight-description">
+                            Средний CPL составляет <span class="insight-metric">2,950 ₽</span>, что на 5.2% ниже планового 
+                            значения 3,000 ₽. Экономия составляет около <span class="insight-metric">50 ₽ на каждом лиде</span>.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="insight-item warning">
+                    <div class="insight-icon">⚠️</div>
+                    <div class="insight-content">
+                        <div class="insight-title">Google Ads требует оптимизации</div>
+                        <div class="insight-description">
+                            CPL в Google Ads <span class="insight-metric">на 27% выше</span> среднего по кампании 
+                            (3,800 ₽ vs 2,950 ₽). Рекомендуется пересмотреть таргетинги или перераспределить бюджет.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="insight-item positive">
+                    <div class="insight-icon">🎯</div>
+                    <div class="insight-content">
+                        <div class="insight-title">VK Реклама - лучший канал</div>
+                        <div class="insight-description">
+                            VK показывает лучший CPL <span class="insight-metric">2,850 ₽</span> и высокий объем лидов (32% от общего числа). 
+                            Рекомендуется увеличить бюджет на <span class="insight-metric">15-20%</span>.
+                        </div>
+                    </div>
+                </div>
+
+                <div class="insight-item warning">
+                    <div class="insight-icon">📉</div>
+                    <div class="insight-content">
+                        <div class="insight-title">Небольшое снижение CTR</div>
+                        <div class="insight-description">
+                            CTR снизился на <span class="insight-metric">0.1%</span> до 1.49%. Это может быть связано с 
+                            усталостью креативов. Рекомендуется обновить баннеры и объявления.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Chat Assistant -->
+        <div class="chat-assistant">
+            <div class="chat-header">
+                <h3>🤖 AI Ассистент</h3>
+                <p style="font-size: 12px; color: #065f46; margin-top: 4px;">Контекст: Отчет по кампании</p>
+            </div>
+
+            <div class="chat-messages">
+                <div class="message">
+                    <div class="message-avatar">🤖</div>
+                    <div class="message-content">
+                        <div class="message-bubble">
+                            <div class="message-text">
+                                Здравствуйте, Игорь! Я проанализировал отчет за октябрь. Отличные результаты! 🎉
+                            </div>
+                        </div>
+                        <div class="message-time">08:00</div>
+                    </div>
+                </div>
+
+                <div class="message">
+                    <div class="message-avatar">🤖</div>
+                    <div class="message-content">
+                        <div class="message-bubble">
+                            <div class="message-text">
+                                <strong>📊 Ключевые достижения:</strong><br><br>
+                                1. Лиды: <strong style="color: #10b981;">+37% к плану</strong> (187 vs 136)<br>
+                                2. CPL: <strong style="color: #10b981;">-5.2%</strong> от планового (экономия 9,350 ₽)<br>
+                                3. VK Реклама показывает лучший результат<br>
+                                4. Стабильный рост по неделям<br><br>
+                                
+                                <strong style="color: #f59e0b;">⚠️ Требует внимания:</strong><br>
+                                • Google Ads: CPL на 27% выше среднего<br>
+                                • CTR немного снизился (-0.1%)
+                            </div>
+                        </div>
+                        <div class="message-actions">
+                            <button class="action-btn">💡 Рекомендации</button>
+                            <button class="action-btn">📄 Экспорт отчета</button>
+                        </div>
+                        <div class="message-time">08:01</div>
+                    </div>
+                </div>
+
+                <div class="message">
+                    <div class="message-avatar" style="background: linear-gradient(135deg, #10b981 0%, #059669 100%); color: white;">ИП</div>
+                    <div class="message-content">
+                        <div class="message-bubble" style="background: #f0f9ff;">
+                            <div class="message-text">
+                                Отлично! Давай подробнее про рекомендации по оптимизации Google Ads.
+                            </div>
+                        </div>
+                        <div class="message-time">08:03</div>
+                    </div>
+                </div>
+
+                <div class="message">
+                    <div class="message-avatar">🤖</div>
+                    <div class="message-content">
+                        <div class="message-bubble">
+                            <div class="message-text">
+                                <strong>🎯 Рекомендации по Google Ads:</strong><br><br>
+                                
+                                <strong>1. Краткосрочные действия:</strong><br>
+                                • Пересмотреть ключевые слова (отключить дорогие)<br>
+                                • Усилить негативные ключевики<br>
+                                • Обновить объявления (текущие имеют низкий CTR)<br><br>
+                                
+                                <strong>2. Среднесрочные:</strong><br>
+                                • Снизить бюджет Google Ads на 30%<br>
+                                • Перераспределить на VK (+20%)<br>
+                                • Ожидаемый эффект: +15 лидов, -180K ₽ на CPL<br><br>
+                                
+                                <strong>3. Альтернатива:</strong><br>
+                                Можем полностью приостановить Google Ads и перенести бюджет на VK и Яндекс.
+                            </div>
+                        </div>
+                        <div class="message-actions">
+                            <button class="action-btn">📊 Смоделировать сценарий</button>
+                            <button class="action-btn">✓ Создать план действий</button>
+                        </div>
+                        <div class="message-time">08:04</div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Actions -->
+            <div class="quick-actions">
+                <div class="quick-action" title="Экспорт">📥</div>
+                <div class="quick-action" title="Презентация">📊</div>
+                <div class="quick-action" title="Email клиенту">✉️</div>
+                <div class="quick-action" title="Задачи">✓</div>
+            </div>
+
+            <div class="chat-input">
+                <div class="suggestions">
+                    <div class="suggestion-chip">📊 Прогноз на ноябрь</div>
+                    <div class="suggestion-chip">💰 Сравнить с бюджетом</div>
+                    <div class="suggestion-chip">🎯 Детали по каналам</div>
+                </div>
+                <div class="input-wrapper">
+                    <input type="text" placeholder="Задайте вопрос об отчете...">
+                    <button class="send-btn">Отправить</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+

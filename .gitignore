@@ -180,3 +180,10 @@ _*.txt
 # Медиакиты
 mediakit's/
 
+# Организованные рабочие файлы (не для GitHub)
+_REPORTS/
+_RESEARCH/
+_WORK_FILES/
+_MEDIA/
+_TEMP/
+

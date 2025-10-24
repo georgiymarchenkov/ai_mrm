@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_socialjet.pro__прямой_cpp_",
+  "name": "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+  "site": "Socialjet.pro (Прямой_CPP)",
+  "website_url": "https://Socialjet.pro (Прямой_CPP)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+  "holding": "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+      "seller": "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+      "site_meta": "Socialjet.pro (Прямой_CPP)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+        "N.bunkin@preroll.ru Николай Бункин; Evgeny Zhurakovskiy ze@telespot.app\n ",
+        "Socialjet.pro (Прямой_CPP)",
+        "Socialjet.pro (Прямой_CPP)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "Socialjet.pro (прямой, с НДС)",
+        "Socialjet.pro (прямой, с НДС)",
+        "Socialjet.pro (Прямой_CPF)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

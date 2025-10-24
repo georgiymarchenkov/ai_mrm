@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_slickjump.com__прямой___с_ндс",
+  "name": "SlickJump",
+  "site": "SlickJump.com (прямой), с НДС",
+  "website_url": "https://SlickJump.com (прямой), с НДС",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "SlickJump",
+  "holding": "SlickJump",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "SlickJump",
+      "seller": "SlickJump",
+      "site_meta": "SlickJump.com (прямой), с НДС",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "SlickJump",
+        "SlickJump",
+        "SlickJump.com (прямой), с НДС",
+        "SlickJump.com (прямой), с НДС",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "sh ( Шаг в руб., до НДС):\nОт 50 000 - 10%\nОт 100 000 - 11%\nОт 200 000 - 12%\nОт 350 000 - 14%\nОт 500 000 - 16%\nОт 1 млн. - Индивидуальное согласование\n",
+        "ООО \"СликДжамп\"",
+        "ООО \"СликДжамп\"",
+        "готовы рассматривать индивидуальные условия под отдельных рекламодателей, например отмену сезонника под хороший бюджет",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

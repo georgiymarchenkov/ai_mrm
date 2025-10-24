@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_78.ru__s",
+  "name": "Msk1.ru TG канал (W)",
+  "site": "78.ru (S",
+  "website_url": "https://78.ru (S",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Msk1.ru TG канал (W)",
+  "holding": "Msk1.ru TG канал (W)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Msk1.ru TG канал (W)",
+      "seller": "Msk1.ru TG канал (W)",
+      "site_meta": "78.ru (S",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Msk1.ru TG канал (W)",
+        "Msk1.ru TG канал (W)",
+        "78.ru (S",
+        "78.ru (S",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

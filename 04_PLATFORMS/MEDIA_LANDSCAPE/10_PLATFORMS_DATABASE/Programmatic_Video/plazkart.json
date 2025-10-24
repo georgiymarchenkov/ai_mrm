@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_plazkart",
+  "name": "OLV",
+  "site": "Plazkart",
+  "website_url": "https://Plazkart",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "OLV",
+  "holding": "OLV",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "OLV",
+      "seller": "OLV",
+      "site_meta": "Plazkart",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "OLV",
+        "OLV",
+        "Plazkart",
+        "Plazkart",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Plazkart.ru (прямой)",
+        "Plazkart.ru (прямой)",
+        "ООО \"Плацкарт Диджитал\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

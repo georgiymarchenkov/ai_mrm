@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_production_-_кл._скидка_10___ск_10_",
+  "name": "eljur.ru (с НДС)",
+  "site": "Production - кл. скидка 10%, СК 10%",
+  "website_url": "https://Production - кл. скидка 10%, СК 10%",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "eljur.ru (с НДС)",
+  "holding": "eljur.ru (с НДС)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "eljur.ru (с НДС)",
+      "seller": "eljur.ru (с НДС)",
+      "site_meta": "Production - кл. скидка 10%, СК 10%",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "eljur.ru (с НДС)",
+        "eljur.ru (с НДС)",
+        "Production - кл. скидка 10%, СК 10%",
+        "Production - кл. скидка 10%, СК 10%",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_domclick",
+  "name": "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+  "site": "Domclick",
+  "website_url": "https://Domclick",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+  "holding": "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+      "seller": "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+      "site_meta": "Domclick.ru",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+        "Дмитрий Фёдоров <dmitriy.fedorov@medportal.ru>",
+        "Domclick",
+        "Domclick.ru",
+        "",
+        "да",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "от 45",
+        "domclick.ru",
+        "domclick.ru",
+        "45 рабочих дней с момента выставления счета",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

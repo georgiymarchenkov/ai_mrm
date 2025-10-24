@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_гк_медиакассир",
+  "name": "Мария Шабанова m.shabanova@salesinthe.city",
+  "site": "ГК Медиакассир",
+  "website_url": "https://ГК Медиакассир",
+  "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+  "seller": "Мария Шабанова m.shabanova@salesinthe.city",
+  "holding": "Мария Шабанова m.shabanova@salesinthe.city",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+      "holding": "Мария Шабанова m.shabanova@salesinthe.city",
+      "seller": "Мария Шабанова m.shabanova@salesinthe.city",
+      "site_meta": "ГК Медиакассир",
+      "full_row": [
+        "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+        "Мария Шабанова m.shabanova@salesinthe.city",
+        "Мария Шабанова m.shabanova@salesinthe.city",
+        "ГК Медиакассир",
+        "ГК Медиакассир",
+        "",
+        "да",
+        "RW",
+        "premium.estate",
+        "ООО \"МЕДИАКАССИР Маркет\"",
+        "j.poluektova@mediakassir.ru; r.shkuratova@mediakassir.ru Русана Шкуратова",
+        "frommillion.ru (прямой)",
+        "frommillion.ru (прямой)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

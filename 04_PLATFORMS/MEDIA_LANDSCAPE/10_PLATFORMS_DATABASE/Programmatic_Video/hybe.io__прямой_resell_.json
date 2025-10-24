@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_hybe.io__прямой_resell_",
+  "name": "Prmira.ru (S)",
+  "site": "Hybe.io (прямой_Resell)",
+  "website_url": "https://Hybe.io (прямой_Resell)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Prmira.ru (S)",
+  "holding": "Prmira.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Prmira.ru (S)",
+      "seller": "Prmira.ru (S)",
+      "site_meta": "Hybe.io (прямой_Resell)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Prmira.ru (S)",
+        "Prmira.ru (S)",
+        "Hybe.io (прямой_Resell)",
+        "Hybe.io (прямой_Resell)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Реселл: возвратная премия по шкале. \nдо 7млн - 5%\nдо 10млн - 6%\nдо 15млн - 7%\n",
+        "Реселл: возвратная премия по шкале. \nдо 7млн - 5%\nдо 10млн - 6%\nдо 15млн - 7%\n",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

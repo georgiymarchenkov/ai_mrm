@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_от_10",
+  "name": "Eapteka.ru",
+  "site": "от 10",
+  "website_url": "https://от 10",
+  "category": "Спорт",
+  "seller": "Eapteka.ru",
+  "holding": "Eapteka.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "Eapteka.ru",
+      "seller": "Eapteka.ru",
+      "site_meta": "от 10",
+      "full_row": [
+        "Спорт",
+        "Eapteka.ru",
+        "Eapteka.ru",
+        "от 10",
+        "от 10",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "45.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

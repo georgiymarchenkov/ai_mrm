@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__азф_интеллект__",
+  "name": "marketcall.ru",
+  "site": "ООО \"АЗФ Интеллект\" ",
+  "website_url": "https://ООО \"АЗФ Интеллект\" ",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "marketcall.ru",
+  "holding": "marketcall.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "marketcall.ru",
+      "seller": "marketcall.ru",
+      "site_meta": "ООО \"АЗФ Интеллект\" ",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "marketcall.ru",
+        "marketcall.ru",
+        "ООО \"АЗФ Интеллект\" ",
+        "ООО \"АЗФ Интеллект\" ",
+        "да",
+        "",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Mediatoday.ru",
+        "Mediatoday.ru",
+        "l.potapova@marketcall.ru Людмила Потапова, k.savelev@marketcall.ru Кирилл Савелев",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

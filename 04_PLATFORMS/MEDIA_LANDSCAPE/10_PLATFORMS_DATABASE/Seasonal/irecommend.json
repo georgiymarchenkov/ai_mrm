@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_irecommend",
+  "name": "Naydikvartiru.ru",
+  "site": "Irecommend",
+  "website_url": "https://Irecommend",
+  "category": "полугодие",
+  "seller": "Naydikvartiru.ru",
+  "holding": "Naydikvartiru.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "Naydikvartiru.ru",
+      "seller": "Naydikvartiru.ru",
+      "site_meta": "",
+      "full_row": [
+        "полугодие",
+        "Naydikvartiru.ru",
+        "Naydikvartiru.ru",
+        "Irecommend",
+        "",
+        "voxexchange.io (прямой)",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "RW",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "45.0",
+        "Irecommend.ru (S)",
+        "Irecommend.ru (S)",
+        "ООО \"РЕКОММЕНДЕР\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

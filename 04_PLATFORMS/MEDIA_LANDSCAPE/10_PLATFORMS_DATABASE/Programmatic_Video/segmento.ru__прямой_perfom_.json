@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_segmento.ru__прямой_perfom_",
+  "name": "Марина Исаенко  <isaenko@segmento.ru>",
+  "site": "segmento.ru (прямой_perfom)",
+  "website_url": "https://segmento.ru (прямой_perfom)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Марина Исаенко  <isaenko@segmento.ru>",
+  "holding": "Марина Исаенко  <isaenko@segmento.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Марина Исаенко  <isaenko@segmento.ru>",
+      "seller": "Марина Исаенко  <isaenko@segmento.ru>",
+      "site_meta": "",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Марина Исаенко  <isaenko@segmento.ru>",
+        "Марина Исаенко  <isaenko@segmento.ru>",
+        "segmento.ru (прямой_perfom)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Перфоманс",
+        "Перфоманс",
+        "Mosohvat",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_баннеры_и_видеореклама_-_ск_25__продакшн___ск_0_",
+  "name": "Sber device (Index20)",
+  "site": "Баннеры и видеореклама - СК 25%\nПродакшн – СК 0%",
+  "website_url": "https://Баннеры и видеореклама - СК 25%\nПродакшн – СК 0%",
+  "category": "Техника, Электроника",
+  "seller": "Sber device (Index20)",
+  "holding": "Sber device (Index20)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Sber device (Index20)",
+      "seller": "Sber device (Index20)",
+      "site_meta": "Баннеры и видеореклама - СК 25%\nПродакшн – СК 0%",
+      "full_row": [
+        "Техника, Электроника",
+        "Sber device (Index20)",
+        "Sber device (Index20)",
+        "Баннеры и видеореклама - СК 25%\nПродакшн – СК 0%",
+        "Баннеры и видеореклама - СК 25%\nПродакшн – СК 0%",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gomobile_cpi",
+  "name": "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+  "site": "Gomobile CPI",
+  "website_url": "https://Gomobile CPI",
+  "category": "Техника, Электроника",
+  "seller": "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+  "holding": "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+      "seller": "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+      "site_meta": "Gomobile CPI",
+      "full_row": [
+        "Техника, Электроника",
+        "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+        "Vladimir Volkov <vladimir.volkov@gomobile.ru>, Dmitry Miroshnichenko <dmitry@gomobile.ru>",
+        "Gomobile CPI",
+        "Gomobile CPI",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "ООО \"ВК\"",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

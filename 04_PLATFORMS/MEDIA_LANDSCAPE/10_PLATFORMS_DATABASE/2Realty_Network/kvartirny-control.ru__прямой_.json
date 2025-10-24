@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kvartirny-control.ru__прямой_",
+  "name": "m.lev@realty3d.ru Михаил Левченко",
+  "site": "Kvartirny-control.ru (прямой)",
+  "website_url": "https://Kvartirny-control.ru (прямой)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "m.lev@realty3d.ru Михаил Левченко",
+  "holding": "m.lev@realty3d.ru Михаил Левченко",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "m.lev@realty3d.ru Михаил Левченко",
+      "seller": "m.lev@realty3d.ru Михаил Левченко",
+      "site_meta": "Kvartirny-control.ru (прямой)",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "m.lev@realty3d.ru Михаил Левченко",
+        "m.lev@realty3d.ru Михаил Левченко",
+        "Kvartirny-control.ru (прямой)",
+        "Kvartirny-control.ru (прямой)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "ООО «3Д Медиа»",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

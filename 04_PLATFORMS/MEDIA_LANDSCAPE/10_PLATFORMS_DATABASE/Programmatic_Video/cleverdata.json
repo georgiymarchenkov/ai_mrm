@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cleverdata",
+  "name": "Дмитрий Павлов dapavlov@domclick.ru",
+  "site": "Cleverdata",
+  "website_url": "https://Cleverdata",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Дмитрий Павлов dapavlov@domclick.ru",
+  "holding": "Дмитрий Павлов dapavlov@domclick.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Дмитрий Павлов dapavlov@domclick.ru",
+      "seller": "Дмитрий Павлов dapavlov@domclick.ru",
+      "site_meta": "Cleverdata",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Дмитрий Павлов dapavlov@domclick.ru",
+        "Дмитрий Павлов dapavlov@domclick.ru",
+        "Cleverdata",
+        "Cleverdata",
+        "да",
+        "да",
+        "RW",
+        "нет",
+        "Cleverdata.ru",
+        "15 рабочих дней с момента подписания Акта",
+        "ООО \"Клевер Дата\"",
+        "ООО \"Клевер Дата\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

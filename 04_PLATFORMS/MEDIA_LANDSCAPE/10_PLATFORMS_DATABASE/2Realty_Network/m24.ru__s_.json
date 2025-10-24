@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_m24.ru__s_",
+  "name": "78.0",
+  "site": "M24.ru (S)",
+  "website_url": "https://M24.ru (S)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "78.0",
+  "holding": "78.0",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "78.0",
+      "seller": "78.0",
+      "site_meta": "segmento.ru",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "78.0",
+        "78.0",
+        "M24.ru (S)",
+        "segmento.ru",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

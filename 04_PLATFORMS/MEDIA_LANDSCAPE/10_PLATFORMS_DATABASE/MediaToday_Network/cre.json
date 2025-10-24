@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cre",
+  "name": "Sbermarket.ru (прямой)",
+  "site": "CRE",
+  "website_url": "https://CRE",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Sbermarket.ru (прямой)",
+  "holding": "Sbermarket.ru (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Sbermarket.ru (прямой)",
+      "seller": "Sbermarket.ru (прямой)",
+      "site_meta": "CRE",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Sbermarket.ru (прямой)",
+        "Sbermarket.ru (прямой)",
+        "CRE",
+        "CRE",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "30.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

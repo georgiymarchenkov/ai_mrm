@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_пакеты__апдейт_прайса_в_марте_2024",
+  "name": "Novostroy-m.ru (Пакеты, Mediapronet)",
+  "site": "пакеты, апдейт прайса в марте 2024",
+  "website_url": "https://пакеты, апдейт прайса в марте 2024",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Novostroy-m.ru (Пакеты, Mediapronet)",
+  "holding": "Novostroy-m.ru (Пакеты, Mediapronet)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Novostroy-m.ru (Пакеты, Mediapronet)",
+      "seller": "Novostroy-m.ru (Пакеты, Mediapronet)",
+      "site_meta": "пакеты, апдейт прайса в марте 2024",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Novostroy-m.ru (Пакеты, Mediapronet)",
+        "Novostroy-m.ru (Пакеты, Mediapronet)",
+        "пакеты, апдейт прайса в марте 2024",
+        "пакеты, апдейт прайса в марте 2024",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "Foxible",
+        "Foxible",
+        "Foxible.ru (прямой)",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

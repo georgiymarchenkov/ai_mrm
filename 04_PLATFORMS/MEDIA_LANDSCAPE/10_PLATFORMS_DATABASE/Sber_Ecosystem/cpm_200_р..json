@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cpm_200_р.",
+  "name": "CPM 200 р.",
+  "site": "CPM 200 р.",
+  "website_url": "https://CPM 200 р.",
+  "category": "Sber",
+  "seller": "CPM 200 р.",
+  "holding": "CPM 200 р.",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "CPM 200 р.",
+      "seller": "CPM 200 р.",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "CPM 200 р.",
+        "CPM 200 р.",
+        "CPM 200 р.",
+        "",
+        "нет",
+        "нет",
+        "RW",
+        "Rg.ru",
+        "нет",
+        "на согласовании",
+        "CPM 200 р.",
+        "CPM 200 р.",
+        ">",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_beeline.ru__прямой_dr_",
+  "name": "Chips-journal",
+  "site": "Beeline.ru (Прямой_DR)",
+  "website_url": "https://Beeline.ru (Прямой_DR)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Chips-journal",
+  "holding": "Chips-journal",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Chips-journal",
+      "seller": "Chips-journal",
+      "site_meta": "Beeline.ru (Прямой_DR)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Chips-journal",
+        "Chips-journal",
+        "Beeline.ru (Прямой_DR)",
+        "Beeline.ru (Прямой_DR)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "30 календарных дней с момента окончания о тчетного периода",
+        "30 календарных дней с момента окончания о тчетного периода",
+        "Динамический ретаргетинг. Full service. СК 10-20% в зависимости от клиента.",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

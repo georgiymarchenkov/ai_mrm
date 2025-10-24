@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_рассчитывается_под_проект_командой_новые_медиа__но_не_более_35_",
+  "name": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+  "site": "рассчитывается под проект командой Новые Медиа, но не более 35%",
+  "website_url": "https://рассчитывается под проект командой Новые Медиа, но не более 35%",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+  "holding": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+      "seller": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+      "site_meta": "рассчитывается под проект командой Новые Медиа, но не более 35%",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+        "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+        "рассчитывается под проект командой Новые Медиа, но не более 35%",
+        "рассчитывается под проект командой Новые Медиа, но не более 35%",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "Retrofm.ru (Mediaplus)",
+        "Newradio.ru (Mediaplus)",
+        "Newradio.ru (Mediaplus)",
+        "\nЕлизавета Васильева lizabl93@mail.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

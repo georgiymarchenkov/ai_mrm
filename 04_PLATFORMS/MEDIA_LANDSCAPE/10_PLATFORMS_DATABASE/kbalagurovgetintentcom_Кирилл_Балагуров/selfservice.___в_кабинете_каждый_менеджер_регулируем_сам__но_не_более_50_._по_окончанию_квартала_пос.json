@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_selfservice.___в_кабинете_каждый_менеджер_регулируем_сам__но_не_более_50_._по_окончанию_квартала_после_сверки_выводится_средний___ск.",
+  "name": "GetIntent rtb",
+  "site": "Selfservice. % в кабинете каждый менеджер регулируем сам, но не более 50%. По окончанию квартала после сверки выводится средний % СК.",
+  "website_url": "https://Selfservice. % в кабинете каждый менеджер регулируем сам, но не более 50%. По окончанию квартала после сверки выводится средний % СК.",
+  "category": "kbalagurov@getintent.com Кирилл Балагуров",
+  "seller": "GetIntent rtb",
+  "holding": "GetIntent rtb",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "kbalagurov@getintent.com Кирилл Балагуров",
+      "holding": "GetIntent rtb",
+      "seller": "GetIntent rtb",
+      "site_meta": "Selfservice. % в кабинете каждый менеджер регулируем сам, но не более 50%. По окончанию квартала после сверки выводится средний % СК.",
+      "full_row": [
+        "kbalagurov@getintent.com Кирилл Балагуров",
+        "GetIntent rtb",
+        "GetIntent rtb",
+        "Selfservice. % в кабинете каждый менеджер регулируем сам, но не более 50%. По окончанию квартала после сверки выводится средний % СК.",
+        "Selfservice. % в кабинете каждый менеджер регулируем сам, но не более 50%. По окончанию квартала после сверки выводится средний % СК.",
+        "да",
+        "да",
+        "RW",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "да",
+        "90.0",
+        "Под отдельные договоренности",
+        "Под отдельные договоренности",
+        "Burda",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

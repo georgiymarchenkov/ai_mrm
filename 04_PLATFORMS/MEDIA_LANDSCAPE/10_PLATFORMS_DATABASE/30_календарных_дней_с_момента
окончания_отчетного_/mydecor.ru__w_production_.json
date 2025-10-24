@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_mydecor.ru__w_production_",
+  "name": "исключения",
+  "site": "Mydecor.ru (W_production)",
+  "website_url": "https://Mydecor.ru (W_production)",
+  "category": "30 календарных дней с момента\nокончания отчетного периода.",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "30 календарных дней с момента\nокончания отчетного периода.",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "Mydecor.ru (W_production)",
+      "full_row": [
+        "30 календарных дней с момента\nокончания отчетного периода.",
+        "исключения",
+        "исключения",
+        "Mydecor.ru (W_production)",
+        "Mydecor.ru (W_production)",
+        "Yabbi.me (прямой)",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Отзывы, Ответы",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_dorognoe.ru__mediaplus_",
+  "name": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+  "site": "Dorognoe.ru (Mediaplus)",
+  "website_url": "https://Dorognoe.ru (Mediaplus)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+  "holding": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+      "seller": "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+      "site_meta": "Dorognoe.ru (Mediaplus)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+        "Prokosheva Marina <M.Prokosheva@mediaplus.ru>",
+        "Dorognoe.ru (Mediaplus)",
+        "Dorognoe.ru (Mediaplus)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "Retrofm.ru (Mediaplus)",
+        "Newradio.ru (Mediaplus)",
+        "Newradio.ru (Mediaplus)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

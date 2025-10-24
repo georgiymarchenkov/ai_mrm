@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_vgtimes.ru__s_",
+  "name": "vgtimes",
+  "site": "vgtimes.ru (S)",
+  "website_url": "https://vgtimes.ru (S)",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "vgtimes",
+  "holding": "vgtimes",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "vgtimes",
+      "seller": "vgtimes",
+      "site_meta": "vgtimes.ru (S)",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "vgtimes",
+        "vgtimes",
+        "vgtimes.ru (S)",
+        "vgtimes.ru (S)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "на согласовании",
+        "Atol",
+        "Atol",
+        "Atol.ru (прямой)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

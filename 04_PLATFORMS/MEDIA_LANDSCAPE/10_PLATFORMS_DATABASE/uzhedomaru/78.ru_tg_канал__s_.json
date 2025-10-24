@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_78.ru_tg_канал__s_",
+  "name": "78.ru TG канал (S)",
+  "site": "78.ru TG канал (S)",
+  "website_url": "https://78.ru TG канал (S)",
+  "category": "uzhedoma.ru",
+  "seller": "78.ru TG канал (S)",
+  "holding": "78.ru TG канал (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "78.ru TG канал (S)",
+      "seller": "78.ru TG канал (S)",
+      "site_meta": "78.ru TG канал (S)",
+      "full_row": [
+        "uzhedoma.ru",
+        "78.ru TG канал (S)",
+        "78.ru TG канал (S)",
+        "78.ru TG канал (S)",
+        "78.ru TG канал (S)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

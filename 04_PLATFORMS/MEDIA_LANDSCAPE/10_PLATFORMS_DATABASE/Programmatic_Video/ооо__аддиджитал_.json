@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__аддиджитал_",
+  "name": "Hybe.io (прямой_Self)",
+  "site": "ООО \"Аддиджитал\"",
+  "website_url": "https://ООО \"Аддиджитал\"",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Hybe.io (прямой_Self)",
+  "holding": "Hybe.io (прямой_Self)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Hybe.io (прямой_Self)",
+      "seller": "Hybe.io (прямой_Self)",
+      "site_meta": "ООО \"Аддиджитал\"",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Hybe.io (прямой_Self)",
+        "Hybe.io (прямой_Self)",
+        "ООО \"Аддиджитал\"",
+        "ООО \"Аддиджитал\"",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "65.0",
+        "Addigital",
+        "Addigital",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

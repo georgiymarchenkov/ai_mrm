@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_megamarket.ru__прямой_",
+  "name": "megamarket.ru (прямой)",
+  "site": "megamarket.ru (прямой)",
+  "website_url": "https://megamarket.ru (прямой)",
+  "category": "Sber",
+  "seller": "megamarket.ru (прямой)",
+  "holding": "megamarket.ru (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "megamarket.ru (прямой)",
+      "seller": "megamarket.ru (прямой)",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "megamarket.ru (прямой)",
+        "megamarket.ru (прямой)",
+        "megamarket.ru (прямой)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "",
+        "",
+        "",
+        "45 календарных дней с момента окончания отчетного периода",
+        "45 календарных дней с момента окончания отчетного периода",
+        "ООО \"Инстамарт Сервис\"",
+        "Носков Александр aleksandr.noskov@sbermarket.ru"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

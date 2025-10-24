@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__хит_медиа_",
+  "name": "Hitmedia.pro ( прямой) ",
+  "site": "ООО \"ХИТ МЕДИА\"",
+  "website_url": "https://ООО \"ХИТ МЕДИА\"",
+  "category": "Hitmedia",
+  "seller": "Hitmedia.pro ( прямой) ",
+  "holding": "Hitmedia.pro ( прямой) ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Hitmedia",
+      "holding": "Hitmedia.pro ( прямой) ",
+      "seller": "Hitmedia.pro ( прямой) ",
+      "site_meta": "ООО \"ХИТ МЕДИА\"",
+      "full_row": [
+        "Hitmedia",
+        "Hitmedia.pro ( прямой) ",
+        "Hitmedia.pro ( прямой) ",
+        "ООО \"ХИТ МЕДИА\"",
+        "ООО \"ХИТ МЕДИА\"",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Лидогенерация. Стоимость для клиента формируем на нашей стороне",
+        "Dmitry Stepashin stepashin@hitmedia.pro; \nMarat Yagofarov yagofarov@hitmedia.pro",
+        "Dmitry Stepashin stepashin@hitmedia.pro; \nMarat Yagofarov yagofarov@hitmedia.pro",
+        "Мода, Лайфстайл",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

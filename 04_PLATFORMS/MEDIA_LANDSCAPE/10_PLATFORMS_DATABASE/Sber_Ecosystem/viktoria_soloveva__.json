@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_viktoria_soloveva__",
+  "name": "15%-20%",
+  "site": "Viktoria Soloveva <",
+  "website_url": "https://Viktoria Soloveva <",
+  "category": "Sber",
+  "seller": "15%-20%",
+  "holding": "15%-20%",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "15%-20%",
+      "seller": "15%-20%",
+      "site_meta": "Viktoria Soloveva <",
+      "full_row": [
+        "Sber",
+        "15%-20%",
+        "15%-20%",
+        "Viktoria Soloveva <",
+        "Viktoria Soloveva <",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "v.soloveva@cleverdata.ru",
+        "v.soloveva@cleverdata.ru",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

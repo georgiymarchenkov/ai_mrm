@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_likeni.ru",
+  "name": "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+  "site": "likeni.ru",
+  "website_url": "https://likeni.ru",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+  "holding": "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+      "seller": "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+      "site_meta": "likeni.ru",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+        "рассылка  Likeni.ru+m.seonews.ru ( пакет)",
+        "likeni.ru",
+        "likeni.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "likeni.ru (S)",
+        "likeni.ru (S)",
+        "seonews.ru",
+        "20.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

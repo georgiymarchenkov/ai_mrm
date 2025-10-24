@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_spletnik.ru__прямой_",
+  "name": "Forumhouse.ru (без НДС)",
+  "site": "Spletnik.ru (прямой)",
+  "website_url": "https://Spletnik.ru (прямой)",
+  "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+  "seller": "Forumhouse.ru (без НДС)",
+  "holding": "Forumhouse.ru (без НДС)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+      "holding": "Forumhouse.ru (без НДС)",
+      "seller": "Forumhouse.ru (без НДС)",
+      "site_meta": "Spletnik.ru (прямой)",
+      "full_row": [
+        "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+        "Forumhouse.ru (без НДС)",
+        "Forumhouse.ru (без НДС)",
+        "Spletnik.ru (прямой)",
+        "Spletnik.ru (прямой)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "sh ( Шаг в руб., до НДС):\nОт 50 000 - 10%\nОт 100 000 - 11%\nОт 200 000 - 12%\nОт 350 000 - 14%\nОт 500 000 - 16%\nОт 1 млн. - Индивидуальное согласование\n",
+        "!всегда учитывать 15% сверх накрута !",
+        "!всегда учитывать 15% сверх накрута !",
+        "предоплата ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

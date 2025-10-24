@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_frommillion.ru__mediakassir_call_",
+  "name": "arendator.ru (S)",
+  "site": "frommillion.ru (Mediakassir_call)",
+  "website_url": "https://frommillion.ru (Mediakassir_call)",
+  "category": "uzhedoma.ru",
+  "seller": "arendator.ru (S)",
+  "holding": "arendator.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "arendator.ru (S)",
+      "seller": "arendator.ru (S)",
+      "site_meta": "frommillion.ru (Mediakassir_call)",
+      "full_row": [
+        "uzhedoma.ru",
+        "arendator.ru (S)",
+        "arendator.ru (S)",
+        "frommillion.ru (Mediakassir_call)",
+        "frommillion.ru (Mediakassir_call)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "пакет Likeni.ru+m.seonews.ru (S)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

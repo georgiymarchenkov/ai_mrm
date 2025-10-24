@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_adsource",
+  "name": "kubnews.ru (S)",
+  "site": "AdSource",
+  "website_url": "https://AdSource",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "kubnews.ru (S)",
+  "holding": "kubnews.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "kubnews.ru (S)",
+      "seller": "kubnews.ru (S)",
+      "site_meta": "AdSource",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "kubnews.ru (S)",
+        "kubnews.ru (S)",
+        "AdSource",
+        "AdSource",
+        "нет",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "AdSource.pro (прямой_Full)",
+        "AdSource.pro (прямой_Full)",
+        "ООО \"ЭДСОРС\" ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

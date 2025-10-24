@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_salesinthe.city__прямой_",
+  "name": "ЕТС-Agency",
+  "site": "Salesinthe.city (прямой)",
+  "website_url": "https://Salesinthe.city (прямой)",
+  "category": "Hitmedia",
+  "seller": "ЕТС-Agency",
+  "holding": "ЕТС-Agency",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Hitmedia",
+      "holding": "ЕТС-Agency",
+      "seller": "ЕТС-Agency",
+      "site_meta": "Salesinthe.city (прямой)",
+      "full_row": [
+        "Hitmedia",
+        "ЕТС-Agency",
+        "ЕТС-Agency",
+        "Salesinthe.city (прямой)",
+        "Salesinthe.city (прямой)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Natiscope",
+        "ООО \"СМАРТ Медиа Групп\"",
+        "ООО \"СМАРТ Медиа Групп\"",
+        "индивидуально",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

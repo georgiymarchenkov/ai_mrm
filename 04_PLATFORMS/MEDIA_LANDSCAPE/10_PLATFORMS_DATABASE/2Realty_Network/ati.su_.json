@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ati.su_",
+  "name": "Rostov.rbc.ru (S)",
+  "site": "ati.su ",
+  "website_url": "https://ati.su ",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Rostov.rbc.ru (S)",
+  "holding": "Rostov.rbc.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Rostov.rbc.ru (S)",
+      "seller": "Rostov.rbc.ru (S)",
+      "site_meta": "ati.su ",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Rostov.rbc.ru (S)",
+        "Rostov.rbc.ru (S)",
+        "ati.su ",
+        "ati.su ",
+        "",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "35-40",
+        "35-40",
+        "",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

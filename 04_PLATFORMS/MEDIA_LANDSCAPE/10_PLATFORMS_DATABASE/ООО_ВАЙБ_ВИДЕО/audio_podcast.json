@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_audio_podcast",
+  "name": "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+  "site": "Audio&Podcast",
+  "website_url": "https://Audio&Podcast",
+  "category": "ООО \"ВАЙБ ВИДЕО\"",
+  "seller": "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+  "holding": "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "ООО \"ВАЙБ ВИДЕО\"",
+      "holding": "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+      "seller": "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+      "site_meta": "Audio&Podcast",
+      "full_row": [
+        "ООО \"ВАЙБ ВИДЕО\"",
+        "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+        "Ekaterina Buzyka <ekaterina@vibevideo.ru>",
+        "Audio&Podcast",
+        "Audio&Podcast",
+        "",
+        "",
+        "RW",
+        "да",
+        "да",
+        "90.0",
+        "Unisound",
+        "Unisound",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

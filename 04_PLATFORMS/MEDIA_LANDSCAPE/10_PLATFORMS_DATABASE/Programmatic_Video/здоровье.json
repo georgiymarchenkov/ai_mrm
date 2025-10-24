@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_здоровье",
+  "name": "oksana.suvorova@digport.ru\nОксана Суворова",
+  "site": "Здоровье",
+  "website_url": "https://Здоровье",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "oksana.suvorova@digport.ru\nОксана Суворова",
+  "holding": "oksana.suvorova@digport.ru\nОксана Суворова",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "oksana.suvorova@digport.ru\nОксана Суворова",
+      "seller": "oksana.suvorova@digport.ru\nОксана Суворова",
+      "site_meta": "Здоровье",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "oksana.suvorova@digport.ru\nОксана Суворова",
+        "oksana.suvorova@digport.ru\nОксана Суворова",
+        "Здоровье",
+        "Здоровье",
+        "да",
+        "да",
+        "RW",
+        "",
+        "",
+        "",
+        "Medportal.ru",
+        "Medportal.ru",
+        "ООО \"Медпортал\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

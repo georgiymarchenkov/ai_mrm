@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_не_согласовали",
+  "name": "не согласовали",
+  "site": "не согласовали",
+  "website_url": "https://не согласовали",
+  "category": "Sber",
+  "seller": "не согласовали",
+  "holding": "не согласовали",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "не согласовали",
+      "seller": "не согласовали",
+      "site_meta": "не согласовали",
+      "full_row": [
+        "Sber",
+        "не согласовали",
+        "не согласовали",
+        "не согласовали",
+        "не согласовали",
+        "да",
+        "нет",
+        "RW",
+        "нет",
+        "нет",
+        "Bidfox",
+        "не согласовали",
+        "не согласовали",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

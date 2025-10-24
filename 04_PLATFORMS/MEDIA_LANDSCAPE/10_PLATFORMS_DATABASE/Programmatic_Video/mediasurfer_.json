@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_mediasurfer_",
+  "name": "Морозов Александр a.morozov@healthscanner.ru",
+  "site": "Mediasurfer ",
+  "website_url": "https://Mediasurfer ",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Морозов Александр a.morozov@healthscanner.ru",
+  "holding": "Морозов Александр a.morozov@healthscanner.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Морозов Александр a.morozov@healthscanner.ru",
+      "seller": "Морозов Александр a.morozov@healthscanner.ru",
+      "site_meta": "Mediasurfer ",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Морозов Александр a.morozov@healthscanner.ru",
+        "Морозов Александр a.morozov@healthscanner.ru",
+        "Mediasurfer ",
+        "Mediasurfer ",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "healthscanner.ru",
+        "healthscanner.ru",
+        "ООО \"Мобайл Партнер\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

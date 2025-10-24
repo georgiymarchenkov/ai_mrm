@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_astralab.ai",
+  "name": "Astra Lab",
+  "site": "Astralab.ai",
+  "website_url": "https://Astralab.ai",
+  "category": "Нативная реклама",
+  "seller": "Astra Lab",
+  "holding": "Astra Lab",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Нативная реклама",
+      "holding": "Astra Lab",
+      "seller": "Astra Lab",
+      "site_meta": "Astralab.ai",
+      "full_row": [
+        "Нативная реклама",
+        "Astra Lab",
+        "Astra Lab",
+        "Astralab.ai",
+        "Astralab.ai",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60/85",
+        "ООО \"Три\"",
+        "ООО \"Три\"",
+        "Рекомендуемый бюджет 150К в месяц, в идеале от 250К",
+        "20.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

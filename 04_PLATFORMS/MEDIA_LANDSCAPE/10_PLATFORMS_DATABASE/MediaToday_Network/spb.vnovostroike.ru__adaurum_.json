@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_spb.vnovostroike.ru__adaurum_",
+  "name": "ООО \"Фокс Диджитал\"",
+  "site": "spb.vnovostroike.ru (Adaurum)",
+  "website_url": "https://spb.vnovostroike.ru (Adaurum)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "ООО \"Фокс Диджитал\"",
+  "holding": "ООО \"Фокс Диджитал\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "ООО \"Фокс Диджитал\"",
+      "seller": "ООО \"Фокс Диджитал\"",
+      "site_meta": "spb.vnovostroike.ru (Adaurum)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "ООО \"Фокс Диджитал\"",
+        "ООО \"Фокс Диджитал\"",
+        "spb.vnovostroike.ru (Adaurum)",
+        "spb.vnovostroike.ru (Adaurum)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Алина Бурим alina@foxible.ru; Кирилл Суриков sk@foxible.ru",
+        "Алина Бурим alina@foxible.ru; Кирилл Суриков sk@foxible.ru",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

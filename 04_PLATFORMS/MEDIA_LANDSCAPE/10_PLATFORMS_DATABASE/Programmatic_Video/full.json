@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_full",
+  "name": "Upravel",
+  "site": "Full",
+  "website_url": "https://Full",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Upravel",
+  "holding": "Upravel",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Upravel",
+      "seller": "Upravel",
+      "site_meta": "Full",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Upravel",
+        "Upravel",
+        "Full",
+        "Full",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"АПРЕЙВЕЛ\"",
+        "ООО \"АПРЕЙВЕЛ\"",
+        "Заяц Татьяна <tanya@soloway.ru>; Евгений Ландарь <sales@soloway.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

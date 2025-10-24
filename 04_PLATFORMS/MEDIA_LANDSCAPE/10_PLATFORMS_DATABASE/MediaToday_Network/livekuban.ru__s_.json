@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_livekuban.ru__s_",
+  "name": "Livekuban",
+  "site": "livekuban.ru (S)",
+  "website_url": "https://livekuban.ru (S)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Livekuban",
+  "holding": "Livekuban",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Livekuban",
+      "seller": "Livekuban",
+      "site_meta": "livekuban.ru (S)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Livekuban",
+        "Livekuban",
+        "livekuban.ru (S)",
+        "livekuban.ru (S)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Realty.ru (прямой_call)",
+        "площадка  дает нам стоимость звонка, мы сверху закладываем СК",
+        "площадка  дает нам стоимость звонка, мы сверху закладываем СК",
+        "Uzhedoma",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

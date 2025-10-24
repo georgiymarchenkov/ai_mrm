@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_усн._cpa",
+  "name": " (прямой_call)",
+  "site": "УСН. CPA",
+  "website_url": "https://УСН. CPA",
+  "category": "uzhedoma.ru",
+  "seller": " (прямой_call)",
+  "holding": " (прямой_call)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": " (прямой_call)",
+      "seller": " (прямой_call)",
+      "site_meta": "УСН. CPA",
+      "full_row": [
+        "uzhedoma.ru",
+        " (прямой_call)",
+        " (прямой_call)",
+        "УСН. CPA",
+        "УСН. CPA",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

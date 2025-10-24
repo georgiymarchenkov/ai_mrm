@@ -1,0 +1,40 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_https___cloud.otclick.ru_f_b2d05c6ec0954510ad5f_",
+  "name": "https://cloud.otclick.ru/f/b2d05c6ec0954510ad5f/",
+  "site": "https://cloud.otclick.ru/f/b2d05c6ec0954510ad5f/",
+  "website_url": "https://cloud.otclick.ru/f/b2d05c6ec0954510ad5f/",
+  "category": "Онлайн кт Пиратка",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Онлайн кт Пиратка": {
+        "Площадка": "https://cloud.otclick.ru/f/b2d05c6ec0954510ad5f/",
+        "Формат": " (вторая вкладка)\n2) По умолчанию считают Cross-stream, за использование отдельно in-stream предусмотрена наценка (CPM mix OLV 350 руб, CPM in-stream 455 руб)\n3) По умолчанию считают не пропускаемое, но площадки оставляют за собой право принудительного наложения крестика закрытия ролика.\n4) Используют собственную DMP, DSP и свои SSP.\n5) Сезонных коэффициентов нет.",
+        "В какой контент встраивается?": "VOD пиратка",
+        "Платформа": "Desktop+mobile",
+        "Тип видео": "Cross-stream",
+        "Пропускаемое?": "Skippable",
+        "СРМ средн. \n(гео + соцдем)": "450.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "450.0",
+        "Ёмкость (уники) ": "7500000.0",
+        "VTR 15 сек": "0.75",
+        "Наценки за хроно": "Нет",
+        "Viewability, ср. %": "0.7",
+        "IVT, ср. %": "0.05",
+        "Комментарии": "Фулл",
+        "Яндекс.Маркет": "Otclick"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

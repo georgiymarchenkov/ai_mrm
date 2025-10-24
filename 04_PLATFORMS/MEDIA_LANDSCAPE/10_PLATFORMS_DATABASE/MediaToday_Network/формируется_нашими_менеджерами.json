@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_формируется_нашими_менеджерами",
+  "name": "ООО \"СПАРТА\"",
+  "site": "формируется нашими менеджерами",
+  "website_url": "https://формируется нашими менеджерами",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "ООО \"СПАРТА\"",
+  "holding": "ООО \"СПАРТА\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "ООО \"СПАРТА\"",
+      "seller": "ООО \"СПАРТА\"",
+      "site_meta": "формируется нашими менеджерами",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "ООО \"СПАРТА\"",
+        "ООО \"СПАРТА\"",
+        "формируется нашими менеджерами",
+        "формируется нашими менеджерами",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

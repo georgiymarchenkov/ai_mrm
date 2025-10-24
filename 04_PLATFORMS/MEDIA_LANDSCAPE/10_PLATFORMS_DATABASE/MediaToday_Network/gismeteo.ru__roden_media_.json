@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gismeteo.ru__roden_media_",
+  "name": "Антон Гринфельд <",
+  "site": "Gismeteo.ru (Roden media)",
+  "website_url": "https://Gismeteo.ru (Roden media)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Антон Гринфельд <",
+  "holding": "Антон Гринфельд <",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Антон Гринфельд <",
+      "seller": "Антон Гринфельд <",
+      "site_meta": "Gismeteo.ru (Roden media)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        "Gismeteo.ru (Roden media)",
+        "Gismeteo.ru (Roden media)",
+        "да",
+        "да",
+        "RW",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        ">",
+        "Spartak.msk.ru (Roden media)",
+        "Spartak.msk.ru (Roden media)",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

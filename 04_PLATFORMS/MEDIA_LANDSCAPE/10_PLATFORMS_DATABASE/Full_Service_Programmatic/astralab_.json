@@ -1,0 +1,39 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_astralab_",
+  "name": "Astralab ",
+  "site": "Astralab ",
+  "website_url": "https://Astralab ",
+  "category": "Фулл программ. с сегментами",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Фулл программ. с сегментами": {
+        "Площадка": "Astralab ",
+        "Формат": "AstraVideo, AstraVideo MAX",
+        "В какой контент встраивается?": "Микс",
+        "Платформа": "Комментарии (средний CTR)",
+        "Тип видео": "In-stream",
+        "Пропускаемое?": "Skippable",
+        "СРМ средн. \n(гео + соцдем)": "550.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "550.0",
+        "Ёмкость (уники) ": "4.0E7",
+        "VTR 15 сек": "0.5",
+        "Наценки за хроно": "нет",
+        "Viewability, ср. %": "OKKO",
+        "IVT, ср. %": "AstraVideo - 448 р\nAstraVideo MAX - 608 р",
+        "Комментарии": "AstraVideo VTR 70%,\nAstraVideo MAX VTR 50-60%"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

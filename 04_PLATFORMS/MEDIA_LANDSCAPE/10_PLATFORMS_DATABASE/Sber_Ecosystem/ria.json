@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ria",
+  "name": "info@era-agency.ru Влад",
+  "site": "Ria",
+  "website_url": "https://Ria",
+  "category": "Sber",
+  "seller": "info@era-agency.ru Влад",
+  "holding": "info@era-agency.ru Влад",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "info@era-agency.ru Влад",
+      "seller": "info@era-agency.ru Влад",
+      "site_meta": "Ria",
+      "full_row": [
+        "Sber",
+        "info@era-agency.ru Влад",
+        "info@era-agency.ru Влад",
+        "Ria",
+        "Ria",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "на согласовании",
+        "Ria.ru (прямой)",
+        "Ria.ru (прямой)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

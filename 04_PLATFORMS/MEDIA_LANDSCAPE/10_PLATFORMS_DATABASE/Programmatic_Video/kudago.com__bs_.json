@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kudago.com__bs_",
+  "name": "Kudago",
+  "site": "kudago.com (BS)",
+  "website_url": "https://kudago.com (BS)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Kudago",
+  "holding": "Kudago",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Kudago",
+      "seller": "Kudago",
+      "site_meta": "kudago.com (BS)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Kudago",
+        "Kudago",
+        "kudago.com (BS)",
+        "kudago.com (BS)",
+        "в пакете. Production - кл. скидка 10%, СК 10%",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "по шкале в прайсе",
+        "по шкале в прайсе",
+        "The-flow",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

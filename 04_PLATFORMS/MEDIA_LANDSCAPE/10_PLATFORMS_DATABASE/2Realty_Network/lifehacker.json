@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_lifehacker",
+  "name": "исключения",
+  "site": "Lifehacker",
+  "website_url": "https://Lifehacker",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "Lifehacker",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "исключения",
+        "исключения",
+        "Lifehacker",
+        "Lifehacker",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Lifehacker.ru",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

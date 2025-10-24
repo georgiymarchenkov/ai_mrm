@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_zenmobile.ru__прямой_",
+  "name": "ZenMobile",
+  "site": "zenmobile.ru (прямой)",
+  "website_url": "https://zenmobile.ru (прямой)",
+  "category": "Sber",
+  "seller": "ZenMobile",
+  "holding": "ZenMobile",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "ZenMobile",
+      "seller": "ZenMobile",
+      "site_meta": "zenmobile.ru (прямой)",
+      "full_row": [
+        "Sber",
+        "ZenMobile",
+        "ZenMobile",
+        "zenmobile.ru (прямой)",
+        "zenmobile.ru (прямой)",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "ООО \"Дзен Мобайл\"",
+        "Мин бюджет от 500к без НДС  в рамках одного клиента",
+        "Мин бюджет от 500к без НДС  в рамках одного клиента",
+        "Anastasiya Kirilevich <a.kirilevich@zenmobile.ru>",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

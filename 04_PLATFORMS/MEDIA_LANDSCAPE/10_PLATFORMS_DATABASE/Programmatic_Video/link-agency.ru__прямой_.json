@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_link-agency.ru__прямой_",
+  "name": "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+  "site": "Link-agency.ru (прямой)",
+  "website_url": "https://Link-agency.ru (прямой)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+  "holding": "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+      "seller": "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+      "site_meta": "Link-agency.ru (прямой)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+        "; Timofey Kochubinskiy <t.kochubinskiy@byyd.me>account, comminication https://t.me/Timofey; Anastasia Stepanova <a.stepanova@byyd.me>mobile group head https://t.me/nastya; \"BYYD.Mobile\" <mobile@byyd.me> общая координация, ничего не потеряется; docs@byyd.me - группа документооборота для сверок премий\n",
+        "Link-agency.ru (прямой)",
+        "Link-agency.ru (прямой)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "по шкале в прайсе",
+        "по шкале в прайсе",
+        "ООО \"Агентство Линк\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

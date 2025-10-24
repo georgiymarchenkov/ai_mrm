@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_programmatica.com",
+  "name": "Programmatica",
+  "site": "Programmatica.com",
+  "website_url": "https://Programmatica.com",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Programmatica",
+  "holding": "Programmatica",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Programmatica",
+      "seller": "Programmatica",
+      "site_meta": "Programmatica.com",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Programmatica",
+        "Programmatica",
+        "Programmatica.com",
+        "Programmatica.com",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

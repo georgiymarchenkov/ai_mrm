@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_кулинария",
+  "name": "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+  "site": "Кулинария",
+  "website_url": "https://Кулинария",
+  "category": "Sber",
+  "seller": "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+  "holding": "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+      "seller": "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+      "site_meta": "Кулинария",
+      "full_row": [
+        "Sber",
+        "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+        "Лариса Юстус l.yustus@ecompass.ru; Зоя Андреева zoya@e-contenta.com",
+        "Кулинария",
+        "Кулинария",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "Gastronom",
+        "Gastronom",
+        "gastronom.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

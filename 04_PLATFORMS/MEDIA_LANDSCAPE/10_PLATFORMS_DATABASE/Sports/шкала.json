@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_шкала",
+  "name": "Everest",
+  "site": "шкала",
+  "website_url": "https://шкала",
+  "category": "Спорт",
+  "seller": "Everest",
+  "holding": "Everest",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "Everest",
+      "seller": "Everest",
+      "site_meta": "шкала",
+      "full_row": [
+        "Спорт",
+        "Everest",
+        "Everest",
+        "шкала",
+        "шкала",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "ООО \"ЭВЕРЕСТ\"",
+        "Oleg Skorik <OSkorik@eve.rest>",
+        "Oleg Skorik <OSkorik@eve.rest>",
+        "Anatoly Korneev anatoly@xapads.com; mikhail@xapads.com Михаил Балакин; ekaterina@xapads.com Екатерина Галкина",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

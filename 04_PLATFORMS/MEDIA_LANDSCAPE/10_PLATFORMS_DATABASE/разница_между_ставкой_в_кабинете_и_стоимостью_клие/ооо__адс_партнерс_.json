@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__адс_партнерс_",
+  "name": "actionpay.net/ru-ru (Прямой)",
+  "site": "ООО \"Адс Партнерс\"",
+  "website_url": "https://ООО \"Адс Партнерс\"",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "actionpay.net/ru-ru (Прямой)",
+  "holding": "actionpay.net/ru-ru (Прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "actionpay.net/ru-ru (Прямой)",
+      "seller": "actionpay.net/ru-ru (Прямой)",
+      "site_meta": "СК от оборота выше 100 000р до ндс",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "actionpay.net/ru-ru (Прямой)",
+        "actionpay.net/ru-ru (Прямой)",
+        "ООО \"Адс Партнерс\"",
+        "СК от оборота выше 100 000р до ндс",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Андреева Анастасия <andreeva@actionpay.net>",
+        "Топ Бро",
+        "Топ Бро",
+        "Thefaces.ru (прямой)",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

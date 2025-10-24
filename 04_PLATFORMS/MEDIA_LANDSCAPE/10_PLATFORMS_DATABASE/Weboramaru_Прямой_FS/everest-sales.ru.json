@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_everest-sales.ru",
+  "name": "WCM Tracking (excl click) (прямой_New Clients)",
+  "site": "everest-sales.ru",
+  "website_url": "https://everest-sales.ru",
+  "category": "Weborama.ru (Прямой_FS)",
+  "seller": "WCM Tracking (excl click) (прямой_New Clients)",
+  "holding": "WCM Tracking (excl click) (прямой_New Clients)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Weborama.ru (Прямой_FS)",
+      "holding": "WCM Tracking (excl click) (прямой_New Clients)",
+      "seller": "WCM Tracking (excl click) (прямой_New Clients)",
+      "site_meta": "everest-sales.ru",
+      "full_row": [
+        "Weborama.ru (Прямой_FS)",
+        "WCM Tracking (excl click) (прямой_New Clients)",
+        "WCM Tracking (excl click) (прямой_New Clients)",
+        "everest-sales.ru",
+        "everest-sales.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

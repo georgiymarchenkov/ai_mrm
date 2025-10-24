@@ -1,0 +1,270 @@
+{
+  "$schema": "format_schema_v1",
+  "platform_id": "plt_vk_ads_001",
+  "platform_name": "VK Реклама",
+  "last_updated": "2025-10-24",
+  "formats": [
+    {
+      "id": "fmt_vk_feed_video_001",
+      "platform_id": "plt_vk_ads_001",
+      "code": "vk_feed_video",
+      "name": "Видео в ленте (адаптивный формат)",
+      "format_type": "video_instream",
+      "placement_type": "feed",
+      "specs": {
+        "video": {
+          "min_duration": 5,
+          "max_duration": 120,
+          "aspect_ratio": "16:9, 1:1, 9:16",
+          "is_skippable": false,
+          "skip_after": null,
+          "required_codecs": ["h264"],
+          "max_file_size_mb": 2048,
+          "resolutions": ["1280x720", "1920x1080"],
+          "fps": [24, 30],
+          "bitrate_kbps": {
+            "min": 1000,
+            "max": 10000,
+            "recommended": 4000
+          },
+          "audio_required": false,
+          "audio_codecs": ["aac", "mp3"]
+        }
+      },
+      "placement": {
+        "location": "news_feed",
+        "position": "inline",
+        "device_types": ["desktop", "mobile"]
+      },
+      "performance_benchmarks": {
+        "ctr_avg": 1.0,
+        "ctr_range": [0.5, 1.5],
+        "vtr_15s": 85,
+        "vtr_complete": 62,
+        "viewability_avg": 90,
+        "ivt_avg": 0.5,
+        "engagement_rate": 3.2
+      },
+      "features": {
+        "supports_animation": true,
+        "supports_html5": false,
+        "supports_interactive": true,
+        "allows_clickthrough": true,
+        "requires_moderation": true,
+        "moderation_time_hours": 4
+      },
+      "is_active": true,
+      "is_beta": false,
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "fmt_vk_stories_001",
+      "platform_id": "plt_vk_ads_001",
+      "code": "vk_stories",
+      "name": "Реклама в Историях",
+      "format_type": "stories",
+      "placement_type": "stories",
+      "specs": {
+        "video": {
+          "min_duration": 3,
+          "max_duration": 15,
+          "aspect_ratio": "9:16",
+          "is_skippable": true,
+          "skip_after": 3,
+          "required_codecs": ["h264"],
+          "max_file_size_mb": 1024,
+          "resolutions": ["1080x1920"],
+          "fps": [24, 30],
+          "bitrate_kbps": {
+            "min": 2000,
+            "max": 8000,
+            "recommended": 5000
+          },
+          "audio_required": false,
+          "audio_codecs": ["aac"]
+        }
+      },
+      "placement": {
+        "location": "stories",
+        "position": "fullscreen",
+        "device_types": ["mobile"]
+      },
+      "performance_benchmarks": {
+        "ctr_avg": 1.0,
+        "ctr_range": [0.8, 1.2],
+        "vtr_15s": 80,
+        "vtr_complete": 65,
+        "viewability_avg": 85,
+        "ivt_avg": 0.5,
+        "engagement_rate": 4.5
+      },
+      "features": {
+        "supports_animation": true,
+        "supports_html5": false,
+        "supports_interactive": true,
+        "allows_clickthrough": true,
+        "requires_moderation": true,
+        "moderation_time_hours": 4
+      },
+      "is_active": true,
+      "is_beta": false,
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "fmt_vk_carousel_001",
+      "platform_id": "plt_vk_ads_001",
+      "code": "vk_carousel",
+      "name": "Карусель в ленте",
+      "format_type": "carousel",
+      "placement_type": "feed",
+      "specs": {
+        "dimensions": {
+          "width": 1080,
+          "height": 1080,
+          "unit": "px"
+        },
+        "native": {
+          "title_max_length": 25,
+          "description_max_length": 90,
+          "image_required": true,
+          "image_specs": {
+            "width": 1080,
+            "height": 1080,
+            "formats": ["jpg", "png"]
+          }
+        }
+      },
+      "placement": {
+        "location": "news_feed",
+        "position": "inline",
+        "device_types": ["desktop", "mobile"]
+      },
+      "performance_benchmarks": {
+        "ctr_avg": 1.2,
+        "ctr_range": [0.8, 1.8],
+        "viewability_avg": 88,
+        "ivt_avg": 0.6,
+        "engagement_rate": 5.1
+      },
+      "features": {
+        "supports_animation": false,
+        "supports_html5": false,
+        "supports_interactive": true,
+        "allows_clickthrough": true,
+        "requires_moderation": true,
+        "moderation_time_hours": 4
+      },
+      "is_active": true,
+      "is_beta": false,
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "fmt_vk_universal_post_001",
+      "platform_id": "plt_vk_ads_001",
+      "code": "vk_universal_post",
+      "name": "Универсальная запись",
+      "format_type": "native",
+      "placement_type": "feed",
+      "specs": {
+        "dimensions": {
+          "width": 1080,
+          "height": 607,
+          "unit": "px"
+        },
+        "native": {
+          "title_max_length": 160,
+          "description_max_length": 220,
+          "image_required": true,
+          "image_specs": {
+            "width": 1080,
+            "height": 607,
+            "formats": ["jpg", "png"]
+          }
+        }
+      },
+      "placement": {
+        "location": "news_feed",
+        "position": "inline",
+        "device_types": ["desktop", "mobile"]
+      },
+      "performance_benchmarks": {
+        "ctr_avg": 0.8,
+        "ctr_range": [0.5, 1.2],
+        "viewability_avg": 90,
+        "ivt_avg": 0.5,
+        "engagement_rate": 2.8
+      },
+      "features": {
+        "supports_animation": false,
+        "supports_html5": false,
+        "supports_interactive": true,
+        "allows_clickthrough": true,
+        "requires_moderation": true,
+        "moderation_time_hours": 4
+      },
+      "is_active": true,
+      "is_beta": false,
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "fmt_vk_clips_001",
+      "platform_id": "plt_vk_ads_001",
+      "code": "vk_clips",
+      "name": "Реклама в Клипах",
+      "format_type": "video_instream",
+      "placement_type": "feed",
+      "specs": {
+        "video": {
+          "min_duration": 5,
+          "max_duration": 60,
+          "aspect_ratio": "9:16",
+          "is_skippable": true,
+          "skip_after": 5,
+          "required_codecs": ["h264"],
+          "max_file_size_mb": 1024,
+          "resolutions": ["1080x1920"],
+          "fps": [24, 30, 60],
+          "bitrate_kbps": {
+            "min": 2000,
+            "max": 10000,
+            "recommended": 5000
+          },
+          "audio_required": false,
+          "audio_codecs": ["aac"]
+        }
+      },
+      "placement": {
+        "location": "clips",
+        "position": "fullscreen",
+        "device_types": ["mobile"]
+      },
+      "performance_benchmarks": {
+        "ctr_avg": 2.0,
+        "ctr_range": [1.2, 3.5],
+        "vtr_15s": 75,
+        "vtr_complete": 45,
+        "viewability_avg": 95,
+        "ivt_avg": 0.3,
+        "engagement_rate": 6.5
+      },
+      "features": {
+        "supports_animation": true,
+        "supports_html5": false,
+        "supports_interactive": true,
+        "allows_clickthrough": true,
+        "requires_moderation": true,
+        "moderation_time_hours": 4
+      },
+      "is_active": true,
+      "is_beta": true,
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z"
+    }
+  ],
+  "total_formats": 5
+}
+

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_пакет_men__independent_media_w_",
+  "name": "ngs.ru (W)",
+  "site": "Пакет Men (Independent Media_W)",
+  "website_url": "https://Пакет Men (Independent Media_W)",
+  "category": "Нативная реклама",
+  "seller": "ngs.ru (W)",
+  "holding": "ngs.ru (W)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Нативная реклама",
+      "holding": "ngs.ru (W)",
+      "seller": "ngs.ru (W)",
+      "site_meta": "Пакет Men (Independent Media_W)",
+      "full_row": [
+        "Нативная реклама",
+        "ngs.ru (W)",
+        "ngs.ru (W)",
+        "Пакет Men (Independent Media_W)",
+        "Пакет Men (Independent Media_W)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "Пакет Woman (Independent Media_W)",
+        "thesymbol.ru (W)",
+        "thesymbol.ru (W)",
+        "DP",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

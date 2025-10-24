@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_pravilamag.ru__w__бывший_esquire_",
+  "name": "исключения",
+  "site": "Pravilamag.ru (W)(бывший Esquire)",
+  "website_url": "https://Pravilamag.ru (W)(бывший Esquire)",
+  "category": "Fontanka.ru (W)",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Fontanka.ru (W)",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "Pravilamag.ru (W)(бывший Esquire)",
+      "full_row": [
+        "Fontanka.ru (W)",
+        "исключения",
+        "исключения",
+        "Pravilamag.ru (W)(бывший Esquire)",
+        "Pravilamag.ru (W)(бывший Esquire)",
+        "нет",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Pravilamag.ru (W)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

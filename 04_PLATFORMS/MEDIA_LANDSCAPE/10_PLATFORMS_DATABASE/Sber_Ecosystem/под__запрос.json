@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_под__запрос",
+  "name": "Drive2.ru (S)",
+  "site": "под  запрос",
+  "website_url": "https://под  запрос",
+  "category": "Sber",
+  "seller": "под  запрос",
+  "holding": "Drive2.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Drive2.ru (S)",
+      "seller": "под  запрос",
+      "site_meta": "Аполлонов Николай nikolay@adindex.ru",
+      "full_row": [
+        "Sber",
+        "Drive2.ru (S)",
+        "под  запрос",
+        "под  запрос",
+        "Аполлонов Николай nikolay@adindex.ru",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "Bidfox",
+        "под  запрос",
+        "под  запрос",
+        "Bidfox.ru (прямой)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

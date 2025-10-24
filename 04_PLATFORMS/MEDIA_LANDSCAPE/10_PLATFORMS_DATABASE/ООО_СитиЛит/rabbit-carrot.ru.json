@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_rabbit-carrot.ru",
+  "name": "Наталия Серебрянникова <sn@toptraffic.ru>; Екатерина Тимонина <et@toptraffic.ru> Татьяна Лисовская <tatiana_lisovskaya@toptraffic.ru",
+  "site": "Rabbit-carrot.ru",
+  "website_url": "https://Rabbit-carrot.ru",
+  "category": "ООО \"СитиЛит\"",
+  "seller": "Rabbit&Carrot",
+  "holding": "Наталия Серебрянникова <sn@toptraffic.ru>; Екатерина Тимонина <et@toptraffic.ru> Татьяна Лисовская <tatiana_lisovskaya@toptraffic.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "ООО \"СитиЛит\"",
+      "holding": "Наталия Серебрянникова <sn@toptraffic.ru>; Екатерина Тимонина <et@toptraffic.ru> Татьяна Лисовская <tatiana_lisovskaya@toptraffic.ru",
+      "seller": "Rabbit&Carrot",
+      "site_meta": "Rabbit-carrot.ru",
+      "full_row": [
+        "ООО \"СитиЛит\"",
+        "Наталия Серебрянникова <sn@toptraffic.ru>; Екатерина Тимонина <et@toptraffic.ru> Татьяна Лисовская <tatiana_lisovskaya@toptraffic.ru",
+        "Rabbit&Carrot",
+        "Rabbit-carrot.ru",
+        "Rabbit-carrot.ru",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "30.0",
+        "Reforum.ru (прямой_call)",
+        "ООО \"Рэббит\"",
+        "",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

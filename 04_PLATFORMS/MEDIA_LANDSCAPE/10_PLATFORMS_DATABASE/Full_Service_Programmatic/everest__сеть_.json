@@ -1,0 +1,39 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_everest__сеть_",
+  "name": "Everest (сеть)",
+  "site": "Everest (сеть)",
+  "website_url": "https://Everest (сеть)",
+  "category": "Фулл программ. с сегментами",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Фулл программ. с сегментами": {
+        "Площадка": "Everest (сеть)",
+        "Формат": "SberSeller (сеть)",
+        "В какой контент встраивается?": "WL",
+        "Платформа": "Desktop+mobile",
+        "Тип видео": "Cross-stream",
+        "Пропускаемое?": "Skippable",
+        "СРМ средн. \n(гео + соцдем)": "351.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "351.0",
+        "Ёмкость (уники) ": "1.5E8",
+        "VTR 15 сек": "0.5",
+        "Наценки за хроно": "нет",
+        "Viewability, ср. %": "ALL in-stream",
+        "IVT, ср. %": "GIVT - 2% / SIVT - 10%",
+        "Комментарии": "Digital Alliance (сеть)"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

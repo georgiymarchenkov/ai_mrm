@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_pikabu.ru",
+  "name": "Pikabu",
+  "site": "pikabu.ru",
+  "website_url": "https://pikabu.ru",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Pikabu",
+  "holding": "Pikabu",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Pikabu",
+      "seller": "Pikabu",
+      "site_meta": "pikabu.ru",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Pikabu",
+        "Pikabu",
+        "pikabu.ru",
+        "pikabu.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 календарных дней с момента предоставления закрывающих документов",
+        "60 календарных дней с момента предоставления закрывающих документов",
+        "ООО \"Пикабу\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

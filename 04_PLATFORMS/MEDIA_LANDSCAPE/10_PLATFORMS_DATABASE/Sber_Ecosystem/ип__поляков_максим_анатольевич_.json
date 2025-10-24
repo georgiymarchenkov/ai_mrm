@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ип__поляков_максим_анатольевич_",
+  "name": "GOHA.ru (S)",
+  "site": "ИП \"Поляков Максим Анатольевич\"",
+  "website_url": "https://ИП \"Поляков Максим Анатольевич\"",
+  "category": "Sber",
+  "seller": "GOHA.ru (S)",
+  "holding": "GOHA.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "GOHA.ru (S)",
+      "seller": "GOHA.ru (S)",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "GOHA.ru (S)",
+        "GOHA.ru (S)",
+        "ИП \"Поляков Максим Анатольевич\"",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "30.0",
+        "Forward Media Group",
+        "Forward Media Group",
+        "HELLO.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

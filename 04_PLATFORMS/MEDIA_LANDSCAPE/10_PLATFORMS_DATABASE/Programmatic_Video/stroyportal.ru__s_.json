@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_stroyportal.ru__s_",
+  "name": "ООО \"Мобильная Реклама\"",
+  "site": "stroyportal.ru (S)",
+  "website_url": "https://stroyportal.ru (S)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "ООО \"Мобильная Реклама\"",
+  "holding": "ООО \"Мобильная Реклама\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "ООО \"Мобильная Реклама\"",
+      "seller": "ООО \"Мобильная Реклама\"",
+      "site_meta": "stroyportal.ru (S)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "ООО \"Мобильная Реклама\"",
+        "ООО \"Мобильная Реклама\"",
+        "stroyportal.ru (S)",
+        "stroyportal.ru (S)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "s.lavrinenko@byyd.me mobile manager ",
+        "https://t.me/sergey",
+        "https://t.me/sergey",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

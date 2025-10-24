@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_toptraffic.ru",
+  "name": "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+  "site": "Toptraffic.ru",
+  "website_url": "https://Toptraffic.ru",
+  "category": "imedia.ru (прямой)",
+  "seller": "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+  "holding": "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "imedia.ru (прямой)",
+      "holding": "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+      "seller": "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+      "site_meta": "Toptraffic.ru",
+      "full_row": [
+        "imedia.ru (прямой)",
+        "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+        "Мария Беляева mb@cbonds.info +7(812)336-97-21*111",
+        "Toptraffic.ru",
+        "Toptraffic.ru",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "TopTraffic (прямой)",
+        "",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

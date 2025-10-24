@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_миа__россия_сегодня___риа_новости_",
+  "name": "Константин Карпенко kkarpenko@andata.ru",
+  "site": "МИА «Россия сегодня» (РИА Новости)",
+  "website_url": "https://МИА «Россия сегодня» (РИА Новости)",
+  "category": "Техника, Электроника",
+  "seller": "Otclick-adv",
+  "holding": "Константин Карпенко kkarpenko@andata.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Константин Карпенко kkarpenko@andata.ru",
+      "seller": "Otclick-adv",
+      "site_meta": "МИА «Россия сегодня» (РИА Новости)",
+      "full_row": [
+        "Техника, Электроника",
+        "Константин Карпенко kkarpenko@andata.ru",
+        "Otclick-adv",
+        "МИА «Россия сегодня» (РИА Новости)",
+        "МИА «Россия сегодня» (РИА Новости)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "ООО \"ВК\"",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

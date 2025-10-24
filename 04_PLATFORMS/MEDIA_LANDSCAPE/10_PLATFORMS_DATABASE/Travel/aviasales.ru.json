@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_aviasales.ru",
+  "name": "Aviasales",
+  "site": "aviasales.ru",
+  "website_url": "https://aviasales.ru",
+  "category": "Путешествия",
+  "seller": "Aviasales",
+  "holding": "Aviasales",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Путешествия",
+      "holding": "Aviasales",
+      "seller": "Aviasales",
+      "site_meta": "aviasales.ru",
+      "full_row": [
+        "Путешествия",
+        "Aviasales",
+        "Aviasales",
+        "aviasales.ru",
+        "aviasales.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "в приложении ",
+        "ООО \"Авиасейлс медиа\"",
+        "ООО \"Авиасейлс медиа\"",
+        "Скидки и СК действуют по всем клиентам кроме S7. СК не распространяется на продакшен,призы и  с пэйд сошл, если это спецпроект, а так же на размещения клиентов с кем площадка работала напрямую",
+        "Шкала без НДС на одну РК:\n500,000 ₽  - 5%\n1 500 000 ₽ - 10%\n3 000 000 ₽ - 15%\n4 500 000 ₽ - 20%\n7 000 000 ₽ - 30%"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

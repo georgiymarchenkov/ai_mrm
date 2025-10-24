@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_admile.ru",
+  "name": "AdMile",
+  "site": "AdMile.ru",
+  "website_url": "https://AdMile.ru",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "AdMile",
+  "holding": "AdMile",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "AdMile",
+      "seller": "AdMile",
+      "site_meta": "AdMile.ru (прямой_production)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "AdMile",
+        "AdMile",
+        "AdMile.ru",
+        "AdMile.ru (прямой_production)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО «ЭД МАЙЛ»",
+        "ООО «ЭД МАЙЛ»",
+        "Минимальных порогов по бюджетам нет, но для реализации качественной рк (чтобы сохранялось поле для оптимизации), лучше не опускаться примерно ниже 150-200к \n",
+        "15.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

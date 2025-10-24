@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__интерэктив_сервисез_",
+  "name": "VideoNetwork (DA)",
+  "site": "ООО \"Интерэктив сервисез\"",
+  "website_url": "https://ООО \"Интерэктив сервисез\"",
+  "category": "Sber",
+  "seller": "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+  "holding": "VideoNetwork (DA)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "VideoNetwork (DA)",
+      "seller": "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+      "site_meta": "ООО \"Интерэктив сервисез\"",
+      "full_row": [
+        "Sber",
+        "VideoNetwork (DA)",
+        "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+        "ООО \"Интерэктив сервисез\"",
+        "ООО \"Интерэктив сервисез\"",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "МФЦ медиа",
+        "МФЦ медиа",
+        "За условиями обращаться в трейдинг к  Юле Омашевой omasheva@realweb.ru и Оле Захаровой o.zaharova@realweb.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

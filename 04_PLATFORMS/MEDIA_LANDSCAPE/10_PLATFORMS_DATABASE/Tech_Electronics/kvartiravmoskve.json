@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kvartiravmoskve",
+  "name": "Roomfi.ru",
+  "site": "Kvartiravmoskve",
+  "website_url": "https://Kvartiravmoskve",
+  "category": "Техника, Электроника",
+  "seller": "Roomfi.ru",
+  "holding": "Roomfi.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Roomfi.ru",
+      "seller": "Roomfi.ru",
+      "site_meta": "",
+      "full_row": [
+        "Техника, Электроника",
+        "Roomfi.ru",
+        "Roomfi.ru",
+        "Kvartiravmoskve",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "45.0",
+        "Kvartiravmoskve.ru (S)",
+        "Kvartiravmoskve.ru (S)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

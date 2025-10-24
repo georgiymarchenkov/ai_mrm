@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_bidease.com__прямой_retargeting_",
+  "name": "Yulia Baranova <yu_baranova@bidease.com>",
+  "site": "Bidease.com (Прямой_Retargeting)",
+  "website_url": "https://Bidease.com (Прямой_Retargeting)",
+  "category": "uzhedoma.ru",
+  "seller": "Yulia Baranova <yu_baranova@bidease.com>",
+  "holding": "Yulia Baranova <yu_baranova@bidease.com>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "Yulia Baranova <yu_baranova@bidease.com>",
+      "seller": "Yulia Baranova <yu_baranova@bidease.com>",
+      "site_meta": "Bidease.com (Прямой_Retargeting)",
+      "full_row": [
+        "uzhedoma.ru",
+        "Yulia Baranova <yu_baranova@bidease.com>",
+        "Yulia Baranova <yu_baranova@bidease.com>",
+        "Bidease.com (Прямой_Retargeting)",
+        "Bidease.com (Прямой_Retargeting)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

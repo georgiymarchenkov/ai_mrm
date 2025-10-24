@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_videonetwork_mobile__da_",
+  "name": "VideoNetwork (DA)",
+  "site": "VideoNetwork Mobile (DA)",
+  "website_url": "https://VideoNetwork Mobile (DA)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+  "holding": "VideoNetwork (DA)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "VideoNetwork (DA)",
+      "seller": "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+      "site_meta": "VideoNetwork Mobile (DA)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "VideoNetwork (DA)",
+        "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+        "VideoNetwork Mobile (DA)",
+        "VideoNetwork Mobile (DA)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Ixbt",
+        "Ixbt",
+        "Ixbt.com",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

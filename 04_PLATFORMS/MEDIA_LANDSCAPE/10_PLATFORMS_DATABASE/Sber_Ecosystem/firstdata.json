@@ -1,0 +1,63 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_firstdata",
+  "name": "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+  "site": "FirstData",
+  "website_url": "https://FirstData",
+  "category": "Sber",
+  "seller": "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+  "holding": "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+  "data_sources": [
+    "rw_reestr",
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+      "seller": "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+      "site_meta": "Firstdata.io",
+      "full_row": [
+        "Sber",
+        "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+        "Элвин Музаффарли  elvin@pikabu.ru\nВолчек Евгений ev@pikabu.ru",
+        "FirstData",
+        "Firstdata.io",
+        "",
+        "нет",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "на согласовании",
+        "ООО \"ФЕРСТ ДАТА\"",
+        "ООО \"ФЕРСТ ДАТА\"",
+        "СК ",
+        ""
+      ]
+    },
+    "olv": {
+      "Фулл программ. с сегментами": {
+        "Площадка": "Firstdata",
+        "Формат": "1) Размещаются в Яндексе и ВК реклама. Можно настроить Black List нежелательных категорий.\n2) По умолчанию считают out-stream, т.к. in-stream получается в 3 раза дороже, примерно 870 руб. Готовы обсуждать снижение CPM под запрос/бриф.\n3) Работают только с пропускным видео.\n4) Используют данные Онлайн-касс (Атол, Эвотор); ОФД (СКБ Контур, Ярус, Петер Сервис, Атол, Платформа ОФД, 1 ОФД, Taxcom).\n5) Сезонных коэффициентов нет. ",
+        "В какой контент встраивается?": "Микс",
+        "Платформа": "Desktop+mobile",
+        "Тип видео": "Cross-stream",
+        "Пропускаемое?": "Skippable",
+        "СРМ средн. \n(гео + соцдем)": "240.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "240.0",
+        "Ёмкость (уники) ": "1.0E8",
+        "VTR 15 сек": "0.7",
+        "Наценки за хроно": "нет",
+        "Viewability, ср. %": "Redllama instream",
+        "IVT, ср. %": "Red Digital",
+        "Комментарии": "Video"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_samokat.ru__index20_",
+  "name": "Megamarket.ru (Index20)",
+  "site": "Samokat.ru (Index20)",
+  "website_url": "https://Samokat.ru (Index20)",
+  "category": "Спорт",
+  "seller": "Megamarket.ru (Index20)",
+  "holding": "Megamarket.ru (Index20)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "Megamarket.ru (Index20)",
+      "seller": "Megamarket.ru (Index20)",
+      "site_meta": "Samokat.ru (Index20)",
+      "full_row": [
+        "Спорт",
+        "Megamarket.ru (Index20)",
+        "Megamarket.ru (Index20)",
+        "Samokat.ru (Index20)",
+        "Samokat.ru (Index20)",
+        "нет",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

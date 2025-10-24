@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ichip.ru__прямой_",
+  "name": "7dach.ru (прямой)",
+  "site": "Ichip.ru (Прямой)",
+  "website_url": "https://Ichip.ru (Прямой)",
+  "category": "полугодие",
+  "seller": "7dach.ru (прямой)",
+  "holding": "7dach.ru (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "7dach.ru (прямой)",
+      "seller": "7dach.ru (прямой)",
+      "site_meta": "Ichip.ru (Прямой)",
+      "full_row": [
+        "полугодие",
+        "7dach.ru (прямой)",
+        "7dach.ru (прямой)",
+        "Ichip.ru (Прямой)",
+        "Ichip.ru (Прямой)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "OX CAPITAL",
+        "OX CAPITAL",
+        "60 календарных дней после старта РК",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

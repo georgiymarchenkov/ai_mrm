@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_drive",
+  "name": "2gis.ru (S)",
+  "site": "Drive",
+  "website_url": "https://Drive",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "2gis.ru (S)",
+  "holding": "2gis.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "2gis.ru (S)",
+      "seller": "2gis.ru (S)",
+      "site_meta": "",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "2gis.ru (S)",
+        "2gis.ru (S)",
+        "Drive",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Заурбек Заоев zaur@targetads.io, slava@targetads.io",
+        "Независимый эксперт",
+        "Независимый эксперт",
+        "оплата в течении трех дней после выхода ролика",
+        "25.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

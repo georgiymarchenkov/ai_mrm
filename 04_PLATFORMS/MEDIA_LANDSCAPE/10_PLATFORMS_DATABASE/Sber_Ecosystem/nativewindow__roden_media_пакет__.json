@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_nativewindow__roden_media_пакет__",
+  "name": ">",
+  "site": "NativeWindow (Roden media пакет)\n",
+  "website_url": "https://NativeWindow (Roden media пакет)\n",
+  "category": "Sber",
+  "seller": ">",
+  "holding": ">",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": ">",
+      "seller": ">",
+      "site_meta": "NativeWindow (Roden media пакет)\n",
+      "full_row": [
+        "Sber",
+        ">",
+        ">",
+        "NativeWindow (Roden media пакет)\n",
+        "NativeWindow (Roden media пакет)\n",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        "a.grinfeld@roden-media.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

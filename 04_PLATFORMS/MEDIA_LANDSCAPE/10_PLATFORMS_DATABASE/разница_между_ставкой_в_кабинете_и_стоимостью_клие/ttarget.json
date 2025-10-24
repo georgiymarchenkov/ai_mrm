@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ttarget",
+  "name": "Антон anton@alivestud.io",
+  "site": "Ttarget",
+  "website_url": "https://Ttarget",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Антон anton@alivestud.io",
+  "holding": "Антон anton@alivestud.io",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Антон anton@alivestud.io",
+      "seller": "Антон anton@alivestud.io",
+      "site_meta": "Ttarget",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Антон anton@alivestud.io",
+        "Антон anton@alivestud.io",
+        "Ttarget",
+        "Ttarget",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "ttarget.ru",
+        "ttarget.ru",
+        "прописывается в приложениях",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

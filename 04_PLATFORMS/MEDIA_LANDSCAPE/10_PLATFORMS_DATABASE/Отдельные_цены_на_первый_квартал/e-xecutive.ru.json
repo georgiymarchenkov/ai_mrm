@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_e-xecutive.ru",
+  "name": "e-xecutive",
+  "site": "e-xecutive.ru",
+  "website_url": "https://e-xecutive.ru",
+  "category": "Отдельные цены на первый квартал:",
+  "seller": "e-xecutive",
+  "holding": "e-xecutive",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Отдельные цены на первый квартал:",
+      "holding": "e-xecutive",
+      "seller": "e-xecutive",
+      "site_meta": "",
+      "full_row": [
+        "Отдельные цены на первый квартал:",
+        "e-xecutive",
+        "e-xecutive",
+        "e-xecutive.ru",
+        "",
+        "да",
+        "да",
+        "RW",
+        "Rg.ru",
+        "Rg.ru",
+        "Rg.ru",
+        "Novikovtv",
+        "Novikovtv",
+        "Novikovtv.tv(S)",
+        "30.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

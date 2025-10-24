@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_verticalsmart_client__w_",
+  "name": "исключения",
+  "site": "VerticalSmart Client (W)",
+  "website_url": "https://VerticalSmart Client (W)",
+  "category": "Спорт",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "VerticalSmart Client (W)",
+      "full_row": [
+        "Спорт",
+        "исключения",
+        "исключения",
+        "VerticalSmart Client (W)",
+        "VerticalSmart Client (W)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Vokrugsveta.ru (W)",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

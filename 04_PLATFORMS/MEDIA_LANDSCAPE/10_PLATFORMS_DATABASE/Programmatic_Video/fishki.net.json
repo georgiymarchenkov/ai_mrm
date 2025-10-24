@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_fishki.net",
+  "name": "Fishki",
+  "site": "Fishki.net",
+  "website_url": "https://Fishki.net",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Fishki",
+  "holding": "Fishki",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Fishki",
+      "seller": "Fishki",
+      "site_meta": "Fishki.net",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Fishki",
+        "Fishki",
+        "Fishki.net",
+        "Fishki.net",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "определяется в приложениях",
+        "ООО \"Эдлайнер\"",
+        "ООО \"Эдлайнер\"",
+        "Мин бюджет 50 000 р без НДС",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

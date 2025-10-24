@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gpp.network",
+  "name": "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+  "site": "Gpp.network",
+  "website_url": "https://Gpp.network",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+  "holding": "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+      "seller": "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+      "site_meta": "Gpp.network",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+        "Баринова Ольга Сергеевна  barinovaos@gdeetotdom.ru",
+        "Gpp.network",
+        "Gpp.network",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "Gpp.network (прямой)",
+        "Gpp.network (прямой)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

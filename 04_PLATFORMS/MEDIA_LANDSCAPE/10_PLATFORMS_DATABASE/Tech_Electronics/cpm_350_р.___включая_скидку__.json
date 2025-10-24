@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cpm_350_р.___включая_скидку__",
+  "name": "Vievo.ru (DA)",
+  "site": "CPM 350 р. ( включая скидку, ",
+  "website_url": "https://CPM 350 р. ( включая скидку, ",
+  "category": "Техника, Электроника",
+  "seller": "Vievo.ru (DA)",
+  "holding": "Vievo.ru (DA)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Vievo.ru (DA)",
+      "seller": "Vievo.ru (DA)",
+      "site_meta": "CPM 350 р. ( включая скидку, ",
+      "full_row": [
+        "Техника, Электроника",
+        "Vievo.ru (DA)",
+        "Vievo.ru (DA)",
+        "CPM 350 р. ( включая скидку, ",
+        "CPM 350 р. ( включая скидку, ",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "сезонник, гео",
+        ",интересы, ",
+        ",интересы, ",
+        "соц- дем",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

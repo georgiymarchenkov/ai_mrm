@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_likee__go_mobile_",
+  "name": "Социальные сети",
+  "site": "Likee (Go Mobile)",
+  "website_url": "https://Likee (Go Mobile)",
+  "category": "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+  "seller": "Социальные сети",
+  "holding": "Социальные сети",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+      "holding": "Социальные сети",
+      "seller": "Социальные сети",
+      "site_meta": "Likee (Go Mobile)",
+      "full_row": [
+        "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+        "Социальные сети",
+        "Социальные сети",
+        "Likee (Go Mobile)",
+        "Likee (Go Mobile)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "Likee (bidind campaigns) СК 30%, Likee (brand campagins)  СК 15% (Это СК на медийные кампании и ХШЧ.)",
+        "15%-30%"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

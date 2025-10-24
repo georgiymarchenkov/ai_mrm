@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_otclick-adv.ru__прямой_пс_",
+  "name": "Otclick-adv",
+  "site": "Otclick-adv.ru (прямой_ПС)",
+  "website_url": "https://Otclick-adv.ru (прямой_ПС)",
+  "category": "Станислав Токарев s.tokarev@otclick.ru; Алексей Голованов a.golovanov@otclick-adv.ru; a.evteev@otclick.ru, n.volodin@otclick.ru; e.zavyalova@otclick.ru;",
+  "seller": "Otclick-adv",
+  "holding": "Otclick-adv",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Станислав Токарев s.tokarev@otclick.ru; Алексей Голованов a.golovanov@otclick-adv.ru; a.evteev@otclick.ru, n.volodin@otclick.ru; e.zavyalova@otclick.ru;",
+      "holding": "Otclick-adv",
+      "seller": "Otclick-adv",
+      "site_meta": "Otclick-adv.ru (прямой_ПС)",
+      "full_row": [
+        "Станислав Токарев s.tokarev@otclick.ru; Алексей Голованов a.golovanov@otclick-adv.ru; a.evteev@otclick.ru, n.volodin@otclick.ru; e.zavyalova@otclick.ru;",
+        "Otclick-adv",
+        "Otclick-adv",
+        "Otclick-adv.ru (прямой_ПС)",
+        "Otclick-adv.ru (прямой_ПС)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "ООО \"ВК\"",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

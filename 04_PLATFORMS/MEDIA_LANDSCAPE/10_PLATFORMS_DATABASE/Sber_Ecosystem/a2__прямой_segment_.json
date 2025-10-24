@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_a2__прямой_segment_",
+  "name": "A2 (прямой_Segment)",
+  "site": "A2 (прямой_Segment)",
+  "website_url": "https://A2 (прямой_Segment)",
+  "category": "Sber",
+  "seller": "A2 (прямой_Segment)",
+  "holding": "A2 (прямой_Segment)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "A2 (прямой_Segment)",
+      "seller": "A2 (прямой_Segment)",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "A2 (прямой_Segment)",
+        "A2 (прямой_Segment)",
+        "A2 (прямой_Segment)",
+        "",
+        "нет",
+        "нет",
+        "RW",
+        "да",
+        "нет",
+        "на согласовании",
+        "A2 (прямой_Segment)",
+        "A2 (прямой_Segment)",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

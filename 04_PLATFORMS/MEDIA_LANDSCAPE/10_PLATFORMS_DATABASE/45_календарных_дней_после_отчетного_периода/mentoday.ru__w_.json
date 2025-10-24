@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_mentoday.ru__w_",
+  "name": "graziamagazine.ru",
+  "site": "Mentoday.ru (W)",
+  "website_url": "https://Mentoday.ru (W)",
+  "category": "45 календарных дней после отчетного периода",
+  "seller": "graziamagazine.ru",
+  "holding": "graziamagazine.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "45 календарных дней после отчетного периода",
+      "holding": "graziamagazine.ru",
+      "seller": "graziamagazine.ru",
+      "site_meta": "Mentoday.ru (W)",
+      "full_row": [
+        "45 календарных дней после отчетного периода",
+        "graziamagazine.ru",
+        "graziamagazine.ru",
+        "Mentoday.ru (W)",
+        "Mentoday.ru (W)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "Robb.report (W)",
+        "Tass",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

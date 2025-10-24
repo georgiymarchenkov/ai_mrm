@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_минимальный_бюджет_150к_руб.",
+  "name": "Tutu.ru (S)",
+  "site": "Минимальный бюджет 150к руб.",
+  "website_url": "https://Минимальный бюджет 150к руб.",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "Tutu.ru (S)",
+  "holding": "Tutu.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "Tutu.ru (S)",
+      "seller": "Tutu.ru (S)",
+      "site_meta": "",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "Tutu.ru (S)",
+        "Tutu.ru (S)",
+        "Минимальный бюджет 150к руб.",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Заурбек Заоев zaur@targetads.io, slava@targetads.io",
+        "Независимый эксперт",
+        "Независимый эксперт",
+        "оплата в течении трех дней после выхода ролика",
+        "25.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

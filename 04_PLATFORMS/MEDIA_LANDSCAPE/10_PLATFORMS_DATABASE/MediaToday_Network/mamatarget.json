@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_mamatarget",
+  "name": "ООО \"Программатик Групп\"",
+  "site": "MamaTarget",
+  "website_url": "https://MamaTarget",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Анастасия Комарицкая <a.komarickaya@programmatic.ru>",
+  "holding": "ООО \"Программатик Групп\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "ООО \"Программатик Групп\"",
+      "seller": "Анастасия Комарицкая <a.komarickaya@programmatic.ru>",
+      "site_meta": "",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "ООО \"Программатик Групп\"",
+        "Анастасия Комарицкая <a.komarickaya@programmatic.ru>",
+        "MamaTarget",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "ООО \"Т2 Мобайл\"",
+        "alexey.a.kovalev@tele2.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

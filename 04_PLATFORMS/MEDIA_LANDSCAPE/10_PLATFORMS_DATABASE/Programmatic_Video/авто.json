@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_авто",
+  "name": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+  "site": "Авто",
+  "website_url": "https://Авто",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+  "holding": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+      "seller": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+      "site_meta": "Авто",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+        "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+        "Авто",
+        "Авто",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "65.0",
+        "ИП Полухин",
+        "ИП Полухин",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

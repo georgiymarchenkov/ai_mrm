@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cybersport",
+  "name": "ООО \"За рулем\"",
+  "site": "Cybersport",
+  "website_url": "https://Cybersport",
+  "category": "Sber",
+  "seller": "ООО \"За рулем\"",
+  "holding": "ООО \"За рулем\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "ООО \"За рулем\"",
+      "seller": "ООО \"За рулем\"",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "ООО \"За рулем\"",
+        "ООО \"За рулем\"",
+        "Cybersport",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "30.0",
+        "Cybersport.ru (S)",
+        "Cybersport.ru (S)",
+        "GOHA",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

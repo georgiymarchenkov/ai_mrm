@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ск_на_медийку__видео_-25__",
+  "name": "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+  "site": "СК на Медийку, Видео -25%;",
+  "website_url": "https://СК на Медийку, Видео -25%;",
+  "category": "полугодие",
+  "seller": "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+  "holding": "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+      "seller": "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+      "site_meta": "СК на Медийку, Видео -25%;",
+      "full_row": [
+        "полугодие",
+        "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+        "Евгения Мирошниченко <miroshnichenko.ek@unicom-digital.ru>",
+        "СК на Медийку, Видео -25%;",
+        "СК на Медийку, Видео -25%;",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "Championat.com",
+        "Championat.com",
+        "                                                                                                       \n",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

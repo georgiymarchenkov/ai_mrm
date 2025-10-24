@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__вихаб_",
+  "name": "Upravel",
+  "site": "ООО \"Вихаб\"",
+  "website_url": "https://ООО \"Вихаб\"",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Upravel",
+  "holding": "Upravel",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Upravel",
+      "seller": "Upravel",
+      "site_meta": "ООО \"Вихаб\"",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Upravel",
+        "Upravel",
+        "ООО \"Вихаб\"",
+        "ООО \"Вихаб\"",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"АПРЕЙВЕЛ\"",
+        "ООО \"АПРЕЙВЕЛ\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

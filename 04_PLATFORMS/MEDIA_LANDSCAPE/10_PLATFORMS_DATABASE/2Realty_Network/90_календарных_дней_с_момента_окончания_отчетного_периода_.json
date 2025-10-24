@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_90_календарных_дней_с_момента_окончания_отчетного_периода_",
+  "name": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "site": "90 календарных дней с момента окончания Отчетного периода ",
+  "website_url": "https://90 календарных дней с момента окончания Отчетного периода ",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "holding": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+      "seller": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+      "site_meta": "90 календарных дней с момента окончания Отчетного периода ",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+        "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+        "90 календарных дней с момента окончания Отчетного периода ",
+        "90 календарных дней с момента окончания Отчетного периода ",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Timeout.ru (Прямой)",
+        "Timeout.ru (Прямой)",
+        "ООО \"Диджитал Фэктори\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

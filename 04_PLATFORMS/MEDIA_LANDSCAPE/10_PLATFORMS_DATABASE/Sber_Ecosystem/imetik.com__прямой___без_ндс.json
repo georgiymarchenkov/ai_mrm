@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_imetik.com__прямой___без_ндс",
+  "name": "Imetik.com (прямой), без НДС",
+  "site": "Imetik.com (прямой), без НДС",
+  "website_url": "https://Imetik.com (прямой), без НДС",
+  "category": "Sber",
+  "seller": "Imetik.com (прямой), без НДС",
+  "holding": "Imetik.com (прямой), без НДС",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Imetik.com (прямой), без НДС",
+      "seller": "Imetik.com (прямой), без НДС",
+      "site_meta": "при запросе под Клиента мы можем согласовывать спец. условия как по клиентским скидкам так и по СК.",
+      "full_row": [
+        "Sber",
+        "Imetik.com (прямой), без НДС",
+        "Imetik.com (прямой), без НДС",
+        "Imetik.com (прямой), без НДС",
+        "при запросе под Клиента мы можем согласовывать спец. условия как по клиентским скидкам так и по СК.",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "Bidfox",
+        "Imetik.com (прямой), без НДС",
+        "Imetik.com (прямой), без НДС",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

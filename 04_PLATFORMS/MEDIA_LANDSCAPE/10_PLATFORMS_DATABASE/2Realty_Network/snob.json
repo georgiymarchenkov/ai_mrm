@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_snob",
+  "name": "Сми, Бизнес",
+  "site": "Snob",
+  "website_url": "https://Snob",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Сми, Бизнес",
+  "holding": "Сми, Бизнес",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Сми, Бизнес",
+      "seller": "Сми, Бизнес",
+      "site_meta": "Snob",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Сми, Бизнес",
+        "Сми, Бизнес",
+        "Snob",
+        "Snob",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "30 календарных дней с момента окончания отчетного периода",
+        "30 календарных дней с момента окончания отчетного периода",
+        "ООО \"Сноб Медиа\"",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

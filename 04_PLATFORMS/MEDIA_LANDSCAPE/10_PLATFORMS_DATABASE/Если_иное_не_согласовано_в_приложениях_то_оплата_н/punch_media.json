@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_punch_media",
+  "name": "Готовы обсуждать постоплату под конкретное размещение.",
+  "site": "Punch Media",
+  "website_url": "https://Punch Media",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "Готовы обсуждать постоплату под конкретное размещение.",
+  "holding": "Готовы обсуждать постоплату под конкретное размещение.",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "Готовы обсуждать постоплату под конкретное размещение.",
+      "seller": "Готовы обсуждать постоплату под конкретное размещение.",
+      "site_meta": "Punch Media (S)",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "Готовы обсуждать постоплату под конкретное размещение.",
+        "Готовы обсуждать постоплату под конкретное размещение.",
+        "Punch Media",
+        "Punch Media (S)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "Mukhtarova Daniella <d.mukhtarova@sberseller.ru, Kotova Kseniya <k.kotova@sberseller.ru>",
+        "Mukhtarova Daniella <d.mukhtarova@sberseller.ru, Kotova Kseniya <k.kotova@sberseller.ru>",
+        "uralairlines",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_мин._бюджет_брендирование_и_медийка_-_100к__новости_25к",
+  "name": "gameguru.ru (S)",
+  "site": "Мин. бюджет брендирование и медийка - 100к, новости 25к",
+  "website_url": "https://Мин. бюджет брендирование и медийка - 100к, новости 25к",
+  "category": "Cian.ru СПБ",
+  "seller": "gameguru.ru (S)",
+  "holding": "gameguru.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Cian.ru СПБ",
+      "holding": "gameguru.ru (S)",
+      "seller": "gameguru.ru (S)",
+      "site_meta": "Мин. бюджет брендирование и медийка - 100к, новости 25к",
+      "full_row": [
+        "Cian.ru СПБ",
+        "gameguru.ru (S)",
+        "gameguru.ru (S)",
+        "Мин. бюджет брендирование и медийка - 100к, новости 25к",
+        "Мин. бюджет брендирование и медийка - 100к, новости 25к",
+        "да",
+        "да",
+        "RW",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "да",
+        "60.0",
+        "3dnews",
+        "3dnews",
+        "3dnews.ru (S)",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

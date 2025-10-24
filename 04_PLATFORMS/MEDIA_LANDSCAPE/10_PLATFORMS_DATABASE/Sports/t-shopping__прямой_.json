@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_t-shopping__прямой_",
+  "name": "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+  "site": "T-Shopping (прямой)",
+  "website_url": "https://T-Shopping (прямой)",
+  "category": "Спорт",
+  "seller": "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+  "holding": "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+      "seller": "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+      "site_meta": "",
+      "full_row": [
+        "Спорт",
+        "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+        "v.boyarchuk@cardsmobile.ru Виктор Боярчук; a.sivoratchenko@tbank.ru Александр \nСиворатченко; v.glubokovskaya@cardsmobile.ru",
+        "T-Shopping (прямой)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "ООО \"Т2 Мобайл\"",
+        "",
+        "25.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

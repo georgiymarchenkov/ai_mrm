@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_val.ru__roden_media_",
+  "name": "ООО \"АйГайдс\"",
+  "site": "Val.ru (Roden media)",
+  "website_url": "https://Val.ru (Roden media)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "ООО \"АйГайдс\"",
+  "holding": "ООО \"АйГайдс\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "ООО \"АйГайдс\"",
+      "seller": "ООО \"АйГайдс\"",
+      "site_meta": "Val.ru (Roden media)",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "ООО \"АйГайдс\"",
+        "ООО \"АйГайдс\"",
+        "Val.ru (Roden media)",
+        "Val.ru (Roden media)",
+        "Антон Гринфельд <",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "35-40",
+        "a.grinfeld@roden-media.ru",
+        ">",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

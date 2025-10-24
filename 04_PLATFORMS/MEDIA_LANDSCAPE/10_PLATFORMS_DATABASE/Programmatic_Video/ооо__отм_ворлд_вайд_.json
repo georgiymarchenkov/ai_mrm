@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__отм_ворлд_вайд_",
+  "name": "Chips-journal",
+  "site": "ООО \"ОТМ Ворлд Вайд\"",
+  "website_url": "https://ООО \"ОТМ Ворлд Вайд\"",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Chips-journal",
+  "holding": "Chips-journal",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Chips-journal",
+      "seller": "Chips-journal",
+      "site_meta": "ООО \"ОТМ Ворлд Вайд\"",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Chips-journal",
+        "Chips-journal",
+        "ООО \"ОТМ Ворлд Вайд\"",
+        "ООО \"ОТМ Ворлд Вайд\"",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "30 календарных дней с момента окончания о тчетного периода",
+        "30 календарных дней с момента окончания о тчетного периода",
+        "Минимальный МП от 500 000 руб до НДС, Клиентские\n",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

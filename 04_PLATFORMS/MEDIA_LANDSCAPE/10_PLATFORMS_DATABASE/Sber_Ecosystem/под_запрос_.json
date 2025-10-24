@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_под_запрос_",
+  "name": "под запрос ",
+  "site": "под запрос ",
+  "website_url": "https://под запрос ",
+  "category": "Sber",
+  "seller": "под запрос ",
+  "holding": "под запрос ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "под запрос ",
+      "seller": "под запрос ",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "под запрос ",
+        "под запрос ",
+        "под запрос ",
+        "",
+        "да",
+        "нет",
+        "RW",
+        "нет",
+        "нет",
+        "на согласовании",
+        "под запрос ",
+        "под запрос ",
+        "Sibdom",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

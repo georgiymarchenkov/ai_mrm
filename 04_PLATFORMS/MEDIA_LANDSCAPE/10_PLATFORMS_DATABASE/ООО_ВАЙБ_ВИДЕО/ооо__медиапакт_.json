@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__медиапакт_",
+  "name": "Robobill.ru",
+  "site": "ООО \"Медиапакт\"",
+  "website_url": "https://ООО \"Медиапакт\"",
+  "category": "ООО \"ВАЙБ ВИДЕО\"",
+  "seller": "Robobill.ru",
+  "holding": "Robobill.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "ООО \"ВАЙБ ВИДЕО\"",
+      "holding": "Robobill.ru",
+      "seller": "Robobill.ru",
+      "site_meta": "ООО \"Медиапакт\"",
+      "full_row": [
+        "ООО \"ВАЙБ ВИДЕО\"",
+        "Robobill.ru",
+        "Robobill.ru",
+        "ООО \"Медиапакт\"",
+        "ООО \"Медиапакт\"",
+        "да",
+        "нет",
+        "RW",
+        "нет",
+        "да",
+        "sh ( Шаг в руб., до НДС):\nОт 50 000 - 10%\nОт 100 000 - 11%\nОт 200 000 - 12%\nОт 350 000 - 14%\nОт 500 000 - 16%\nОт 1 млн. - Индивидуальное согласование\n",
+        "Ivan Golov  ivan.golov@robobill.ru, ioann.kasatkin@robobill.ru",
+        "Ivan Golov  ivan.golov@robobill.ru, ioann.kasatkin@robobill.ru",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_sbermarket.ru__index20_",
+  "name": "Okko.tv (Index20)",
+  "site": "Sbermarket.ru (Index20)",
+  "website_url": "https://Sbermarket.ru (Index20)",
+  "category": "Техника, Электроника",
+  "seller": "Okko.tv (Index20)",
+  "holding": "Okko.tv (Index20)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Okko.tv (Index20)",
+      "seller": "Okko.tv (Index20)",
+      "site_meta": "от 8",
+      "full_row": [
+        "Техника, Электроника",
+        "Okko.tv (Index20)",
+        "Okko.tv (Index20)",
+        "Sbermarket.ru (Index20)",
+        "от 8",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

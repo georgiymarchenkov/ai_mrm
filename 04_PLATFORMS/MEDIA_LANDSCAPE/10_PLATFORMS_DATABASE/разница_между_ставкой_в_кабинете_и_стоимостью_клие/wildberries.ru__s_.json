@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_wildberries.ru__s_",
+  "name": "Wildberries",
+  "site": "Wildberries.ru (S)",
+  "website_url": "https://Wildberries.ru (S)",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Wildberries",
+  "holding": "Wildberries",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Wildberries",
+      "seller": "Wildberries",
+      "site_meta": "Wildberries.ru (S)",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Wildberries",
+        "Wildberries",
+        "Wildberries.ru (S)",
+        "Wildberries.ru (S)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_hybrid__resell__прямой_",
+  "name": "Инна Фролова <ivf@omediagroup.ru>",
+  "site": "Hybrid (resell, прямой)",
+  "website_url": "https://Hybrid (resell, прямой)",
+  "category": "Путешествия",
+  "seller": "Инна Фролова <ivf@omediagroup.ru>",
+  "holding": "Инна Фролова <ivf@omediagroup.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Путешествия",
+      "holding": "Инна Фролова <ivf@omediagroup.ru>",
+      "seller": "Инна Фролова <ivf@omediagroup.ru>",
+      "site_meta": "Hybrid (resell, прямой)",
+      "full_row": [
+        "Путешествия",
+        "Инна Фролова <ivf@omediagroup.ru>",
+        "Инна Фролова <ivf@omediagroup.ru>",
+        "Hybrid (resell, прямой)",
+        "Hybrid (resell, прямой)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "Реселл: возвратная премия по шкале. \n0 - 50 млн руб  10%  \n50 млн руб - 75 млн руб  11% \n75 млн руб - 100 млн руб  12% \n100 млн руб - 150 млн руб  13%\n150 млн руб - 200 млн руб  14%\n200 млн руб - 300 млн руб  15%\n300 млн руб – 400 млн руб  16%\n400 млн руб – 500 млн руб  17%\n500 млн руб – 600 млн руб   18%\n600 млн руб – 700 млн руб  19%\n700 млн руб – 800 млн руб  20%\n800 млн руб – 900 млн руб  21%\n900 млн руб – 1000 млн руб  22%\n1000 млн руб – 1100 млн руб  23%\n1100 млн руб – 1200 млн руб   24%\nБолее 1200 млн руб  25%\n",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

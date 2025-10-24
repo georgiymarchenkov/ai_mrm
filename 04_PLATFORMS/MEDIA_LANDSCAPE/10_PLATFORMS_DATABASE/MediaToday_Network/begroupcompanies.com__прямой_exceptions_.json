@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_begroupcompanies.com__прямой_exceptions_",
+  "name": "Валентина Филина <filina@didenokteam.com>",
+  "site": "Begroupcompanies.com (прямой_exceptions)",
+  "website_url": "https://Begroupcompanies.com (прямой_exceptions)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Валентина Филина <filina@didenokteam.com>",
+  "holding": "Валентина Филина <filina@didenokteam.com>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Валентина Филина <filina@didenokteam.com>",
+      "seller": "Валентина Филина <filina@didenokteam.com>",
+      "site_meta": "Begroupcompanies.com (прямой_exceptions)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Валентина Филина <filina@didenokteam.com>",
+        "Валентина Филина <filina@didenokteam.com>",
+        "Begroupcompanies.com (прямой_exceptions)",
+        "Begroupcompanies.com (прямой_exceptions)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "30.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        "10.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

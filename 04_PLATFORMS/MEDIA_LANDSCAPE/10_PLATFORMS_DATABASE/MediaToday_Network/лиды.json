@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_лиды",
+  "name": "DV Group",
+  "site": "лиды",
+  "website_url": "https://лиды",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "DV Group",
+  "holding": "DV Group",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "DV Group",
+      "seller": "DV Group",
+      "site_meta": "лиды",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "DV Group",
+        "DV Group",
+        "лиды",
+        "лиды",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "ООО \"ДиВиГрупп\"",
+        "1. Performance - СК 10% (посадка маркетплейс, задача вырастить продажи клиента на конкретном маркетплейсе, например OZON)\nминимальный бюджет (клиент) составляет: 500тр до ндс / 1 бренд / 1 маркетплейс / 1 месяц\n2. Brandformance - СК 20% (посадка лэндинг, сайт клиента, ИМ)\nминимальный бюджет  - 500тр до ндс  / 1 месяц, SL -150тр\nот 1млн, SalesLift отчет - бонус",
+        "1. Performance - СК 10% (посадка маркетплейс, задача вырастить продажи клиента на конкретном маркетплейсе, например OZON)\nминимальный бюджет (клиент) составляет: 500тр до ндс / 1 бренд / 1 маркетплейс / 1 месяц\n2. Brandformance - СК 20% (посадка лэндинг, сайт клиента, ИМ)\nминимальный бюджет  - 500тр до ндс  / 1 месяц, SL -150тр\nот 1млн, SalesLift отчет - бонус",
+        "по программатик будет индивидуально обсуждаться перед запусками",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

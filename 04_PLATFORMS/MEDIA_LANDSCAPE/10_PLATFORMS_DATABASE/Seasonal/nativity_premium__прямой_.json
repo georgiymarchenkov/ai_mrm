@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_nativity_premium__прямой_",
+  "name": "Екатерина Бояркина ekaterina@nativity.tech",
+  "site": "Nativity Premium (прямой)",
+  "website_url": "https://Nativity Premium (прямой)",
+  "category": "полугодие",
+  "seller": "Екатерина Бояркина ekaterina@nativity.tech",
+  "holding": "Екатерина Бояркина ekaterina@nativity.tech",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "Екатерина Бояркина ekaterina@nativity.tech",
+      "seller": "Екатерина Бояркина ekaterina@nativity.tech",
+      "site_meta": "Nativity Premium (прямой)",
+      "full_row": [
+        "полугодие",
+        "Екатерина Бояркина ekaterina@nativity.tech",
+        "Екатерина Бояркина ekaterina@nativity.tech",
+        "Nativity Premium (прямой)",
+        "Nativity Premium (прямой)",
+        "Носков Александр aleksandr.noskov@sbermarket.ru",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Digital Alliance",
+        "Digital Alliance",
+        "Astralab.ai (DA)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

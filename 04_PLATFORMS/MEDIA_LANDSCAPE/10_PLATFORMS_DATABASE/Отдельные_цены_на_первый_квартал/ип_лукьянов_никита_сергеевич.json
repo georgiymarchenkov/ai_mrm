@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ип_лукьянов_никита_сергеевич",
+  "name": "ООО \"ФО ЛИДС\"",
+  "site": "ИП Лукьянов Никита Сергеевич",
+  "website_url": "https://ИП Лукьянов Никита Сергеевич",
+  "category": "Отдельные цены на первый квартал:",
+  "seller": "ООО \"ФО ЛИДС\"",
+  "holding": "ООО \"ФО ЛИДС\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Отдельные цены на первый квартал:",
+      "holding": "ООО \"ФО ЛИДС\"",
+      "seller": "ООО \"ФО ЛИДС\"",
+      "site_meta": "ИП Лукьянов Никита Сергеевич",
+      "full_row": [
+        "Отдельные цены на первый квартал:",
+        "ООО \"ФО ЛИДС\"",
+        "ООО \"ФО ЛИДС\"",
+        "ИП Лукьянов Никита Сергеевич",
+        "ИП Лукьянов Никита Сергеевич",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "Nikita Lukyanov <n.lukyanov@cpaexchange.net>; Viktoriya Brekhova <v.brekhova@cpaexchange.net>; Ekaterina Shinkevich <ekaterina.shinkevich@cpaexchange.net>",
+        "Nikita Lukyanov <n.lukyanov@cpaexchange.net>; Viktoriya Brekhova <v.brekhova@cpaexchange.net>; Ekaterina Shinkevich <ekaterina.shinkevich@cpaexchange.net>",
+        "zoneofgames",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

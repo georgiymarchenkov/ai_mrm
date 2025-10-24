@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_comfortclass.ru__mediakassir_",
+  "name": "Мария Шабанова m.shabanova@salesinthe.city",
+  "site": "comfortclass.ru (Mediakassir)",
+  "website_url": "https://comfortclass.ru (Mediakassir)",
+  "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+  "seller": "Мария Шабанова m.shabanova@salesinthe.city",
+  "holding": "Мария Шабанова m.shabanova@salesinthe.city",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+      "holding": "Мария Шабанова m.shabanova@salesinthe.city",
+      "seller": "Мария Шабанова m.shabanova@salesinthe.city",
+      "site_meta": "comfortclass.ru (Mediakassir)",
+      "full_row": [
+        "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+        "Мария Шабанова m.shabanova@salesinthe.city",
+        "Мария Шабанова m.shabanova@salesinthe.city",
+        "comfortclass.ru (Mediakassir)",
+        "comfortclass.ru (Mediakassir)",
+        "",
+        "да",
+        "RW",
+        "realtynative.ru (Mediakassir_call)",
+        "ООО \"МЕДИАКАССИР Маркет\"",
+        "j.poluektova@mediakassir.ru; r.shkuratova@mediakassir.ru Русана Шкуратова",
+        "Timeout.ru (прямой_production)",
+        "по продакшену СК 0",
+        "mesto.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

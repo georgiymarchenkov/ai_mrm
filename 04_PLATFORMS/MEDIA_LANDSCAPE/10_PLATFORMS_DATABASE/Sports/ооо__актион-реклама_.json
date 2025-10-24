@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__актион-реклама_",
+  "name": "Msk1.ru TG канал (W)",
+  "site": "ООО \"Актион-реклама\"",
+  "website_url": "https://ООО \"Актион-реклама\"",
+  "category": "Спорт",
+  "seller": "Msk1.ru TG канал (W)",
+  "holding": "Msk1.ru TG канал (W)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "Msk1.ru TG канал (W)",
+      "seller": "Msk1.ru TG канал (W)",
+      "site_meta": "",
+      "full_row": [
+        "Спорт",
+        "Msk1.ru TG канал (W)",
+        "Msk1.ru TG канал (W)",
+        "ООО \"Актион-реклама\"",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "ООО \"Т2 Мобайл\"",
+        "",
+        "18.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

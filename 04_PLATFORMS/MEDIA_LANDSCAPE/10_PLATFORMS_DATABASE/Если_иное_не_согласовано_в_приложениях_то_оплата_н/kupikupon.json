@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kupikupon",
+  "name": "Kanobu",
+  "site": "Kupikupon",
+  "website_url": "https://Kupikupon",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "Kanobu",
+  "holding": "Kanobu",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "Kanobu",
+      "seller": "Kanobu",
+      "site_meta": "Kupikupon",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "Kanobu",
+        "Kanobu",
+        "Kupikupon",
+        "Kupikupon",
+        "нет",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Litres",
+        "Litres",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

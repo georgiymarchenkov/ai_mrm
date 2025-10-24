@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_антон_гринфельд__",
+  "name": "Finmarket.ru (Roden media)\n",
+  "site": "Антон Гринфельд <",
+  "website_url": "https://Антон Гринфельд <",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Finmarket.ru (Roden media)\n",
+  "holding": "Finmarket.ru (Roden media)\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Finmarket.ru (Roden media)\n",
+      "seller": "Finmarket.ru (Roden media)\n",
+      "site_meta": "Антон Гринфельд <",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Finmarket.ru (Roden media)\n",
+        "Finmarket.ru (Roden media)\n",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        "",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

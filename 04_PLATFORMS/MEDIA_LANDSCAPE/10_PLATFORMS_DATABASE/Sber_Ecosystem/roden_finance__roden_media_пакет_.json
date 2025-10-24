@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_roden_finance__roden_media_пакет_",
+  "name": ">",
+  "site": "Roden Finance (Roden media пакет)",
+  "website_url": "https://Roden Finance (Roden media пакет)",
+  "category": "Sber",
+  "seller": ">",
+  "holding": ">",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": ">",
+      "seller": ">",
+      "site_meta": "Roden Finance (Roden media пакет)",
+      "full_row": [
+        "Sber",
+        ">",
+        ">",
+        "Roden Finance (Roden media пакет)",
+        "Roden Finance (Roden media пакет)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

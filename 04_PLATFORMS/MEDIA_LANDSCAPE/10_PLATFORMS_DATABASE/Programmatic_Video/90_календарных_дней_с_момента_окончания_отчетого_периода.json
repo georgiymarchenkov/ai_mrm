@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_90_календарных_дней_с_момента_окончания_отчетого_периода",
+  "name": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+  "site": "90 календарных дней с момента окончания отчетого периода",
+  "website_url": "https://90 календарных дней с момента окончания отчетого периода",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+  "holding": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+      "seller": "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+      "site_meta": "90 календарных дней с момента окончания отчетого периода",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+        "Anna Tchaikovskaya tchaikovskaya@appbooster.ru",
+        "90 календарных дней с момента окончания отчетого периода",
+        "90 календарных дней с момента окончания отчетого периода",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "65.0",
+        "ИП Полухин",
+        "ИП Полухин",
+        "Андрей Полухин +79192412310 autochina24@mail.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

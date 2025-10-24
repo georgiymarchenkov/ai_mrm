@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_важно_",
+  "name": "Everest",
+  "site": "Важно!",
+  "website_url": "https://Важно!",
+  "category": "Техника, Электроника",
+  "seller": "Everest",
+  "holding": "Everest",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Everest",
+      "seller": "Everest",
+      "site_meta": "Важно!",
+      "full_row": [
+        "Техника, Электроника",
+        "Everest",
+        "Everest",
+        "Важно!",
+        "Важно!",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "ООО \"ЭВЕРЕСТ\"",
+        "vc.ru",
+        "vc.ru",
+        "Услуги по медийным размещениям на платформе Xaprio: базово 40% от фактической стоимости услуг за месяц, при суммарной месячной выручке от 300 000 руб. до 1 499 999руб. ;От 1 500 000 руб. и выше - СК 45%\nМинимальные пороги: по медийным кампаниям, от 300 000. \n",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__эдмон_",
+  "name": "admon.ai (без НДС)",
+  "site": "ООО \"Эдмон\"",
+  "website_url": "https://ООО \"Эдмон\"",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "admon.ai (без НДС)",
+  "holding": "admon.ai (без НДС)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "admon.ai (без НДС)",
+      "seller": "admon.ai (без НДС)",
+      "site_meta": "ООО \"Эдмон\"",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "admon.ai (без НДС)",
+        "admon.ai (без НДС)",
+        "ООО \"Эдмон\"",
+        "ООО \"Эдмон\"",
+        "нет",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "30.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "услуги под платформу 6feeds ",
+        "Возвратной комиссии по умолчанию не дают, обсуждаемо под конкретного клиента."
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

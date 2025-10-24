@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_1000novostroek.ru__s_",
+  "name": "1000novostroek.ru (S)",
+  "site": "1000novostroek.ru (S)",
+  "website_url": "https://1000novostroek.ru (S)",
+  "category": "Sber",
+  "seller": "1000novostroek.ru (S)",
+  "holding": "1000novostroek.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "1000novostroek.ru (S)",
+      "seller": "1000novostroek.ru (S)",
+      "site_meta": "1000novostroek.ru (S)",
+      "full_row": [
+        "Sber",
+        "1000novostroek.ru (S)",
+        "1000novostroek.ru (S)",
+        "1000novostroek.ru (S)",
+        "1000novostroek.ru (S)",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "нет",
+        "ЗАО \"РЕКЛАМНО-ИНФОРМАЦИОННОЕ АГЕНСТВО \"О`КЕЙ\"",
+        "1000novostroek.ru (S)",
+        "1000novostroek.ru (S)",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

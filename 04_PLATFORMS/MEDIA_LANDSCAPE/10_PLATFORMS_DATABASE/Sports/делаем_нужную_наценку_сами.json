@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_делаем_нужную_наценку_сами",
+  "name": "Mirtesen.ru",
+  "site": "Делаем нужную наценку сами",
+  "website_url": "https://Делаем нужную наценку сами",
+  "category": "Спорт",
+  "seller": "Mirtesen.ru",
+  "holding": "Mirtesen.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "Mirtesen.ru",
+      "seller": "Mirtesen.ru",
+      "site_meta": "",
+      "full_row": [
+        "Спорт",
+        "Mirtesen.ru",
+        "Mirtesen.ru",
+        "Делаем нужную наценку сами",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "                                                                                                       \n",
+        "",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

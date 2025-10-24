@@ -1,0 +1,38 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_twitch",
+  "name": "Twitch",
+  "site": "Twitch",
+  "website_url": "https://Twitch",
+  "category": "Новые медиа",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Новые медиа": {
+        "Площадка": "Twitch",
+        "Формат": "Clicable In-stream AdBlock ",
+        "В какой контент встраивается?": "Другое",
+        "Платформа": "Desktop+mobile+TV",
+        "Тип видео": "In-stream",
+        "Пропускаемое?": "UnSkippable",
+        "СРМ средн. \n(гео + соцдем)": "250.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "-",
+        "ER (просмотры/подписчики), %": "-",
+        "VTR 15 сек": "1.0",
+        "Наценки за хроно": "FullScreen Video (15 sec) ",
+        "Viewability, ср. %": "1.0",
+        "IVT, ср. %": "-"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

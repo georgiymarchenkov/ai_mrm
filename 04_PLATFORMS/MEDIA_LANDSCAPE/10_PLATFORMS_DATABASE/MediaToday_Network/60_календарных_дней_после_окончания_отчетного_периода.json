@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_60_календарных_дней_после_окончания_отчетного_периода",
+  "name": "Roomberry",
+  "site": "60 календарных дней после окончания отчетного периода",
+  "website_url": "https://60 календарных дней после окончания отчетного периода",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Roomberry",
+  "holding": "Roomberry",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Roomberry",
+      "seller": "Roomberry",
+      "site_meta": "60 календарных дней после окончания отчетного периода",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Roomberry",
+        "Roomberry",
+        "60 календарных дней после окончания отчетного периода",
+        "60 календарных дней после окончания отчетного периода",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "",
+        "45 календарных дней после окончания отчетного периода.",
+        "ООО \"Румбери\"",
+        "ООО \"Румбери\"",
+        "Михаил Mlh@roomberry.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

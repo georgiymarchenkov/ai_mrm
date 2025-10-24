@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_scanners",
+  "name": "Морозов Александр a.morozov@healthscanner.ru",
+  "site": "Scanners",
+  "website_url": "https://Scanners",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Морозов Александр a.morozov@healthscanner.ru",
+  "holding": "Морозов Александр a.morozov@healthscanner.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Морозов Александр a.morozov@healthscanner.ru",
+      "seller": "Морозов Александр a.morozov@healthscanner.ru",
+      "site_meta": "Scanners",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Морозов Александр a.morozov@healthscanner.ru",
+        "Морозов Александр a.morozov@healthscanner.ru",
+        "Scanners",
+        "Scanners",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "healthscanner.ru",
+        "healthscanner.ru",
+        "90 для Сфера/40 с момента старта РК для РВ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

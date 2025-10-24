@@ -1,0 +1,38 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_instream",
+  "name": "Instream",
+  "site": "Instream",
+  "website_url": "https://Instream",
+  "category": "Фулл Rewarded",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Фулл Rewarded": {
+        "Площадка": "Instream",
+        "Формат": "Link",
+        "В какой контент встраивается?": "Мультиролл (преролл,мидролл,постролл и аутсрим)",
+        "Платформа": "Комментарии (средний CTR)",
+        "Тип видео": "Out-stream",
+        "Пропускаемое?": "UnSkippable",
+        "СРМ средн. \n(гео + соцдем)": "290",
+        "СРМ средн. \n(гео + соцдем + интерес)": "428.0",
+        "Ёмкость (уники) ": "4.0E7",
+        "VTR 15 сек": "0.8",
+        "Наценки за хроно": "до 13%",
+        "Viewability, ср. %": "1.0",
+        "IVT, ср. %": "1) Есть наценка за использование пиратки, она составляет 50%. WL пиратских онлайн к/т.xlsx\n2) По умолчанию считают in-stream, out-stream на пиратке не доступен."
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

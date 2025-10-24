@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_hi-fi.ru__bs_",
+  "name": "ООО \"Бестселлер\"",
+  "site": "Hi-fi.ru (BS)",
+  "website_url": "https://Hi-fi.ru (BS)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "ООО \"Бестселлер\"",
+  "holding": "ООО \"Бестселлер\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "ООО \"Бестселлер\"",
+      "seller": "ООО \"Бестселлер\"",
+      "site_meta": "Hi-fi.ru (BS)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "ООО \"Бестселлер\"",
+        "ООО \"Бестселлер\"",
+        "Hi-fi.ru (BS)",
+        "Hi-fi.ru (BS)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "YouDo",
+        "YouDo",
+        "Kinoafisha.info",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

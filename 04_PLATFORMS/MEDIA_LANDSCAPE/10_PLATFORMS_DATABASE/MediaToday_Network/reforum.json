@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_reforum",
+  "name": "ООО \"ГК \"Пеон АГ\"",
+  "site": "Reforum",
+  "website_url": "https://Reforum",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "ООО \"ГК \"Пеон АГ\"",
+  "holding": "ООО \"ГК \"Пеон АГ\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "ООО \"ГК \"Пеон АГ\"",
+      "seller": "ООО \"ГК \"Пеон АГ\"",
+      "site_meta": "Reforum.ru",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "ООО \"ГК \"Пеон АГ\"",
+        "ООО \"ГК \"Пеон АГ\"",
+        "Reforum",
+        "Reforum.ru",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Realty.ru (прямой_call)",
+        "площадка  дает нам стоимость звонка, мы сверху закладываем СК",
+        "площадка  дает нам стоимость звонка, мы сверху закладываем СК",
+        "Kupi-kvart",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_telecon__atom_media_group_programmatic_",
+  "name": "Premium ID (Прямой_Fead)",
+  "site": "Telecon (Atom Media Group_Programmatic)",
+  "website_url": "https://Telecon (Atom Media Group_Programmatic)",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "Premium ID (Прямой_Fead)",
+  "holding": "Premium ID (Прямой_Fead)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "Premium ID (Прямой_Fead)",
+      "seller": "Premium ID (Прямой_Fead)",
+      "site_meta": "Telecon (Atom Media Group_Programmatic)",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "Premium ID (Прямой_Fead)",
+        "Premium ID (Прямой_Fead)",
+        "Telecon (Atom Media Group_Programmatic)",
+        "Telecon (Atom Media Group_Programmatic)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Telecon (Atom Media Group_Lead)",
+        "Telecon (Atom Media Group_Fead)",
+        "Telecon (Atom Media Group_Fead)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

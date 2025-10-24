@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_roden_media",
+  "name": "Васильева Марина <m.vasileva@evotor.ru>",
+  "site": "Roden Media",
+  "website_url": "https://Roden Media",
+  "category": "полугодие",
+  "seller": "Васильева Марина <m.vasileva@evotor.ru>",
+  "holding": "Васильева Марина <m.vasileva@evotor.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "Васильева Марина <m.vasileva@evotor.ru>",
+      "seller": "Васильева Марина <m.vasileva@evotor.ru>",
+      "site_meta": "Roden Media",
+      "full_row": [
+        "полугодие",
+        "Васильева Марина <m.vasileva@evotor.ru>",
+        "Васильева Марина <m.vasileva@evotor.ru>",
+        "Roden Media",
+        "Roden Media",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Fratria.ru (Roden media)",
+        "ООО \"Медиа технологии\"",
+        "ООО \"Медиа технологии\"",
+        "Минимальный порог 500 тыс",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

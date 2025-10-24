@@ -1,0 +1,560 @@
+{
+  "$schema": "pricing_schema_v1",
+  "version": "1.0",
+  "last_updated": "2025-10-24",
+  "currency": "RUB",
+  "notes": "Бенчмарк цены на основе медиакитов площадок и исторических данных агентства. Q4 2024 - Q1 2025.",
+  "pricing": [
+    {
+      "id": "price_vk_feed_video_001",
+      "platform_id": "plt_vk_ads_001",
+      "format_id": "fmt_vk_feed_video_001",
+      "platform_name": "VK Реклама",
+      "format_name": "Видео в ленте",
+      "pricing_models": ["cpm", "cpv"],
+      "prices": {
+        "cpm": {
+          "min": 100,
+          "avg": 150,
+          "max": 250,
+          "currency": "RUB"
+        },
+        "cpv": {
+          "min": 8,
+          "avg": 10,
+          "max": 15,
+          "currency": "RUB",
+          "view_definition": "15s"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.5,
+          "spb": 1.3,
+          "millionaire_cities": 1.2,
+          "other": 1.0
+        },
+        "time_multipliers": {
+          "prime_time": 1.3,
+          "weekends": 1.1,
+          "holidays": 1.4
+        },
+        "targeting_multipliers": {
+          "narrow_targeting": 1.2,
+          "lookalike": 1.1,
+          "retargeting": 1.15
+        }
+      },
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 1000000,
+            "discount_percent": 5
+          },
+          {
+            "min_budget": 5000000,
+            "discount_percent": 10
+          },
+          {
+            "min_budget": 10000000,
+            "discount_percent": 15
+          }
+        ],
+        "agency_discount": 5
+      },
+      "minimums": {
+        "min_daily_budget": 1000,
+        "min_campaign_budget": 5000,
+        "min_bid": 0.01
+      },
+      "fees": {
+        "platform_fee_percent": 0,
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "effective_until": "2025-03-31",
+      "source": "VK Ads Media Kit 2024-2025",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_vk_stories_001",
+      "platform_id": "plt_vk_ads_001",
+      "format_id": "fmt_vk_stories_001",
+      "platform_name": "VK Реклама",
+      "format_name": "Истории",
+      "pricing_models": ["cpm", "cpv"],
+      "prices": {
+        "cpm": {
+          "min": 120,
+          "avg": 180,
+          "max": 300,
+          "currency": "RUB"
+        },
+        "cpv": {
+          "min": 10,
+          "avg": 12,
+          "max": 18,
+          "currency": "RUB",
+          "view_definition": "15s"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.5,
+          "spb": 1.3,
+          "millionaire_cities": 1.2,
+          "other": 1.0
+        },
+        "targeting_multipliers": {
+          "narrow_targeting": 1.25,
+          "retargeting": 1.2
+        }
+      },
+      "discounts": {
+        "agency_discount": 5
+      },
+      "minimums": {
+        "min_daily_budget": 1500,
+        "min_campaign_budget": 5000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Social_Media_Metrics CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_yandex_search_001",
+      "platform_id": "plt_yandex_direct_001",
+      "format_id": null,
+      "platform_name": "Яндекс Директ",
+      "format_name": "Поиск (текстово-графические)",
+      "pricing_models": ["cpc"],
+      "prices": {
+        "cpc": {
+          "min": 10,
+          "avg": 45,
+          "max": 500,
+          "currency": "RUB"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 2.0,
+          "spb": 1.6,
+          "millionaire_cities": 1.3,
+          "other": 1.0
+        },
+        "time_multipliers": {
+          "business_hours": 1.2
+        }
+      },
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 500000,
+            "discount_percent": 3
+          },
+          {
+            "min_budget": 3000000,
+            "discount_percent": 5
+          }
+        ],
+        "agency_discount": 3
+      },
+      "minimums": {
+        "min_daily_budget": 500,
+        "min_campaign_budget": 10000,
+        "min_bid": 0.3
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Yandex Direct Price List",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_mytarget_feed_001",
+      "platform_id": "plt_mytarget_001",
+      "format_id": null,
+      "platform_name": "myTarget",
+      "format_name": "Реклама в ленте",
+      "pricing_models": ["cpm", "cpc"],
+      "prices": {
+        "cpm": {
+          "min": 80,
+          "avg": 120,
+          "max": 200,
+          "currency": "RUB"
+        },
+        "cpc": {
+          "min": 8,
+          "avg": 18,
+          "max": 60,
+          "currency": "RUB"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.4,
+          "spb": 1.2,
+          "other": 1.0
+        },
+        "targeting_multipliers": {
+          "narrow_targeting": 1.2,
+          "lookalike": 1.15,
+          "retargeting": 1.1
+        }
+      },
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 1000000,
+            "discount_percent": 5
+          }
+        ],
+        "agency_discount": 5
+      },
+      "minimums": {
+        "min_daily_budget": 500,
+        "min_campaign_budget": 3000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "myTarget Media Kit",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_telegram_channel_001",
+      "platform_id": "plt_telegram_ads_001",
+      "format_id": null,
+      "platform_name": "Telegram Ads",
+      "format_name": "Спонсируемые сообщения",
+      "pricing_models": ["cpm"],
+      "prices": {
+        "cpm": {
+          "min": 150,
+          "avg": 200,
+          "max": 300,
+          "currency": "RUB"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.3,
+          "spb": 1.2,
+          "other": 1.0
+        }
+      },
+      "discounts": {},
+      "minimums": {
+        "min_daily_budget": 2000,
+        "min_campaign_budget": 10000
+      },
+      "fees": {
+        "vat_percent": 0
+      },
+      "effective_from": "2024-10-01",
+      "source": "Social_Media_Metrics CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_ok_feed_001",
+      "platform_id": "plt_ok_001",
+      "format_id": null,
+      "platform_name": "Одноклассники",
+      "format_name": "Реклама в ленте",
+      "pricing_models": ["cpm", "cpc"],
+      "prices": {
+        "cpm": {
+          "min": 90,
+          "avg": 140,
+          "max": 220,
+          "currency": "RUB"
+        },
+        "cpc": {
+          "min": 6,
+          "avg": 8,
+          "max": 25,
+          "currency": "RUB"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.3,
+          "spb": 1.2,
+          "other": 1.0
+        }
+      },
+      "discounts": {
+        "agency_discount": 5
+      },
+      "minimums": {
+        "min_daily_budget": 500,
+        "min_campaign_budget": 3000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Social_Media_Metrics CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_gpm_preroll_001",
+      "platform_id": "plt_gpm_001",
+      "format_id": null,
+      "platform_name": "GPM Digital Network",
+      "format_name": "Pre-roll видео",
+      "pricing_models": ["cpm", "cpv"],
+      "prices": {
+        "cpm": {
+          "min": 150,
+          "avg": 200,
+          "max": 300,
+          "currency": "RUB"
+        },
+        "cpv": {
+          "min": 12,
+          "avg": 16,
+          "max": 25,
+          "currency": "RUB",
+          "view_definition": "complete"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.5,
+          "spb": 1.3,
+          "other": 1.0
+        },
+        "targeting_multipliers": {
+          "narrow_targeting": 1.25,
+          "socdem_and_interest": 1.15
+        }
+      },
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 500000,
+            "discount_percent": 8
+          },
+          {
+            "min_budget": 2000000,
+            "discount_percent": 12
+          }
+        ],
+        "agency_discount": 10
+      },
+      "minimums": {
+        "min_campaign_budget": 100000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "GPM_Media_Kit_Formats CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_interpool_instream_001",
+      "platform_id": "plt_interpool_001",
+      "format_id": null,
+      "platform_name": "Interpool",
+      "format_name": "InStream Video",
+      "pricing_models": ["cpm", "cpv"],
+      "prices": {
+        "cpm": {
+          "min": 350,
+          "avg": 450,
+          "max": 600,
+          "currency": "RUB"
+        },
+        "cpv": {
+          "min": 28,
+          "avg": 35,
+          "max": 50,
+          "currency": "RUB",
+          "view_definition": "complete"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.4,
+          "spb": 1.3,
+          "other": 1.0
+        }
+      },
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 1000000,
+            "discount_percent": 10
+          },
+          {
+            "min_budget": 3000000,
+            "discount_percent": 15
+          }
+        ],
+        "agency_discount": 12
+      },
+      "minimums": {
+        "min_campaign_budget": 150000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Interpool_Media_Kit_Formats CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_adwile_native_001",
+      "platform_id": "plt_adwile_001",
+      "format_id": null,
+      "platform_name": "Adwile Premium",
+      "format_name": "Native Ads",
+      "pricing_models": ["cpm"],
+      "prices": {
+        "cpm": {
+          "min": 250,
+          "avg": 300,
+          "max": 400,
+          "currency": "RUB"
+        }
+      },
+      "multipliers": {
+        "geo_multipliers": {
+          "moscow": 1.3,
+          "spb": 1.2,
+          "other": 1.0
+        }
+      },
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 500000,
+            "discount_percent": 8
+          }
+        ],
+        "agency_discount": 8
+      },
+      "minimums": {
+        "min_campaign_budget": 50000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Adwile_Premium_Media_Kit_Formats CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_forbes_banner_001",
+      "platform_id": "plt_forbes_001",
+      "format_id": null,
+      "platform_name": "Forbes Russia",
+      "format_name": "Баннерная реклама",
+      "pricing_models": ["cpm", "cpv"],
+      "prices": {
+        "cpm": {
+          "min": 500,
+          "avg": 600,
+          "max": 800,
+          "currency": "RUB"
+        },
+        "cpv": {
+          "min": 35,
+          "avg": 40,
+          "max": 55,
+          "currency": "RUB",
+          "view_definition": "complete"
+        }
+      },
+      "multipliers": {},
+      "discounts": {
+        "volume_discounts": [
+          {
+            "min_budget": 1000000,
+            "discount_percent": 10
+          },
+          {
+            "min_budget": 5000000,
+            "discount_percent": 15
+          }
+        ],
+        "agency_discount": 15
+      },
+      "minimums": {
+        "min_campaign_budget": 200000
+      },
+      "fees": {
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Forbes_Media_Kit_Formats CSV",
+      "last_updated": "2025-10-24T10:00:00Z"
+    },
+    {
+      "id": "price_ozon_product_001",
+      "platform_id": "plt_ozon_ads_001",
+      "format_id": null,
+      "platform_name": "Ozon Реклама",
+      "format_name": "Товарная реклама в поиске",
+      "pricing_models": ["cpc", "cpa"],
+      "prices": {
+        "cpc": {
+          "min": 5,
+          "avg": 15,
+          "max": 80,
+          "currency": "RUB"
+        },
+        "cpa": {
+          "min": 50,
+          "avg": 150,
+          "max": 500,
+          "currency": "RUB",
+          "action_type": "purchase"
+        }
+      },
+      "multipliers": {
+        "format_multipliers": {
+          "search_top": 1.5,
+          "category_page": 1.2,
+          "product_card": 1.1
+        }
+      },
+      "discounts": {},
+      "minimums": {
+        "min_daily_budget": 300,
+        "min_campaign_budget": 5000
+      },
+      "fees": {
+        "platform_fee_percent": 0,
+        "vat_percent": 20
+      },
+      "effective_from": "2024-10-01",
+      "source": "Ozon Ads Platform",
+      "last_updated": "2025-10-24T10:00:00Z"
+    }
+  ],
+  "total_price_records": 11,
+  "coverage": {
+    "platforms_covered": 10,
+    "formats_with_pricing": 11
+  },
+  "notes_by_platform": {
+    "vk_ads": "Цены актуальны для Q4 2024. Возможны сезонные колебания до ±20%.",
+    "yandex_direct": "CPC сильно зависит от ниши и конкуренции. Указаны средние значения.",
+    "telegram_ads": "НДС не включен в стоимость. Оплата напрямую в TON или крипте.",
+    "gpm_network": "Минимальный бюджет 100 000₽. Обязательное управляемое размещение.",
+    "interpool": "Премиум-площадка. Высокое качество трафика, низкий IVT.",
+    "forbes": "B2B аудитория. Высокий средний доход. Подходит для премиум-брендов.",
+    "ozon_ads": "Performance-модель. CPA зависит от категории товара и сезонности."
+  }
+}
+

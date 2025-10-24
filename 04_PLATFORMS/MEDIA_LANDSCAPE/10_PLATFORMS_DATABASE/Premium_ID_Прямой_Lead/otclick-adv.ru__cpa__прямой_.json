@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_otclick-adv.ru__cpa__прямой_",
+  "name": "Otclick-adv",
+  "site": "Otclick-adv.ru (CPA, прямой)",
+  "website_url": "https://Otclick-adv.ru (CPA, прямой)",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "Otclick-adv",
+  "holding": "Otclick-adv",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "Otclick-adv",
+      "seller": "Otclick-adv",
+      "site_meta": "Otclick-adv.ru (CPA, прямой)",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "Otclick-adv",
+        "Otclick-adv",
+        "Otclick-adv.ru (CPA, прямой)",
+        "Otclick-adv.ru (CPA, прямой)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cnews.ru__s_",
+  "name": "Cnews",
+  "site": "Cnews.ru (S)",
+  "website_url": "https://Cnews.ru (S)",
+  "category": "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+  "seller": "Cnews",
+  "holding": "Cnews",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+      "holding": "Cnews",
+      "seller": "Cnews",
+      "site_meta": "Cnews.ru (S)",
+      "full_row": [
+        "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+        "Cnews",
+        "Cnews",
+        "Cnews.ru (S)",
+        "Cnews.ru (S)",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "66.ru",
+        "66.ru",
+        "66.ru",
+        "(S)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

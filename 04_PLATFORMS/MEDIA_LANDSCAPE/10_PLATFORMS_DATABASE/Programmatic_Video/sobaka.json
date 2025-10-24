@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_sobaka",
+  "name": "interfax.ru",
+  "site": "Sobaka",
+  "website_url": "https://Sobaka",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "interfax.ru",
+  "holding": "interfax.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "interfax.ru",
+      "seller": "interfax.ru",
+      "site_meta": "",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "interfax.ru",
+        "interfax.ru",
+        "Sobaka",
+        "",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "да",
+        "RW",
+        "Rg.ru",
+        "Rg.ru",
+        "",
+        "Sobaka.ru (W)",
+        "Sobaka.ru (W)",
+        "ООО \"Журналы и сайты \"Фабрика контента \"Точка Ру\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

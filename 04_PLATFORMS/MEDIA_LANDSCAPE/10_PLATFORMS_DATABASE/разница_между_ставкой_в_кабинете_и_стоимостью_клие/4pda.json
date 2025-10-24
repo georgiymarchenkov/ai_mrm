@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_4pda",
+  "name": "Tourister .ru (S)",
+  "site": "4pda",
+  "website_url": "https://4pda",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Tourister .ru (S)",
+  "holding": "Tourister .ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Tourister .ru (S)",
+      "seller": "Tourister .ru (S)",
+      "site_meta": "",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Tourister .ru (S)",
+        "Tourister .ru (S)",
+        "4pda",
+        "",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

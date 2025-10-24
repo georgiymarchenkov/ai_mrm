@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_admile.ru__прямой_production_",
+  "name": "AdMile",
+  "site": "AdMile.ru (прямой_production)",
+  "website_url": "https://AdMile.ru (прямой_production)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "AdMile",
+  "holding": "AdMile",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "AdMile",
+      "seller": "AdMile",
+      "site_meta": "да",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "AdMile",
+        "AdMile",
+        "AdMile.ru (прямой_production)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО «ЭД МАЙЛ»",
+        "ООО «ЭД МАЙЛ»",
+        "продакшен",
+        "",
+        "0.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

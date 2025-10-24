@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_bloggers___celebrity",
+  "name": "Бренд лифт, СК нет",
+  "site": "Bloggers & Celebrity",
+  "website_url": "https://Bloggers & Celebrity",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Бренд лифт, СК нет",
+  "holding": "Бренд лифт, СК нет",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Бренд лифт, СК нет",
+      "seller": "Бренд лифт, СК нет",
+      "site_meta": "Bloggers & Celebrity",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Бренд лифт, СК нет",
+        "Бренд лифт, СК нет",
+        "Bloggers & Celebrity",
+        "Bloggers & Celebrity",
+        "да",
+        "да",
+        "RW",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

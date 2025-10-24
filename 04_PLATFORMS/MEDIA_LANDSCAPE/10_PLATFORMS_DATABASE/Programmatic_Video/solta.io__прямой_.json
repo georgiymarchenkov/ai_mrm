@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_solta.io__прямой_",
+  "name": "Solta",
+  "site": "Solta.io (прямой)",
+  "website_url": "https://Solta.io (прямой)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Solta",
+  "holding": "Solta",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Solta",
+      "seller": "Solta",
+      "site_meta": "Solta.io (прямой)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Solta",
+        "Solta",
+        "Solta.io (прямой)",
+        "Solta.io (прямой)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "ООО \"Солта\"",
+        "СК - разница между зафиксированными костами и клиентской ценой. Максимальная СК 65%.\n",
+        "СК - разница между зафиксированными костами и клиентской ценой. Максимальная СК 65%.\n",
+        "спец. CPM для FS:\nБаннер (CPM) - 50р \nOLV (all network, CPM) - 150р \nOLV (in-stream, CPM) - за 200Р\nЦены указаны до НДС.",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

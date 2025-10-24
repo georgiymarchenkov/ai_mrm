@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_strashnoe._ru_roden_media_",
+  "name": ">",
+  "site": "Strashnoe. ru(Roden media)",
+  "website_url": "https://Strashnoe. ru(Roden media)",
+  "category": "imedia.ru (прямой)",
+  "seller": ">",
+  "holding": ">",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "imedia.ru (прямой)",
+      "holding": ">",
+      "seller": ">",
+      "site_meta": "Strashnoe. ru(Roden media)",
+      "full_row": [
+        "imedia.ru (прямой)",
+        ">",
+        ">",
+        "Strashnoe. ru(Roden media)",
+        "Strashnoe. ru(Roden media)",
+        "",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "35-40",
+        "Антон Гринфельд <",
+        "",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,28 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_75-85_",
+  "name": "75-85%",
+  "site": "75-85%",
+  "website_url": "https://75-85%",
+  "category": "Онлайн кт легально",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Онлайн кт легально": {
+        "Площадка": "75-85%",
+        "СРМ средн. \n(гео + соцдем)": "400.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "400.0"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

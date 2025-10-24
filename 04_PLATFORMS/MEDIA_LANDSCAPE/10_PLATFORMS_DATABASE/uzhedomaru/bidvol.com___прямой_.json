@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_bidvol.com___прямой_",
+  "name": "Bidvol.com (прямой) ",
+  "site": "Bidvol.com ( прямой)",
+  "website_url": "https://Bidvol.com ( прямой)",
+  "category": "uzhedoma.ru",
+  "seller": "Bidvol.com (прямой) ",
+  "holding": "Bidvol.com (прямой) ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "Bidvol.com (прямой) ",
+      "seller": "Bidvol.com (прямой) ",
+      "site_meta": "Bidvol.com ( прямой)",
+      "full_row": [
+        "uzhedoma.ru",
+        "Bidvol.com (прямой) ",
+        "Bidvol.com (прямой) ",
+        "Bidvol.com ( прямой)",
+        "Bidvol.com ( прямой)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

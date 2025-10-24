@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gotennis.ru__s_",
+  "name": "Gotennis",
+  "site": "Gotennis.ru (S)",
+  "website_url": "https://Gotennis.ru (S)",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "Gotennis",
+  "holding": "Gotennis",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "Gotennis",
+      "seller": "Gotennis",
+      "site_meta": "Gotennis.ru (S)",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "Gotennis",
+        "Gotennis",
+        "Gotennis.ru (S)",
+        "Gotennis.ru (S)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Независимый эксперт",
+        "Независимый эксперт",
+        "5koleso",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

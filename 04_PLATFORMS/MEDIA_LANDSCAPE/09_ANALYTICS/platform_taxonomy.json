@@ -1,0 +1,317 @@
+{
+  "$schema": "platform_taxonomy_v1",
+  "version": "1.0",
+  "last_updated": "2025-10-24",
+  "source": "Realweb - Приоритетные Full медийные площадки под задачи 2024",
+  "description": "Типология рекламных площадок по функционалу и этапам воронки",
+  "taxonomy": [
+    {
+      "id": "taxonomy_interactive_mobile_001",
+      "type": "Интерактивы (мобайл)",
+      "funnel_stage": "Involvement",
+      "description": "Интерактивная реклама для мобильных устройств",
+      "key_benefits": [
+        "Вовлекаем в длительное и осознанное взаимодействие с брендом",
+        "Высокая запоминаемость",
+        "Более заинтересованный трафик",
+        "Выделяемся среди рекламного клаттера",
+        "Отстройка от конкурентов за счёт креатива",
+        "Альтернатива спецпроекту при малом бюджете или узкой ЦА",
+        "На FS поставщики делают продакшен 'под ключ' (от идеи до баннера)"
+      ],
+      "platforms": ["Bidease", "BYYD", "Mobidriven"],
+      "formats": ["playable_ads", "interactive_banner", "rewarded_video"],
+      "suitable_for": ["awareness", "consideration", "engagement"],
+      "min_budget_range": [50000, 200000],
+      "typical_metrics": {
+        "engagement_rate": "5-15%",
+        "time_spent": "30-60 сек"
+      }
+    },
+    {
+      "id": "taxonomy_interactive_video_001",
+      "type": "Интерактивы (видео / баннеры)",
+      "funnel_stage": "Involvement",
+      "description": "Интерактивная видеореклама и баннеры",
+      "key_benefits": [
+        "Вовлекаем в длительное и осознанное взаимодействие с брендом",
+        "Высокая запоминаемость",
+        "Выделяемся среди рекламного клаттера",
+        "Отстройка от конкурентов за счёт креатива",
+        "Альтернатива спецпроекту при малом бюджете",
+        "Продакшен 'под ключ' от поставщиков на FS"
+      ],
+      "platforms": ["Bidease", "Weborama", "GPM Digital"],
+      "formats": ["interactive_video", "rich_media", "interactive_display"],
+      "suitable_for": ["awareness", "consideration", "engagement"],
+      "min_budget_range": [100000, 300000]
+    },
+    {
+      "id": "taxonomy_native_001",
+      "type": "Нативная реклама",
+      "funnel_stage": "Все уровни",
+      "description": "Реклама, интегрированная в редакционный контент",
+      "key_benefits": [
+        "Показываем рекламу внутри тематического редакционного контента",
+        "Охват заинтересованной 'тёплой' аудитории в моменте",
+        "Снижаем баннерную слепоту",
+        "Реклама как ответ на вопрос пользователя, а не инфошум",
+        "Форматы в нативной редакционной верстке",
+        "Необычные имиджевые форматы (брендинг, интерактивы, видео+карусель)",
+        "Очень узкие тематики контента с таргетингом по ключевым словам"
+      ],
+      "platforms": ["Astra Lab", "Adwile Premium", "Forbes", "Vedomosti", "РБК"],
+      "formats": ["native_article", "native_video", "sponsored_content", "branded_content"],
+      "suitable_for": ["awareness", "consideration", "conversions", "brand_building"],
+      "min_budget_range": [50000, 500000],
+      "typical_metrics": {
+        "ctr": "0.8-2.5%",
+        "engagement_rate": "3-8%",
+        "time_on_page": "2-5 минут"
+      }
+    },
+    {
+      "id": "taxonomy_online_tv_001",
+      "type": "Онлайн ТВ и онлайн кинотеатры",
+      "funnel_stage": "Awareness, Involvement (спецпроекты)",
+      "description": "Видеореклама в онлайн-кинотеатрах и стриминговых сервисах",
+      "key_benefits": [
+        "Охватываем аудиторию LTV",
+        "Реклама на Smart TV / больших экранах - больше площадь контакта",
+        "Высокий VTR",
+        "100% легальный контент для brand-safety",
+        "Встраивание в тематический контент бренда",
+        "На FS доступны спецпроекты",
+        "Streaming ads: добираем охваты к ТВ",
+        "Низкий порог входа в ТВ-контент",
+        "Охват даже платных подписчиков онлайн к/т"
+      ],
+      "platforms": ["Premier", "IVI", "Okko", "Rutube", "KION", "START"],
+      "formats": ["preroll", "midroll", "postroll", "branded_integration", "sponsorship"],
+      "suitable_for": ["awareness", "brand_building", "reach"],
+      "min_budget_range": [200000, 1000000],
+      "typical_metrics": {
+        "vtr_15s": "75-85%",
+        "vtr_complete": "55-70%",
+        "viewability": "90-95%"
+      }
+    },
+    {
+      "id": "taxonomy_business_publishers_001",
+      "type": "Деловые охватники",
+      "funnel_stage": "Awareness, Involvement (спецпроекты)",
+      "description": "Премиальные деловые издания и медиа",
+      "key_benefits": [
+        "Гарантированный объём присутствия на авторитетных площадках",
+        "Аудитория доверяет площадкам",
+        "Охват премиальными форматами аудитории В+/С/С+",
+        "На FS контентные форматы и спецпроекты уровня Involvement"
+      ],
+      "platforms": ["Forbes", "Vedomosti", "Kommersant", "РБК", "Коммерсантъ"],
+      "formats": ["display_banner", "video", "native", "special_projects", "branded_content"],
+      "suitable_for": ["b2b", "premium_brands", "awareness", "brand_building"],
+      "target_audience": "Доход В+/С/С+, ЛПР, владельцы бизнеса",
+      "min_budget_range": [200000, 1000000],
+      "typical_metrics": {
+        "cpm": "500-1000₽",
+        "brand_safety": "99%",
+        "audience_quality": "very_high"
+      }
+    },
+    {
+      "id": "taxonomy_sales_lift_001",
+      "type": "Площадки с Sales Lift (+ др. исследования)",
+      "funnel_stage": "Все уровни",
+      "description": "Площадки с возможностью измерения оффлайн-эффективности",
+      "key_benefits": [
+        "Sales Lift: анализ эффективности РК в срезе оффлайн-покупок",
+        "Visit/Search Lift: оценка влияния на органический трафик",
+        "Не ограничиваемся стандартными возможностями Яндекса",
+        "BLS: оценка влияния на бренд-метрики даже при небольшом бюджете",
+        "Альтернатива полномасштабным исследованиям (Tiburon/OMI)"
+      ],
+      "platforms": ["Soloway", "Getintent", "Hybrid", "Otclick"],
+      "measurement_capabilities": [
+        "Sales Lift",
+        "Visit Lift",
+        "Search Lift",
+        "Brand Lift Study",
+        "Attribution",
+        "Offline Attribution"
+      ],
+      "suitable_for": ["fmcg", "retail", "ecommerce", "awareness", "performance"],
+      "min_budget_range": [300000, 1500000],
+      "notes": "Требуется минимальный бюджет для статистической значимости исследования"
+    },
+    {
+      "id": "taxonomy_custom_segments_001",
+      "type": "Крутые сегменты (фуллсервис)",
+      "funnel_stage": "Все уровни",
+      "description": "Платформы с возможностью кастомных сегментов аудитории",
+      "key_benefits": [
+        "Узкие кастомные сегменты для точного попадания в ЦА",
+        "Добираем уникальный охват",
+        "Можем выйти на аудиторию реальных покупателей",
+        "Тестируем самые необычные аудиторные гипотезы",
+        "На FS: кастомные аудитории + нестандартные форматы",
+        "Уникальная 1st party data поставщиков",
+        "Работа с ОФД данными + Sales Lift"
+      ],
+      "platforms": ["Otclick", "Soloway", "Getintent", "Adriver", "Segmento"],
+      "data_sources": [
+        "ОФД данные (чеки)",
+        "Real Estate data",
+        "Banking data",
+        "Telco data",
+        "Retail data",
+        "1st party data"
+      ],
+      "suitable_for": ["narrow_targeting", "performance", "precision_marketing"],
+      "min_budget_range": [200000, 1000000],
+      "typical_metrics": {
+        "precision": "very_high",
+        "unique_reach": "high"
+      }
+    },
+    {
+      "id": "taxonomy_digital_audio_001",
+      "type": "Диджитал аудио",
+      "funnel_stage": "Awareness, Involvement (диалоговая)",
+      "description": "Цифровая аудиореклама",
+      "key_benefits": [
+        "Заменяем/дополняем классическое радио",
+        "Возможность таргетирования = более целевой контакт",
+        "На FS доступна интерактивная диалоговая реклама",
+        "Повышаем запоминаемость через вовлечение",
+        "На FS поставщики могут делать продакшен аудио",
+        "Форматы с кликабельным баннером-компаньоном",
+        "Не только аудио, но и трафик"
+      ],
+      "platforms": ["Яндекс Музыка", "VK Музыка", "Spotify", "SoundStream", "Audiosmart"],
+      "formats": ["audio_ad", "interactive_audio", "companion_banner", "voice_ad"],
+      "suitable_for": ["awareness", "brand_building", "consideration"],
+      "target_audience": "Мобильные пользователи, слушатели музыки/подкастов",
+      "min_budget_range": [100000, 500000],
+      "typical_metrics": {
+        "completion_rate": "85-95%",
+        "attention": "very_high"
+      }
+    },
+    {
+      "id": "taxonomy_pirate_streaming_001",
+      "type": "Пиратка (серые онлайн кинотеатры)",
+      "funnel_stage": "Awareness, Involvement",
+      "description": "Реклама в нелегальных онлайн-кинотеатрах",
+      "key_benefits": [
+        "Охватываем аудиторию LTV",
+        "Добираем охваты к ТВ",
+        "Охват зрителей ушедших из РФ сервисов (Netflix, Megogo)",
+        "Аудитория, не переключившаяся на легальные к/т",
+        "На FS можем встраиваться в тематический контент",
+        "На FS используем не только ролики, но и баннеры, брендинги, интеграции",
+        "Отстройка от других рекламодателей"
+      ],
+      "platforms": ["Серые онлайн-кинотеатры (список скрыт)"],
+      "formats": ["preroll", "banner", "branding", "integration"],
+      "suitable_for": ["awareness", "reach", "mass_market"],
+      "risks": ["brand_safety", "legal", "quality"],
+      "min_budget_range": [50000, 300000],
+      "notes": "Рекомендуется только для определенных сегментов и с осторожностью",
+      "typical_metrics": {
+        "cpm": "очень низкий",
+        "reach": "high",
+        "quality": "medium"
+      }
+    },
+    {
+      "id": "taxonomy_shoppable_ads_001",
+      "type": "Shoppable ads",
+      "funnel_stage": "Involvement, Consideration",
+      "description": "Покупаемая реклама с прямой возможностью покупки",
+      "key_benefits": [
+        "Подсвечиваем конкретные продукты и офферы",
+        "Стимулируем покупку",
+        "С помощью 1 показа продвигаем целую линейку товаров",
+        "Сокращаем путь к покупке",
+        "Показываем актуальные цены и наличие"
+      ],
+      "platforms": ["Ozon", "Wildberries", "Яндекс Маркет", "VK Donut"],
+      "formats": ["product_card", "product_carousel", "shoppable_video", "catalog"],
+      "suitable_for": ["ecommerce", "retail", "direct_sales", "performance"],
+      "target_audience": "Покупатели с высоким intent",
+      "min_budget_range": [30000, 500000],
+      "typical_metrics": {
+        "cr": "2-8%",
+        "roas": "3-10x"
+      }
+    },
+    {
+      "id": "taxonomy_reach_universal_001",
+      "type": "Охватные / Универсалы / качественный трафик",
+      "funnel_stage": "Все уровни",
+      "description": "Универсальные партнеры с качественным трафиком",
+      "key_benefits": [
+        "Партнёры на FS, работающие с разными KPI и типами задач",
+        "Дополнительная экспертиза от специалистов площадки",
+        "Консолидация бюджетов на интересных с т.з. трейдинга поставщиков",
+        "Получаем лучшие условия размещения",
+        "Высокое качество трафика",
+        "Гибкость в задачах"
+      ],
+      "platforms": ["GPM Digital", "Weborama", "Soloway", "Getintent"],
+      "formats": ["all_formats"],
+      "suitable_for": ["all_objectives"],
+      "min_budget_range": [200000, 2000000],
+      "typical_metrics": {
+        "quality": "high",
+        "flexibility": "very_high"
+      }
+    },
+    {
+      "id": "taxonomy_cheap_traffic_001",
+      "type": "Дешевый трафик",
+      "funnel_stage": "Все уровни",
+      "description": "Площадки с низкой стоимостью трафика",
+      "key_benefits": [
+        "Получаем много доп. трафика на сайт с низкой СРС",
+        "Консолидируем бюджеты на самых интересных поставщиков",
+        "Получаем лучшие условия размещения",
+        "Хорошо для тестирования гипотез",
+        "Масштабирование охвата при ограниченном бюджете"
+      ],
+      "platforms": ["RTB сети", "Long-tail площадки", "Тизерные сети"],
+      "formats": ["display", "native", "teaser"],
+      "suitable_for": ["traffic", "testing", "mass_reach"],
+      "quality_level": "medium_to_low",
+      "min_budget_range": [20000, 200000],
+      "typical_metrics": {
+        "cpc": "3-15₽",
+        "cpm": "30-80₽",
+        "quality": "medium"
+      },
+      "notes": "Рекомендуется тщательная фильтрация и мониторинг качества"
+    }
+  ],
+  "usage_guide": {
+    "by_funnel_stage": {
+      "Awareness": ["online_tv_001", "business_publishers_001", "digital_audio_001", "reach_universal_001", "pirate_streaming_001"],
+      "Consideration": ["shoppable_ads_001", "native_001", "interactive_video_001"],
+      "Involvement": ["interactive_mobile_001", "interactive_video_001", "native_001", "digital_audio_001", "pirate_streaming_001", "shoppable_ads_001"],
+      "Performance": ["custom_segments_001", "shoppable_ads_001", "cheap_traffic_001"]
+    },
+    "by_budget": {
+      "small_budget": ["20000-100000", ["cheap_traffic_001", "shoppable_ads_001", "native_001"]],
+      "medium_budget": ["100000-500000", ["interactive_mobile_001", "interactive_video_001", "native_001", "digital_audio_001"]],
+      "large_budget": ["500000+", ["online_tv_001", "business_publishers_001", "sales_lift_001", "custom_segments_001", "reach_universal_001"]]
+    },
+    "by_objective": {
+      "brand_awareness": ["online_tv_001", "business_publishers_001", "digital_audio_001", "reach_universal_001"],
+      "engagement": ["interactive_mobile_001", "interactive_video_001", "native_001"],
+      "performance": ["shoppable_ads_001", "custom_segments_001", "cheap_traffic_001"],
+      "precision_targeting": ["custom_segments_001", "native_001"],
+      "measurement": ["sales_lift_001"]
+    }
+  },
+  "notes": "Данная типология основана на практике агентства Realweb и отражает специфику российского рынка 2024 года."
+}
+

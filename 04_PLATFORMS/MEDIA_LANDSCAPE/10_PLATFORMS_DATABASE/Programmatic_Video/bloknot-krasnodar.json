@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_bloknot-krasnodar",
+  "name": "Cre.ru (S) ",
+  "site": "Bloknot-krasnodar",
+  "website_url": "https://Bloknot-krasnodar",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Cre.ru (S) ",
+  "holding": "Cre.ru (S) ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Cre.ru (S) ",
+      "seller": "Cre.ru (S) ",
+      "site_meta": "Bloknot-krasnodar",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Cre.ru (S) ",
+        "Cre.ru (S) ",
+        "Bloknot-krasnodar",
+        "Bloknot-krasnodar",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "90.0",
+        "bloknot-krasnodar.ru (S)",
+        "bloknot-krasnodar.ru (S)",
+        "",
+        "Носков Александр aleksandr.noskov@sbermarket.ru"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_квартал_год",
+  "name": "Cnews",
+  "site": "квартал/год",
+  "website_url": "https://квартал/год",
+  "category": "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+  "seller": "Cnews",
+  "holding": "Cnews",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+      "holding": "Cnews",
+      "seller": "Cnews",
+      "site_meta": "квартал/год",
+      "full_row": [
+        "in-app (Performance). СК индивидуальная по согласованию с агентством ( только по клиентам, которых приводим мы)",
+        "Cnews",
+        "Cnews",
+        "квартал/год",
+        "квартал/год",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "66.ru",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

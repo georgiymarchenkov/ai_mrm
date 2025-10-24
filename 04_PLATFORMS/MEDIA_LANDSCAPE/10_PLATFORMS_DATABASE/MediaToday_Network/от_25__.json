@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_от_25__",
+  "name": "ООО \"МИРКВАРТИР.РУ\"",
+  "site": "от 25% ",
+  "website_url": "https://от 25% ",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "ООО \"МИРКВАРТИР.РУ\"",
+  "holding": "ООО \"МИРКВАРТИР.РУ\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "ООО \"МИРКВАРТИР.РУ\"",
+      "seller": "ООО \"МИРКВАРТИР.РУ\"",
+      "site_meta": "от 25% ",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "ООО \"МИРКВАРТИР.РУ\"",
+        "ООО \"МИРКВАРТИР.РУ\"",
+        "от 25% ",
+        "от 25% ",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "marina.melnikova@mirkvartir.ru   Марина Мельникова",
+        "Mirkvartir.ru (прямой_call)",
+        "Mirkvartir.ru (прямой_call)",
+        "Pronovostroy",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_tastesofrussia.ru__s_",
+  "name": "tastesofrussia",
+  "site": "tastesofrussia.ru (S)",
+  "website_url": "https://tastesofrussia.ru (S)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "tastesofrussia",
+  "holding": "tastesofrussia",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "tastesofrussia",
+      "seller": "tastesofrussia",
+      "site_meta": "",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "tastesofrussia",
+        "tastesofrussia",
+        "tastesofrussia.ru (S)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "HoReCa.Estate",
+        "HoReCa.Estate",
+        "HoReCa.Estate (S)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

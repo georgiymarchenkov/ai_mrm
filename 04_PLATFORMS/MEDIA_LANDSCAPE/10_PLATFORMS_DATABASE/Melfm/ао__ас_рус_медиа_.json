@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ао__ас_рус_медиа_",
+  "name": "исключения",
+  "site": "АО \"АС РУС МЕДИА\"",
+  "website_url": "https://АО \"АС РУС МЕДИА\"",
+  "category": "Mel.fm",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mel.fm",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "АО \"АС РУС МЕДИА\"",
+      "full_row": [
+        "Mel.fm",
+        "исключения",
+        "исключения",
+        "АО \"АС РУС МЕДИА\"",
+        "АО \"АС РУС МЕДИА\"",
+        "нет",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

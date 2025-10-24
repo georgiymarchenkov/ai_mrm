@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_monkeyconnect",
+  "name": ">",
+  "site": "Monkeyconnect",
+  "website_url": "https://Monkeyconnect",
+  "category": "Техника, Электроника",
+  "seller": ">",
+  "holding": ">",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": ">",
+      "seller": ">",
+      "site_meta": "Monkeyconnect",
+      "full_row": [
+        "Техника, Электроника",
+        ">",
+        ">",
+        "Monkeyconnect",
+        "Monkeyconnect",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Monkeyconnect.ru",
+        "20 дней со дня подписания сторонами акта",
+        "20 дней со дня подписания сторонами акта",
+        "ООО \"Манки\"",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

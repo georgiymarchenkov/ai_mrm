@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_womanhit.ru__s_",
+  "name": "Womanhit.ru (S)",
+  "site": "Womanhit.ru (S)",
+  "website_url": "https://Womanhit.ru (S)",
+  "category": "Sber",
+  "seller": "Womanhit.ru (S)",
+  "holding": "Womanhit.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Womanhit.ru (S)",
+      "seller": "Womanhit.ru (S)",
+      "site_meta": "Womanhit.ru (S)",
+      "full_row": [
+        "Sber",
+        "Womanhit.ru (S)",
+        "Womanhit.ru (S)",
+        "Womanhit.ru (S)",
+        "Womanhit.ru (S)",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "нет",
+        "ЗАО \"РЕКЛАМНО-ИНФОРМАЦИОННОЕ АГЕНСТВО \"О`КЕЙ\"",
+        "Womanhit.ru (S)",
+        "Womanhit.ru (S)",
+        "rcmm",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

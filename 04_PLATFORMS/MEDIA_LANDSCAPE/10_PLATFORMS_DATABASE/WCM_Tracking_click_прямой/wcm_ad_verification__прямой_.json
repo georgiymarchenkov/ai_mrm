@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_wcm_ad_verification__прямой_",
+  "name": "СК нет",
+  "site": "WCM Ad Verification (прямой)",
+  "website_url": "https://WCM Ad Verification (прямой)",
+  "category": "WCM Tracking click (прямой)",
+  "seller": "СК нет",
+  "holding": "СК нет",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "WCM Tracking click (прямой)",
+      "holding": "СК нет",
+      "seller": "СК нет",
+      "site_meta": "WCM Ad Verification (прямой)",
+      "full_row": [
+        "WCM Tracking click (прямой)",
+        "СК нет",
+        "СК нет",
+        "WCM Ad Verification (прямой)",
+        "WCM Ad Verification (прямой)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "WAM DMP (excl segment transmission)",
+        "WAM DMP (excl segment transmission)",
+        "Weborama.ru (Прямой_Segment)",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

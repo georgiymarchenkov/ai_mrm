@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_likeni.ru_m.seonews.ru__s_пакет_",
+  "name": "Likeni.ru+m.seonews.ru (S)",
+  "site": "Likeni.ru+m.seonews.ru (S_пакет)",
+  "website_url": "https://Likeni.ru+m.seonews.ru (S_пакет)",
+  "category": "uzhedoma.ru",
+  "seller": "Likeni.ru+m.seonews.ru (S)",
+  "holding": "Likeni.ru+m.seonews.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "Likeni.ru+m.seonews.ru (S)",
+      "seller": "Likeni.ru+m.seonews.ru (S)",
+      "site_meta": "Likeni.ru+m.seonews.ru (S_пакет)",
+      "full_row": [
+        "uzhedoma.ru",
+        "Likeni.ru+m.seonews.ru (S)",
+        "Likeni.ru+m.seonews.ru (S)",
+        "Likeni.ru+m.seonews.ru (S_пакет)",
+        "Likeni.ru+m.seonews.ru (S_пакет)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

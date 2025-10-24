@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_mastergrad.com__s___",
+  "name": "mastergrad.com (S)\n\n",
+  "site": "mastergrad.com (S)\n\n",
+  "website_url": "https://mastergrad.com (S)\n\n",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "mastergrad.com (S)\n\n",
+  "holding": "mastergrad.com (S)\n\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "mastergrad.com (S)\n\n",
+      "seller": "mastergrad.com (S)\n\n",
+      "site_meta": "mastergrad.com (S)\n\n",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "mastergrad.com (S)\n\n",
+        "mastergrad.com (S)\n\n",
+        "mastergrad.com (S)\n\n",
+        "mastergrad.com (S)\n\n",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Reffection",
+        "Reffection",
+        "",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

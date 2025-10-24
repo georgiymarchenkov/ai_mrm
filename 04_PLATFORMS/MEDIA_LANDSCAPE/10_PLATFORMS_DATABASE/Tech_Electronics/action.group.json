@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_action.group",
+  "name": "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+  "site": "action.group",
+  "website_url": "https://action.group",
+  "category": "Техника, Электроника",
+  "seller": "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+  "holding": "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+      "seller": "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+      "site_meta": "",
+      "full_row": [
+        "Техника, Электроника",
+        "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+        "Элеонора Барышева barysheva@digitalchurch.ru; krivoruchenko@digitalchurch.ru",
+        "action.group",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "ООО \"Т2 Мобайл\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

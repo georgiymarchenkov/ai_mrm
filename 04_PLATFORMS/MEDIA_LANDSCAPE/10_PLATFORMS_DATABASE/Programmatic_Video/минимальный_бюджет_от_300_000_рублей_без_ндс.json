@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_минимальный_бюджет_от_300_000_рублей_без_ндс",
+  "name": "PlayGround",
+  "site": "минимальный бюджет от 300 000 рублей без НДС",
+  "website_url": "https://минимальный бюджет от 300 000 рублей без НДС",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "PlayGround",
+  "holding": "PlayGround",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "PlayGround",
+      "seller": "PlayGround",
+      "site_meta": "минимальный бюджет от 300 000 рублей без НДС",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "PlayGround",
+        "PlayGround",
+        "минимальный бюджет от 300 000 рублей без НДС",
+        "минимальный бюджет от 300 000 рублей без НДС",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "на обновлении",
+        "на обновлении",
+        "Кирилл Баландин bk@playground.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

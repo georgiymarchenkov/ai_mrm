@@ -1,0 +1,39 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_0_35_cpv_",
+  "name": "0,35(CPV)",
+  "site": "0,35(CPV)",
+  "website_url": "https://0,35(CPV)",
+  "category": "Фулл другое",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Фулл другое": {
+        "Площадка": "0,35(CPV)",
+        "Формат": "70-75%",
+        "В какой контент встраивается?": "Микс",
+        "Платформа": "Desktop+mobile+TV",
+        "Тип видео": "In-stream",
+        "Пропускаемое?": "Skippable",
+        "СРМ средн. \n(гео + соцдем)": "350.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "350.0",
+        "Ёмкость (уники) ": "4.0E7",
+        "VTR 15 сек": "0.8",
+        "Наценки за хроно": "Digital Alliance (IVI, KION, Smotrim)",
+        "Viewability, ср. %": "0.7",
+        "IVT, ср. %": "более 20 сек - 15%",
+        "Комментарии": "Multi-roll (Video Network Flex)"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

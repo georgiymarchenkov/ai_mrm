@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_finrussia.ru___roden_media_pr_",
+  "name": ">",
+  "site": "Finrussia.ru  (Roden media_PR)",
+  "website_url": "https://Finrussia.ru  (Roden media_PR)",
+  "category": "Sber",
+  "seller": ">",
+  "holding": ">",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": ">",
+      "seller": ">",
+      "site_meta": "Finrussia.ru  (Roden media_PR)",
+      "full_row": [
+        "Sber",
+        ">",
+        ">",
+        "Finrussia.ru  (Roden media_PR)",
+        "Finrussia.ru  (Roden media_PR)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Антон Гринфельд <",
+        "a.grinfeld@roden-media.ru",
+        "a.grinfeld@roden-media.ru",
+        ">",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

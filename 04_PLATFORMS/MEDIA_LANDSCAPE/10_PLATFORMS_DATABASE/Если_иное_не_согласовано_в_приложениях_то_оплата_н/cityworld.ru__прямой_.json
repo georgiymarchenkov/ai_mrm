@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cityworld.ru__прямой_",
+  "name": "ОМГ",
+  "site": "cityworld.ru (прямой)",
+  "website_url": "https://cityworld.ru (прямой)",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "ОМГ",
+  "holding": "ОМГ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "ОМГ",
+      "seller": "ОМГ",
+      "site_meta": "cityworld.ru (прямой)",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "ОМГ",
+        "ОМГ",
+        "cityworld.ru (прямой)",
+        "cityworld.ru (прямой)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "ООО \"Медиа Групп\"",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

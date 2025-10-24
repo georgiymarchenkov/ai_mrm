@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ао__торговый_дом__перекресток_",
+  "name": "ООО \"Мел\"",
+  "site": "АО \"Торговый дом \"Перекресток\"",
+  "website_url": "https://АО \"Торговый дом \"Перекресток\"",
+  "category": "Mel.fm",
+  "seller": "ООО \"Мел\"",
+  "holding": "ООО \"Мел\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mel.fm",
+      "holding": "ООО \"Мел\"",
+      "seller": "ООО \"Мел\"",
+      "site_meta": "АО \"Торговый дом \"Перекресток\"",
+      "full_row": [
+        "Mel.fm",
+        "ООО \"Мел\"",
+        "ООО \"Мел\"",
+        "АО \"Торговый дом \"Перекресток\"",
+        "АО \"Торговый дом \"Перекресток\"",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "X5 retail group",
+        "X5 retail group",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

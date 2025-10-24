@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_soloway.ru__segment_internest_",
+  "name": "Soloway.ru (Full_DR_ Internest)",
+  "site": "Soloway.ru (Segment_Internest)",
+  "website_url": "https://Soloway.ru (Segment_Internest)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Soloway.ru (Full_DR_ Internest)",
+  "holding": "Soloway.ru (Full_DR_ Internest)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Soloway.ru (Full_DR_ Internest)",
+      "seller": "Soloway.ru (Full_DR_ Internest)",
+      "site_meta": "Soloway.ru (Segment_Internest)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Soloway.ru (Full_DR_ Internest)",
+        "Soloway.ru (Full_DR_ Internest)",
+        "Soloway.ru (Segment_Internest)",
+        "Soloway.ru (Segment_Internest)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Soloway.ru (Self_ Internest)",
+        "Soloway.ru (Self_ Internest)",
+        "Soloway.ru (Self_BLS_ Internest)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

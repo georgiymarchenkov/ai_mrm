@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_go_ahead",
+  "name": "Ирина Козлова i.kozlova@ria.ru",
+  "site": "Go Ahead",
+  "website_url": "https://Go Ahead",
+  "category": "kbalagurov@getintent.com Кирилл Балагуров",
+  "seller": "Otclick-adv",
+  "holding": "Ирина Козлова i.kozlova@ria.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "kbalagurov@getintent.com Кирилл Балагуров",
+      "holding": "Ирина Козлова i.kozlova@ria.ru",
+      "seller": "Otclick-adv",
+      "site_meta": "Go Ahead",
+      "full_row": [
+        "kbalagurov@getintent.com Кирилл Балагуров",
+        "Ирина Козлова i.kozlova@ria.ru",
+        "Otclick-adv",
+        "Go Ahead",
+        "Go Ahead",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "",
+        "10.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_50-60_",
+  "name": "50-60%",
+  "site": "50-60%",
+  "website_url": "https://50-60%",
+  "category": "Фулл нативка",
+  "seller": "",
+  "holding": "",
+  "data_sources": [
+    "olv"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "olv": {
+      "Фулл нативка": {
+        "In-app Rewarded": "50-60%",
+        "Формат": "Between Exchange",
+        "В какой контент встраивается?": "Тематический контент (нативка, ситуационка)",
+        "Платформа": "Desktop+mobile",
+        "Тип видео": "Cross-stream",
+        "Пропускаемое?": "UnSkippable",
+        "СРМ средн. \n(гео + соцдем)": "300.0",
+        "СРМ средн. \n(гео + соцдем + интерес)": "300.0",
+        "Ёмкость (уники) ": "9000000.0",
+        "VTR 15 сек": "0.85",
+        "Наценки за хроно": "нет",
+        "Viewability, ср. %": "0.9",
+        "IVT, ср. %": "0.05"
+      }
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

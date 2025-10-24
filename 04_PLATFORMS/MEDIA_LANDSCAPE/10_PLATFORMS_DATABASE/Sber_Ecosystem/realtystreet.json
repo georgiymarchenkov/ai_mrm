@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_realtystreet",
+  "name": "Realtystreet",
+  "site": "Realtystreet",
+  "website_url": "https://Realtystreet",
+  "category": "Sber",
+  "seller": "Realtystreet",
+  "holding": "Realtystreet",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Realtystreet",
+      "seller": "Realtystreet",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "Realtystreet",
+        "Realtystreet",
+        "Realtystreet",
+        "",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "Realtystreet.ru",
+        "Realtystreet",
+        "Realtystreet",
+        "rcmm",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_dtf.ru__прямой_exceptions_",
+  "name": "Dtf.ru (прямой_production)",
+  "site": "Dtf.ru (прямой_exceptions)",
+  "website_url": "https://Dtf.ru (прямой_exceptions)",
+  "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+  "seller": "Dtf.ru (прямой_production)",
+  "holding": "Dtf.ru (прямой_production)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+      "holding": "Dtf.ru (прямой_production)",
+      "seller": "Dtf.ru (прямой_production)",
+      "site_meta": "Dtf.ru (прямой_exceptions)",
+      "full_row": [
+        "Sergey Makarov <makarov@cmtt.ru>, Заира Залова zalova@cmtt.ru",
+        "Dtf.ru (прямой_production)",
+        "Dtf.ru (прямой_production)",
+        "Dtf.ru (прямой_exceptions)",
+        "Dtf.ru (прямой_exceptions)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "Nativity",
+        "Nativity",
+        "услуги под платформу 6feeds ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

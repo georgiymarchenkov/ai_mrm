@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gnezdo.ru__прямой_zero_",
+  "name": "Минимальный бюджет 150 т.р.\n",
+  "site": "gnezdo.ru (прямой_Zero)",
+  "website_url": "https://gnezdo.ru (прямой_Zero)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Минимальный бюджет 150 т.р.\n",
+  "holding": "Минимальный бюджет 150 т.р.\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Минимальный бюджет 150 т.р.\n",
+      "seller": "Минимальный бюджет 150 т.р.\n",
+      "site_meta": "gnezdo.ru (прямой_Zero)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Минимальный бюджет 150 т.р.\n",
+        "Минимальный бюджет 150 т.р.\n",
+        "gnezdo.ru (прямой_Zero)",
+        "gnezdo.ru (прямой_Zero)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "30.0",
+        "для размещений с пониженной СК",
+        "для размещений с пониженной СК",
+        "Ася Соколовская a.sokolovskaya@nox.ru\n\n",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

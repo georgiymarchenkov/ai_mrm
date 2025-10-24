@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ki-news",
+  "name": "ООО \"ФО ЛИДС\"",
+  "site": "ki-news",
+  "website_url": "https://ki-news",
+  "category": "ООО \"Инлаб\"",
+  "seller": "ООО \"ФО ЛИДС\"",
+  "holding": "ООО \"ФО ЛИДС\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "ООО \"Инлаб\"",
+      "holding": "ООО \"ФО ЛИДС\"",
+      "seller": "ООО \"ФО ЛИДС\"",
+      "site_meta": "ki-news",
+      "full_row": [
+        "ООО \"Инлаб\"",
+        "ООО \"ФО ЛИДС\"",
+        "ООО \"ФО ЛИДС\"",
+        "ki-news",
+        "ki-news",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "Nikita Lukyanov <n.lukyanov@cpaexchange.net>; Viktoriya Brekhova <v.brekhova@cpaexchange.net>; Ekaterina Shinkevich <ekaterina.shinkevich@cpaexchange.net>",
+        "Nikita Lukyanov <n.lukyanov@cpaexchange.net>; Viktoriya Brekhova <v.brekhova@cpaexchange.net>; Ekaterina Shinkevich <ekaterina.shinkevich@cpaexchange.net>",
+        "zoneofgames",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

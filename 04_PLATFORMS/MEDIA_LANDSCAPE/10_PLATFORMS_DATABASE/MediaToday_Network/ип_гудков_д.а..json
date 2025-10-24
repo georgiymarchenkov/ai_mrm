@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ип_гудков_д.а.",
+  "name": "Павел Уйманов rost1903.91@mail.ru\n",
+  "site": "ИП Гудков Д.А.",
+  "website_url": "https://ИП Гудков Д.А.",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Павел Уйманов rost1903.91@mail.ru\n",
+  "holding": "Павел Уйманов rost1903.91@mail.ru\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Павел Уйманов rost1903.91@mail.ru\n",
+      "seller": "Павел Уйманов rost1903.91@mail.ru\n",
+      "site_meta": "",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Павел Уйманов rost1903.91@mail.ru\n",
+        "Павел Уйманов rost1903.91@mail.ru\n",
+        "ИП Гудков Д.А.",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "ООО \"Т2 Мобайл\"",
+        "alexey.a.kovalev@tele2.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

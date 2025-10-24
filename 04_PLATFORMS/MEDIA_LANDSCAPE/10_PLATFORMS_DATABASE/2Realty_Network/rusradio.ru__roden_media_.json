@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_rusradio.ru__roden_media_",
+  "name": "New-retail.ru (S)",
+  "site": "Rusradio.ru (Roden media)",
+  "website_url": "https://Rusradio.ru (Roden media)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "New-retail.ru (S)",
+  "holding": "New-retail.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "New-retail.ru (S)",
+      "seller": "New-retail.ru (S)",
+      "site_meta": "Rusradio.ru (Roden media)",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "New-retail.ru (S)",
+        "New-retail.ru (S)",
+        "Rusradio.ru (Roden media)",
+        "Rusradio.ru (Roden media)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "35-40",
+        "Антон Гринфельд <",
+        "",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

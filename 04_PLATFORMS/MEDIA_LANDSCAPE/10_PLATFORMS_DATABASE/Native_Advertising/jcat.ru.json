@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_jcat.ru",
+  "name": "Jcat",
+  "site": "jcat.ru",
+  "website_url": "https://jcat.ru",
+  "category": "Нативная реклама",
+  "seller": "Jcat",
+  "holding": "Jcat",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Нативная реклама",
+      "holding": "Jcat",
+      "seller": "Jcat",
+      "site_meta": "jcat.ru",
+      "full_row": [
+        "Нативная реклама",
+        "Jcat",
+        "Jcat",
+        "jcat.ru",
+        "jcat.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"ДЖЕЙКЕТ.РУ\" ",
+        "ООО \"ДЖЕЙКЕТ.РУ\" ",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

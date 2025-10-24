@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_timeout.ru__bs_",
+  "name": "Mama.ru (BS)",
+  "site": "Timeout.ru (BS)",
+  "website_url": "https://Timeout.ru (BS)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Mama.ru (BS)",
+  "holding": "Mama.ru (BS)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Mama.ru (BS)",
+      "seller": "Mama.ru (BS)",
+      "site_meta": "Timeout.ru (BS)",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Mama.ru (BS)",
+        "Mama.ru (BS)",
+        "Timeout.ru (BS)",
+        "Timeout.ru (BS)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

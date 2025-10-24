@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__вайлд_джем_",
+  "name": "ООО \"ВАЙЛД ДЖЕМ\"",
+  "site": "ООО \"ВАЙЛД ДЖЕМ\"",
+  "website_url": "https://ООО \"ВАЙЛД ДЖЕМ\"",
+  "category": "полугодие",
+  "seller": "ООО \"ВАЙЛД ДЖЕМ\"",
+  "holding": "ООО \"ВАЙЛД ДЖЕМ\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "ООО \"ВАЙЛД ДЖЕМ\"",
+      "seller": "ООО \"ВАЙЛД ДЖЕМ\"",
+      "site_meta": "",
+      "full_row": [
+        "полугодие",
+        "ООО \"ВАЙЛД ДЖЕМ\"",
+        "ООО \"ВАЙЛД ДЖЕМ\"",
+        "ООО \"ВАЙЛД ДЖЕМ\"",
+        "",
+        "нет",
+        "да",
+        "RW",
+        "",
+        "",
+        "",
+        "СК начисляется только на эксклюзивных блогеров\nСписок эксклюзивных блогеров по ссылке https://docs.google.com/spreadsheets/d/15MrXbKd_h-XWo_-r8O5XR-TDDjmpA_1Qiyq9NebSSpI/edit?usp=sharing \"Э\" - эксклюзивные.\n\"П\" - партнеры.\n\n",
+        "СК начисляется только на эксклюзивных блогеров\nСписок эксклюзивных блогеров по ссылке https://docs.google.com/spreadsheets/d/15MrXbKd_h-XWo_-r8O5XR-TDDjmpA_1Qiyq9NebSSpI/edit?usp=sharing \"Э\" - эксклюзивные.\n\"П\" - партнеры.\n\n",
+        "viktoria.zakharova@wildjam.ru Виктория Захарова",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

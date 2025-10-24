@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ориентировочная_шкала_клиентских_скидок_на_медийку_по_прайсу___до_250_000_-0____250_000_-_499_999_-_20___500_000_-_999_999_-_30___более_1_млн_-_40_",
+  "name": "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+  "site": "ориентировочная шкала клиентских скидок на медийку по прайсу:\n до 250 000 -0 %\n 250 000 - 499 999 - 20%\n 500 000 - 999 999 - 30%\n более 1 млн - 40%",
+  "website_url": "https://ориентировочная шкала клиентских скидок на медийку по прайсу:\n до 250 000 -0 %\n 250 000 - 499 999 - 20%\n 500 000 - 999 999 - 30%\n более 1 млн - 40%",
+  "category": "Sber",
+  "seller": "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+  "holding": "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+      "seller": "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+      "site_meta": "ориентировочная шкала клиентских скидок на медийку по прайсу:\n до 250 000 -0 %\n 250 000 - 499 999 - 20%\n 500 000 - 999 999 - 30%\n более 1 млн - 40%",
+      "full_row": [
+        "Sber",
+        "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+        "https://docs.google.com/spreadsheets/d/1okWR_dpQRY2lN1BMtFpr1acxsrCWrTicR5hmtoH_hi4/edit#gid=1595025457",
+        "ориентировочная шкала клиентских скидок на медийку по прайсу:\n до 250 000 -0 %\n 250 000 - 499 999 - 20%\n 500 000 - 999 999 - 30%\n более 1 млн - 40%",
+        "ориентировочная шкала клиентских скидок на медийку по прайсу:\n до 250 000 -0 %\n 250 000 - 499 999 - 20%\n 500 000 - 999 999 - 30%\n более 1 млн - 40%",
+        "",
+        "нет",
+        "RW",
+        "да",
+        "нет",
+        "Kolesa",
+        "Kolesa.ru (W)",
+        "Kolesa.ru (W)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

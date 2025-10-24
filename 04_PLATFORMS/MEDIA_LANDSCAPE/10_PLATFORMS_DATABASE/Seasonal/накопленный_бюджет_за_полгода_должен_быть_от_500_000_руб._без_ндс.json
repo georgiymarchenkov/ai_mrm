@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_накопленный_бюджет_за_полгода_должен_быть_от_500_000_руб._без_ндс",
+  "name": "hr-director.ru (S)",
+  "site": "Накопленный бюджет за полгода должен быть от 500 000 руб. без НДС",
+  "website_url": "https://Накопленный бюджет за полгода должен быть от 500 000 руб. без НДС",
+  "category": "полугодие",
+  "seller": "hr-director.ru (S)",
+  "holding": "hr-director.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "hr-director.ru (S)",
+      "seller": "hr-director.ru (S)",
+      "site_meta": "Hr-elearning",
+      "full_row": [
+        "полугодие",
+        "hr-director.ru (S)",
+        "hr-director.ru (S)",
+        "Накопленный бюджет за полгода должен быть от 500 000 руб. без НДС",
+        "Hr-elearning",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "hr-elearning.ru (S)",
+        "hr-elearning.ru (S)",
+        "По Размещению РИМ постоплата 60 дней. По размещению Спецраздела (рубрики) - предоплата. Базовая стоимость размещения статьи - 20000 руб. Размещение от 3-х статей - скидка 10%.",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

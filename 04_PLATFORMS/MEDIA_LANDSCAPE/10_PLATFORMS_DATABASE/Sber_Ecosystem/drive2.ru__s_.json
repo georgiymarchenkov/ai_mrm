@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_drive2.ru__s_",
+  "name": "Drive2.ru (S)",
+  "site": "Drive2.ru (S)",
+  "website_url": "https://Drive2.ru (S)",
+  "category": "Sber",
+  "seller": "Drive2.ru (S)",
+  "holding": "Drive2.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Drive2.ru (S)",
+      "seller": "Drive2.ru (S)",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "Drive2.ru (S)",
+        "Drive2.ru (S)",
+        "Drive2.ru (S)",
+        "",
+        "нет",
+        "нет",
+        "RW",
+        "Rg.ru",
+        "нет",
+        "на согласовании",
+        "Drive2.ru (S)",
+        "Drive2.ru (S)",
+        "ООО \"Драйв\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

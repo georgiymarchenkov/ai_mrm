@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_novostroycity",
+  "name": "Vsenovostroyki.ru(S)",
+  "site": "Novostroycity",
+  "website_url": "https://Novostroycity",
+  "category": "Техника, Электроника",
+  "seller": "Vsenovostroyki.ru(S)",
+  "holding": "Vsenovostroyki.ru(S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Vsenovostroyki.ru(S)",
+      "seller": "Vsenovostroyki.ru(S)",
+      "site_meta": "",
+      "full_row": [
+        "Техника, Электроника",
+        "Vsenovostroyki.ru(S)",
+        "Vsenovostroyki.ru(S)",
+        "Novostroycity",
+        "",
+        "да",
+        "да",
+        "RW",
+        "",
+        "",
+        "60.0",
+        "Novostroycity.ru ",
+        "Novostroycity.ru ",
+        "Novostroycity.ru (S)",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

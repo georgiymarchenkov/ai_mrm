@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_harpersbazaar.com__w___бывший_bazaar_",
+  "name": "исключения",
+  "site": "Harpersbazaar.com (W)( бывший Bazaar)",
+  "website_url": "https://Harpersbazaar.com (W)( бывший Bazaar)",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "Harpersbazaar.com (W)( бывший Bazaar)",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "исключения",
+        "исключения",
+        "Harpersbazaar.com (W)( бывший Bazaar)",
+        "Harpersbazaar.com (W)( бывший Bazaar)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,628 @@
+{
+  "$schema": "platform_schema_v1",
+  "version": "1.0",
+  "last_updated": "2025-10-24",
+  "platforms": [
+    {
+      "id": "plt_vk_ads_001",
+      "code": "vk_ads",
+      "name": "VK Реклама",
+      "name_en": "VK Ads",
+      "category": "social_media",
+      "subcategory": "social_network",
+      "type": "self_service",
+      "tags": ["социальные сети", "таргетинг", "молодая аудитория", "видео", "stories"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Крупнейшая социальная сеть России с возможностями таргетированной рекламы. Подходит для широкого спектра задач: от охватных кампаний до performance-маркетинга.",
+      "logo_url": "https://vk.com/images/logo.svg",
+      "website_url": "https://ads.vk.com",
+      "media_kit_url": "https://ads.vk.com/media-kit",
+      "audience": {
+        "monthly_reach": 60000000,
+        "daily_reach": 45000000,
+        "registered_users": 97000000,
+        "active_users": 73000000
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 28,
+          "25-34": 32,
+          "35-44": 22,
+          "45-54": 12,
+          "55+": 6
+        },
+        "gender_distribution": {
+          "male": 48,
+          "female": 52
+        },
+        "geo_distribution": {
+          "moscow": 18,
+          "spb": 8,
+          "other_cities": 74
+        }
+      },
+      "capabilities": {
+        "has_api": true,
+        "api_version": "5.131",
+        "supports_rtb": false,
+        "supports_programmatic": false,
+        "tracking_capabilities": ["pixel", "postback"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 5000,
+        "minimum_campaign_duration": null,
+        "payment_terms": ["prepay_100", "credit_line"],
+        "vat_included": true,
+        "agency_discount": 5
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": ["plt_ok_001", "plt_mytarget_001"]
+    },
+    {
+      "id": "plt_yandex_direct_001",
+      "code": "yandex_direct",
+      "name": "Яндекс Директ",
+      "name_en": "Yandex Direct",
+      "category": "search",
+      "subcategory": "context_search",
+      "type": "self_service",
+      "tags": ["контекст", "поиск", "РСЯ", "performance", "конверсии"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Крупнейшая платформа контекстной рекламы в России. Включает поиск Яндекса и Рекламную Сеть Яндекса (РСЯ).",
+      "logo_url": "https://yandex.ru/images/direct-logo.svg",
+      "website_url": "https://direct.yandex.ru",
+      "media_kit_url": "https://yandex.ru/adv/products/direct",
+      "audience": {
+        "monthly_reach": 75000000,
+        "daily_reach": 55000000,
+        "registered_users": null,
+        "active_users": null
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 18,
+          "25-34": 28,
+          "35-44": 26,
+          "45-54": 18,
+          "55+": 10
+        },
+        "gender_distribution": {
+          "male": 52,
+          "female": 48
+        },
+        "geo_distribution": {
+          "moscow": 22,
+          "spb": 9,
+          "other_cities": 69
+        }
+      },
+      "capabilities": {
+        "has_api": true,
+        "api_version": "5",
+        "supports_rtb": true,
+        "supports_programmatic": true,
+        "tracking_capabilities": ["pixel", "s2s", "postback"],
+        "attribution_window": 30
+      },
+      "commercial": {
+        "minimum_budget": 10000,
+        "minimum_campaign_duration": null,
+        "payment_terms": ["prepay_100", "postpay_30", "credit_line"],
+        "vat_included": true,
+        "agency_discount": 3
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": ["plt_yandex_display_001", "plt_yandex_video_001"]
+    },
+    {
+      "id": "plt_mytarget_001",
+      "code": "mytarget",
+      "name": "myTarget",
+      "name_en": "myTarget",
+      "category": "targeted_advertising",
+      "subcategory": "dsp",
+      "type": "self_service",
+      "tags": ["таргетинг", "mail.ru", "одноклассники", "programmatic"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Платформа таргетированной рекламы Mail.ru Group. Доступ к аудиториям Одноклассников, Mail.ru, Юла и другим площадкам.",
+      "logo_url": "https://target.my.com/logo.svg",
+      "website_url": "https://target.my.com",
+      "media_kit_url": "https://target.my.com/media-kit",
+      "audience": {
+        "monthly_reach": 40000000,
+        "daily_reach": 28000000,
+        "registered_users": null,
+        "active_users": null
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 15,
+          "25-34": 25,
+          "35-44": 28,
+          "45-54": 20,
+          "55+": 12
+        },
+        "gender_distribution": {
+          "male": 42,
+          "female": 58
+        },
+        "geo_distribution": {
+          "moscow": 16,
+          "spb": 7,
+          "other_cities": 77
+        }
+      },
+      "capabilities": {
+        "has_api": true,
+        "api_version": "2.0",
+        "supports_rtb": true,
+        "supports_programmatic": true,
+        "tracking_capabilities": ["pixel", "postback", "s2s"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 3000,
+        "minimum_campaign_duration": null,
+        "payment_terms": ["prepay_100", "credit_line"],
+        "vat_included": true,
+        "agency_discount": 5
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": ["plt_ok_001", "plt_mailru_001"]
+    },
+    {
+      "id": "plt_telegram_ads_001",
+      "code": "telegram_ads",
+      "name": "Telegram Ads",
+      "name_en": "Telegram Ads",
+      "category": "social_media",
+      "subcategory": "messenger",
+      "type": "self_service",
+      "tags": ["мессенджер", "каналы", "высокий ctr", "quality_audience"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Рекламная платформа в Telegram. Реклама в каналах с оплатой за показы (CPM).",
+      "logo_url": "https://telegram.org/img/t_logo.svg",
+      "website_url": "https://promote.telegram.org",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 30000000,
+        "daily_reach": 25000000,
+        "registered_users": 48000000,
+        "active_users": 35000000
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 32,
+          "25-34": 38,
+          "35-44": 20,
+          "45-54": 8,
+          "55+": 2
+        },
+        "gender_distribution": {
+          "male": 58,
+          "female": 42
+        },
+        "geo_distribution": {
+          "moscow": 25,
+          "spb": 12,
+          "other_cities": 63
+        }
+      },
+      "capabilities": {
+        "has_api": true,
+        "api_version": "1.0",
+        "supports_rtb": false,
+        "supports_programmatic": false,
+        "tracking_capabilities": ["url_params"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 10000,
+        "minimum_campaign_duration": null,
+        "payment_terms": ["prepay_100"],
+        "vat_included": false,
+        "agency_discount": 0
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": []
+    },
+    {
+      "id": "plt_ok_001",
+      "code": "odnoklassniki",
+      "name": "Одноклассники",
+      "name_en": "Odnoklassniki",
+      "category": "social_media",
+      "subcategory": "social_network",
+      "type": "self_service",
+      "tags": ["социальные сети", "возрастная аудитория", "регионы"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Социальная сеть с более возрастной аудиторией. Сильное присутствие в регионах.",
+      "logo_url": "https://ok.ru/logo.svg",
+      "website_url": "https://ok.ru/advertising",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 45000000,
+        "daily_reach": 32000000,
+        "registered_users": 71000000,
+        "active_users": 50000000
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 12,
+          "25-34": 22,
+          "35-44": 30,
+          "45-54": 24,
+          "55+": 12
+        },
+        "gender_distribution": {
+          "male": 35,
+          "female": 65
+        },
+        "geo_distribution": {
+          "moscow": 12,
+          "spb": 5,
+          "other_cities": 83
+        }
+      },
+      "capabilities": {
+        "has_api": true,
+        "api_version": "1.0",
+        "supports_rtb": false,
+        "supports_programmatic": false,
+        "tracking_capabilities": ["pixel"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 3000,
+        "minimum_campaign_duration": null,
+        "payment_terms": ["prepay_100"],
+        "vat_included": true,
+        "agency_discount": 5
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": "plt_mytarget_001",
+      "related_platform_ids": ["plt_mytarget_001", "plt_mailru_001"]
+    },
+    {
+      "id": "plt_gpm_001",
+      "code": "gpm_network",
+      "name": "GPM Digital Network",
+      "name_en": "GPM Digital Network",
+      "category": "video",
+      "subcategory": "video_network",
+      "type": "managed",
+      "tags": ["видео", "preroll", "rutube", "premier", "quality"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Крупнейшая видеосеть России. Включает Rutube, Premier, и другие видеоплощадки.",
+      "logo_url": null,
+      "website_url": "https://gpm.ru",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 70000000,
+        "daily_reach": 45000000,
+        "registered_users": null,
+        "active_users": null
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 25,
+          "25-34": 35,
+          "35-44": 25,
+          "45-54": 10,
+          "55+": 5
+        },
+        "gender_distribution": {
+          "male": 55,
+          "female": 45
+        },
+        "geo_distribution": {
+          "moscow": 20,
+          "spb": 10,
+          "other_cities": 70
+        }
+      },
+      "capabilities": {
+        "has_api": false,
+        "api_version": null,
+        "supports_rtb": false,
+        "supports_programmatic": true,
+        "tracking_capabilities": ["pixel", "vast"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 100000,
+        "minimum_campaign_duration": 7,
+        "payment_terms": ["prepay_50", "postpay_14"],
+        "vat_included": true,
+        "agency_discount": 10
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": ["plt_rutube_001", "plt_premier_001"]
+    },
+    {
+      "id": "plt_ozon_ads_001",
+      "code": "ozon_ads",
+      "name": "Ozon Реклама",
+      "name_en": "Ozon Ads",
+      "category": "ecom",
+      "subcategory": "marketplace",
+      "type": "self_service",
+      "tags": ["ecommerce", "товарная реклама", "marketplace", "продажи"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Рекламная платформа маркетплейса Ozon. Товарная реклама, баннеры, и спонсорские продукты.",
+      "logo_url": "https://ozon.ru/logo.svg",
+      "website_url": "https://ads.ozon.ru",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 35000000,
+        "daily_reach": 15000000,
+        "registered_users": 52000000,
+        "active_users": 28000000
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 22,
+          "25-34": 38,
+          "35-44": 28,
+          "45-54": 10,
+          "55+": 2
+        },
+        "gender_distribution": {
+          "male": 45,
+          "female": 55
+        },
+        "geo_distribution": {
+          "moscow": 22,
+          "spb": 10,
+          "other_cities": 68
+        }
+      },
+      "capabilities": {
+        "has_api": true,
+        "api_version": "1.0",
+        "supports_rtb": false,
+        "supports_programmatic": false,
+        "tracking_capabilities": ["internal"],
+        "attribution_window": 14
+      },
+      "commercial": {
+        "minimum_budget": 5000,
+        "minimum_campaign_duration": null,
+        "payment_terms": ["prepay_100"],
+        "vat_included": true,
+        "agency_discount": 0
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": ["plt_wildberries_ads_001", "plt_yandex_market_001"]
+    },
+    {
+      "id": "plt_interpool_001",
+      "code": "interpool",
+      "name": "Interpool",
+      "name_en": "Interpool",
+      "category": "video",
+      "subcategory": "video_network",
+      "type": "managed",
+      "tags": ["видео", "premium", "quality", "instream"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Премиальная видеосеть с высоким качеством трафика. In-stream размещение на топовых площадках.",
+      "logo_url": null,
+      "website_url": "https://interpool.tv",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 3000000,
+        "daily_reach": 1500000,
+        "registered_users": null,
+        "active_users": null
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 20,
+          "25-34": 35,
+          "35-44": 30,
+          "45-54": 12,
+          "55+": 3
+        },
+        "gender_distribution": {
+          "male": 50,
+          "female": 50
+        },
+        "geo_distribution": {
+          "moscow": 35,
+          "spb": 15,
+          "other_cities": 50
+        }
+      },
+      "capabilities": {
+        "has_api": false,
+        "api_version": null,
+        "supports_rtb": false,
+        "supports_programmatic": true,
+        "tracking_capabilities": ["pixel", "vast"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 150000,
+        "minimum_campaign_duration": 7,
+        "payment_terms": ["prepay_50", "postpay_14"],
+        "vat_included": true,
+        "agency_discount": 12
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": []
+    },
+    {
+      "id": "plt_adwile_001",
+      "code": "adwile_premium",
+      "name": "Adwile Premium",
+      "name_en": "Adwile Premium",
+      "category": "native",
+      "subcategory": "native_network",
+      "type": "managed",
+      "tags": ["native", "контент", "новости", "качество"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Премиальная нативная реклама на новостных и контентных площадках.",
+      "logo_url": null,
+      "website_url": "https://adwile.com",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 5000000,
+        "daily_reach": 2500000,
+        "registered_users": null,
+        "active_users": null
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 15,
+          "25-34": 30,
+          "35-44": 32,
+          "45-54": 18,
+          "55+": 5
+        },
+        "gender_distribution": {
+          "male": 60,
+          "female": 40
+        },
+        "geo_distribution": {
+          "moscow": 30,
+          "spb": 12,
+          "other_cities": 58
+        }
+      },
+      "capabilities": {
+        "has_api": false,
+        "api_version": null,
+        "supports_rtb": false,
+        "supports_programmatic": false,
+        "tracking_capabilities": ["pixel"],
+        "attribution_window": 7
+      },
+      "commercial": {
+        "minimum_budget": 50000,
+        "minimum_campaign_duration": 7,
+        "payment_terms": ["prepay_100"],
+        "vat_included": true,
+        "agency_discount": 8
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": []
+    },
+    {
+      "id": "plt_forbes_001",
+      "code": "forbes_ru",
+      "name": "Forbes Russia",
+      "name_en": "Forbes Russia",
+      "category": "content",
+      "subcategory": "media",
+      "type": "managed",
+      "tags": ["бизнес", "premium", "b2b", "качественная аудитория"],
+      "status": "active",
+      "availability": "russia",
+      "is_active": true,
+      "description": "Премиальная бизнес-площадка. Качественная аудитория с высоким доходом.",
+      "logo_url": "https://forbes.ru/logo.svg",
+      "website_url": "https://forbes.ru",
+      "media_kit_url": null,
+      "audience": {
+        "monthly_reach": 9000000,
+        "daily_reach": 3000000,
+        "registered_users": null,
+        "active_users": null
+      },
+      "demographics": {
+        "age_distribution": {
+          "18-24": 8,
+          "25-34": 32,
+          "35-44": 38,
+          "45-54": 18,
+          "55+": 4
+        },
+        "gender_distribution": {
+          "male": 68,
+          "female": 32
+        },
+        "geo_distribution": {
+          "moscow": 42,
+          "spb": 15,
+          "other_cities": 43
+        }
+      },
+      "capabilities": {
+        "has_api": false,
+        "api_version": null,
+        "supports_rtb": false,
+        "supports_programmatic": false,
+        "tracking_capabilities": ["pixel"],
+        "attribution_window": 30
+      },
+      "commercial": {
+        "minimum_budget": 200000,
+        "minimum_campaign_duration": 14,
+        "payment_terms": ["prepay_100", "postpay_30"],
+        "vat_included": true,
+        "agency_discount": 15
+      },
+      "created_at": "2025-10-24T10:00:00Z",
+      "updated_at": "2025-10-24T10:00:00Z",
+      "last_verified_at": "2025-10-24T10:00:00Z",
+      "parent_platform_id": null,
+      "related_platform_ids": []
+    }
+  ],
+  "total_platforms": 10,
+  "categories_summary": {
+    "social_media": 3,
+    "search": 1,
+    "targeted_advertising": 1,
+    "video": 2,
+    "ecom": 1,
+    "native": 1,
+    "content": 1
+  }
+}
+

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kvmeter.ru__s_",
+  "name": "Otclick-adv",
+  "site": "Kvmeter.ru (S)",
+  "website_url": "https://Kvmeter.ru (S)",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "Otclick-adv",
+  "holding": "Otclick-adv",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "Otclick-adv",
+      "seller": "Otclick-adv",
+      "site_meta": "Kvmeter.ru (S)",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "Otclick-adv",
+        "Otclick-adv",
+        "Kvmeter.ru (S)",
+        "Kvmeter.ru (S)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "",
+        "15.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

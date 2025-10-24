@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_roomberry.ru__прямой_",
+  "name": "Roomberry",
+  "site": "roomberry.ru (прямой)",
+  "website_url": "https://roomberry.ru (прямой)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Roomberry",
+  "holding": "Roomberry",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Roomberry",
+      "seller": "Roomberry",
+      "site_meta": "roomberry.ru (прямой)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Roomberry",
+        "Roomberry",
+        "roomberry.ru (прямой)",
+        "roomberry.ru (прямой)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "",
+        "45 календарных дней после окончания отчетного периода.",
+        "ООО \"Румбери\"",
+        "ООО \"Румбери\"",
+        "Михаил Mlh@roomberry.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

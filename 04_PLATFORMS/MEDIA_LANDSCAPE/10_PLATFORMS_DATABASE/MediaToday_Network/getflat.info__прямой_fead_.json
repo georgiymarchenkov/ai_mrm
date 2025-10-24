@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_getflat.info__прямой_fead_",
+  "name": "DV Group",
+  "site": "Getflat.info (Прямой_Fead)",
+  "website_url": "https://Getflat.info (Прямой_Fead)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "DV Group",
+  "holding": "DV Group",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "DV Group",
+      "seller": "DV Group",
+      "site_meta": "Getflat.info (Прямой_Fead)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "DV Group",
+        "DV Group",
+        "Getflat.info (Прямой_Fead)",
+        "Getflat.info (Прямой_Fead)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "ООО \"ДиВиГрупп\"",
+        "1. Performance - СК 10% (посадка маркетплейс, задача вырастить продажи клиента на конкретном маркетплейсе, например OZON)\nминимальный бюджет (клиент) составляет: 500тр до ндс / 1 бренд / 1 маркетплейс / 1 месяц\n2. Brandformance - СК 20% (посадка лэндинг, сайт клиента, ИМ)\nминимальный бюджет  - 500тр до ндс  / 1 месяц, SL -150тр\nот 1млн, SalesLift отчет - бонус",
+        "1. Performance - СК 10% (посадка маркетплейс, задача вырастить продажи клиента на конкретном маркетплейсе, например OZON)\nминимальный бюджет (клиент) составляет: 500тр до ндс / 1 бренд / 1 маркетплейс / 1 месяц\n2. Brandformance - СК 20% (посадка лэндинг, сайт клиента, ИМ)\nминимальный бюджет  - 500тр до ндс  / 1 месяц, SL -150тр\nот 1млн, SalesLift отчет - бонус",
+        "Dmitry Kolokoltsev <dk@dvgroup.com>",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_aif.ru",
+  "name": "AiF",
+  "site": "AiF.ru",
+  "website_url": "https://AiF.ru",
+  "category": "Sber",
+  "seller": "AiF",
+  "holding": "AiF",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "AiF",
+      "seller": "AiF",
+      "site_meta": "AiF.ru",
+      "full_row": [
+        "Sber",
+        "AiF",
+        "AiF",
+        "AiF.ru",
+        "AiF.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "от 45",
+        "AiF.ru",
+        "AiF.ru",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

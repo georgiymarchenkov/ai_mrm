@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_photar.ru__s_",
+  "name": "Photar.ru (S)",
+  "site": "Photar.ru (S)",
+  "website_url": "https://Photar.ru (S)",
+  "category": "Sber",
+  "seller": "Photar.ru (S)",
+  "holding": "Photar.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Photar.ru (S)",
+      "seller": "Photar.ru (S)",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "Photar.ru (S)",
+        "Photar.ru (S)",
+        "Photar.ru (S)",
+        "",
+        "да",
+        "нет",
+        "RW",
+        "Rg.ru",
+        "Rg.ru",
+        "photar.ru (S)",
+        "Photar.ru (S)",
+        "Photar.ru (S)",
+        "Prophotos",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

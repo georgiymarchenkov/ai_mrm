@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ск_при_условии_оборота_100_000р_в_месяц.",
+  "name": "Stream-telecom.ru (прямой)",
+  "site": "СК при условии оборота 100 000р в месяц.",
+  "website_url": "https://СК при условии оборота 100 000р в месяц.",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Stream-telecom.ru (прямой)",
+  "holding": "Stream-telecom.ru (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Stream-telecom.ru (прямой)",
+      "seller": "Stream-telecom.ru (прямой)",
+      "site_meta": "СК при условии оборота 100 000р в месяц.",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Stream-telecom.ru (прямой)",
+        "Stream-telecom.ru (прямой)",
+        "СК при условии оборота 100 000р в месяц.",
+        "СК при условии оборота 100 000р в месяц.",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "70.0",
+        " Баннеры",
+        " Баннеры",
+        "BYYD",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

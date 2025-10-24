@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_tutu",
+  "name": "Георгий Медведев Gdgf@mail.ru\n",
+  "site": "Tutu",
+  "website_url": "https://Tutu",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Георгий Медведев Gdgf@mail.ru\n",
+  "holding": "Георгий Медведев Gdgf@mail.ru\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Георгий Медведев Gdgf@mail.ru\n",
+      "seller": "Георгий Медведев Gdgf@mail.ru\n",
+      "site_meta": "",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Георгий Медведев Gdgf@mail.ru\n",
+        "Георгий Медведев Gdgf@mail.ru\n",
+        "Tutu",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Заурбек Заоев zaur@targetads.io, slava@targetads.io",
+        "Независимый эксперт",
+        "Независимый эксперт",
+        "оплата в течении трех дней после выхода ролика",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

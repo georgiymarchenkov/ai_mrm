@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_hsm_regional_network__w_",
+  "name": "исключения",
+  "site": "HSM regional network (W)",
+  "website_url": "https://HSM regional network (W)",
+  "category": "m.bodnariuk@banki.ru Максим,  tatarintseva@banki.ru bosenkova@banki.ru Босенкова Виктория  cherkashina@banki.ru Черкашина Марина",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "m.bodnariuk@banki.ru Максим,  tatarintseva@banki.ru bosenkova@banki.ru Босенкова Виктория  cherkashina@banki.ru Черкашина Марина",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "HSM regional network (W)",
+      "full_row": [
+        "m.bodnariuk@banki.ru Максим,  tatarintseva@banki.ru bosenkova@banki.ru Босенкова Виктория  cherkashina@banki.ru Черкашина Марина",
+        "исключения",
+        "исключения",
+        "HSM regional network (W)",
+        "HSM regional network (W)",
+        "Yabbi.me (прямой)",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Autonews.ru (W)",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ао__медиа_плюс_",
+  "name": "People target (прямой)",
+  "site": "АО \"Медиа Плюс\"",
+  "website_url": "https://АО \"Медиа Плюс\"",
+  "category": "Weborama",
+  "seller": "People target (прямой)",
+  "holding": "People target (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Weborama",
+      "holding": "People target (прямой)",
+      "seller": "People target (прямой)",
+      "site_meta": "АО \"Медиа Плюс\"",
+      "full_row": [
+        "Weborama",
+        "People target (прямой)",
+        "People target (прямой)",
+        "АО \"Медиа Плюс\"",
+        "АО \"Медиа Плюс\"",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "ООО \"ДатаДепо\"",
+        "Kermen Erendjenova <k.erendjenova@weborama.com.ru>",
+        "Kermen Erendjenova <k.erendjenova@weborama.com.ru>",
+        "Audio",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

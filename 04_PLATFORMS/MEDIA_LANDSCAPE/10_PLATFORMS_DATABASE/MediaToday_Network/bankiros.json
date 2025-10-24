@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_bankiros",
+  "name": "l.bykovskiy@move.ru Леонид Быковский",
+  "site": "Bankiros",
+  "website_url": "https://Bankiros",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "l.bykovskiy@move.ru Леонид Быковский",
+  "holding": "l.bykovskiy@move.ru Леонид Быковский",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "l.bykovskiy@move.ru Леонид Быковский",
+      "seller": "l.bykovskiy@move.ru Леонид Быковский",
+      "site_meta": "Bankiros",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "l.bykovskiy@move.ru Леонид Быковский",
+        "l.bykovskiy@move.ru Леонид Быковский",
+        "Bankiros",
+        "Bankiros",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "на согласовании",
+        "bankiros.ru (S)",
+        "bankiros.ru (S)",
+        "СК и клиентскую дают под конкретный проект, мин. бюджет 100к руб",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

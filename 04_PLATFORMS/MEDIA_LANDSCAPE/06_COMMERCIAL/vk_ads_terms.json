@@ -1,0 +1,152 @@
+{
+  "$schema": "commercial_terms_schema_v1",
+  "id": "comm_vk_ads_001",
+  "platform_id": "plt_vk_ads_001",
+  "platform_name": "VK Реклама",
+  "last_updated": "2025-10-24",
+  "terms": {
+    "contract_type": "direct",
+    "minimum_budget": 5000,
+    "minimum_duration": null,
+    "billing_currency": "RUB",
+    "notes": "Прямой договор с VK не требуется для малых бюджетов"
+  },
+  "payment": {
+    "payment_terms": ["prepay_100", "credit_line"],
+    "prepayment_percent": 100,
+    "payment_due_days": null,
+    "accepts_agency_model": true,
+    "supports_credit_line": true,
+    "credit_limit": null,
+    "credit_conditions": "Кредитная линия предоставляется при ежемесячных расходах от 500 000₽",
+    "payment_methods": [
+      "Банковский перевод",
+      "Банковская карта",
+      "Электронный кошелек",
+      "VK Pay"
+    ]
+  },
+  "agency": {
+    "agency_discount_percent": 5,
+    "requires_agency_contract": true,
+    "min_monthly_spend": 100000,
+    "volume_tiers": [
+      {
+        "min_monthly_spend": 100000,
+        "discount_percent": 5
+      },
+      {
+        "min_monthly_spend": 1000000,
+        "discount_percent": 7
+      },
+      {
+        "min_monthly_spend": 5000000,
+        "discount_percent": 10
+      }
+    ],
+    "agency_benefits": [
+      "Персональный менеджер",
+      "Приоритетная поддержка",
+      "Доступ к бета-функциям",
+      "Обучающие материалы",
+      "Промо-бюджеты для тестирования"
+    ]
+  },
+  "refunds": {
+    "allows_refunds": true,
+    "refund_conditions": "Возврат неизрасходованного бюджета возможен в течение 14 дней",
+    "compensation_policy": "Компенсация за технические сбои на усмотрение платформы",
+    "sla": {
+      "guaranteed_viewability": null,
+      "guaranteed_delivery": false,
+      "compensation_if_missed": "Промо-бюджет или скидка на следующее размещение"
+    }
+  },
+  "documentation": {
+    "requires_io": false,
+    "io_template_url": null,
+    "reporting_frequency": ["real_time", "daily", "weekly", "monthly"],
+    "report_formats": ["web_ui", "excel", "api"],
+    "acts_reconciliation": true,
+    "act_generation": "Акты генерируются автоматически в личном кабинете",
+    "invoice_generation": "Счета генерируются автоматически"
+  },
+  "support": {
+    "account_manager_included": false,
+    "dedicated_manager_threshold": 500000,
+    "support_channels": ["email", "phone", "chat", "telegram"],
+    "support_hours": "9:00-21:00 МСК, 7 дней в неделю",
+    "response_time_sla": "в течение 24 часов (email), в течение 1 часа (чат)",
+    "support_contacts": {
+      "general_support": "support@vk.com",
+      "phone": "8-800-333-8000",
+      "chat_url": "https://vk.com/ads?act=support",
+      "telegram": "@vkadsupport"
+    }
+  },
+  "additional_services": {
+    "creative_production": true,
+    "creative_production_cost": "От 50 000₽ за креатив",
+    "campaign_strategy": true,
+    "strategy_consultation": "Бесплатно для клиентов с бюджетом >500 000₽/мес",
+    "analytics_support": true,
+    "training": true,
+    "training_options": [
+      "Онлайн-курсы (бесплатно)",
+      "Вебинары (бесплатно)",
+      "Персональное обучение (платно, от 30 000₽)"
+    ]
+  },
+  "technical_requirements": {
+    "account_setup_time": "15 минут",
+    "campaign_approval_time": "До 24 часов",
+    "creative_moderation_time": "До 4 часов",
+    "api_access": "Бесплатно, требуется регистрация приложения",
+    "api_rate_limits": "До 3000 запросов в секунду"
+  },
+  "policies": {
+    "prohibited_content": [
+      "Алкоголь (с ограничениями)",
+      "Табак и никотин",
+      "Азартные игры (лицензированные - с ограничениями)",
+      "Оружие",
+      "Медицинские услуги без лицензии",
+      "Финансовые пирамиды",
+      "Криптовалюта (с ограничениями)"
+    ],
+    "age_restricted_content": "18+ контент требует соответствующей маркировки",
+    "political_advertising": "Разрешена при регистрации как политическая реклама"
+  },
+  "special_offers": [
+    {
+      "name": "Промокод для новых рекламодателей",
+      "description": "3000₽ на первое размещение",
+      "conditions": "При регистрации нового аккаунта",
+      "valid_until": "2025-12-31"
+    },
+    {
+      "name": "Кэшбэк для постоянных клиентов",
+      "description": "До 5% кэшбэк баллами VK",
+      "conditions": "При расходах >100 000₽/месяц",
+      "valid_until": "постоянно"
+    }
+  ],
+  "contacts": {
+    "sales_department": {
+      "email": "sales@vk.com",
+      "phone": "+7 (495) 645-6565"
+    },
+    "billing_department": {
+      "email": "billing@vk.com"
+    },
+    "legal_department": {
+      "email": "legal@vk.com"
+    }
+  },
+  "valid_from": "2024-10-01",
+  "valid_until": null,
+  "last_negotiated": "2024-09-15",
+  "negotiated_by": "Account Team",
+  "notes": "Условия стандартные для платформы. Индивидуальные условия обсуждаются при бюджетах >5 млн₽/мес"
+}
+

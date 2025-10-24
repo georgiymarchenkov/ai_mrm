@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_voxexchange.io",
+  "name": "Алексей Попов al.popov@link-agency.ru",
+  "site": "voxexchange.io",
+  "website_url": "https://voxexchange.io",
+  "category": "Weborama",
+  "seller": "Алексей Попов al.popov@link-agency.ru",
+  "holding": "Алексей Попов al.popov@link-agency.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Weborama",
+      "holding": "Алексей Попов al.popov@link-agency.ru",
+      "seller": "Алексей Попов al.popov@link-agency.ru",
+      "site_meta": "voxexchange.io",
+      "full_row": [
+        "Weborama",
+        "Алексей Попов al.popov@link-agency.ru",
+        "Алексей Попов al.popov@link-agency.ru",
+        "voxexchange.io",
+        "voxexchange.io",
+        "voxexchange.io (прямой)",
+        "да",
+        "RW",
+        "нет",
+        "да",
+        "ООО \"Вокс Нетворк\"",
+        "Минимальный бюджет в месяц 300 000р. до НДС (клиентский)\nПри Бюджете от 1 млн \n\nIn-image MIX - 500 CРМ\nIn-image Light - 330 СРМ\n\nБюджет от 2 млн \nIn-image MIX - 480 СРМ\nIn-image Light - 300 СРМ",
+        "Минимальный бюджет в месяц 300 000р. до НДС (клиентский)\nПри Бюджете от 1 млн \n\nIn-image MIX - 500 CРМ\nIn-image Light - 330 СРМ\n\nБюджет от 2 млн \nIn-image MIX - 480 СРМ\nIn-image Light - 300 СРМ",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

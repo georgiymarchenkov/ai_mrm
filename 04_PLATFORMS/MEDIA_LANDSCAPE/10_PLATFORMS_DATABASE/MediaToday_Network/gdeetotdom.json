@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gdeetotdom",
+  "name": "продакшн",
+  "site": "Gdeetotdom",
+  "website_url": "https://Gdeetotdom",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "продакшн",
+  "holding": "продакшн",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "продакшн",
+      "seller": "продакшн",
+      "site_meta": "Gdeetotdom",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "продакшн",
+        "продакшн",
+        "Gdeetotdom",
+        "Gdeetotdom",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Gdeetotdom.ru (Прямой)",
+        "Gdeetotdom.ru (Прямой)",
+        "ООО \"Гдеэтотдом.ру\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

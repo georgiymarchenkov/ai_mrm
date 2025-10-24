@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_sport-express.ru",
+  "name": "Everest",
+  "site": "Sport-Express.ru",
+  "website_url": "https://Sport-Express.ru",
+  "category": "Спорт",
+  "seller": "Everest",
+  "holding": "Everest",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "Everest",
+      "seller": "Everest",
+      "site_meta": "Sport-Express.ru",
+      "full_row": [
+        "Спорт",
+        "Everest",
+        "Everest",
+        "Sport-Express.ru",
+        "Sport-Express.ru",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "ООО \"ЭВЕРЕСТ\"",
+        "Oleg Skorik <OSkorik@eve.rest>",
+        "Oleg Skorik <OSkorik@eve.rest>",
+        "Xapads",
+        "Xapads Xerxes (Прямой)"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

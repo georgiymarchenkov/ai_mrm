@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_expomap",
+  "name": "expomap",
+  "site": "expomap",
+  "website_url": "https://expomap",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "expomap",
+  "holding": "expomap",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "expomap",
+      "seller": "expomap",
+      "site_meta": "",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "expomap",
+        "expomap",
+        "expomap",
+        "",
+        "",
+        "да",
+        "RW",
+        "нет",
+        "нет",
+        "expomap.ru (S)",
+        "Getblogger",
+        "Getblogger",
+        "Getblogger.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

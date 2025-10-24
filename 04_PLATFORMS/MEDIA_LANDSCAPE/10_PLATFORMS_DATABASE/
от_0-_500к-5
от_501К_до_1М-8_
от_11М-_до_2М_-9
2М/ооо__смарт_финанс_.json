@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__смарт_финанс_",
+  "name": "Cityads.com CPA Platform (прямой)",
+  "site": "ООО \"Смарт Финанс\"",
+  "website_url": "https://ООО \"Смарт Финанс\"",
+  "category": ":\nот 0- 500к-5%\nот 501К до 1М-8% \nот 1,1М- до 2М -9%\n>2М -10%\n\n",
+  "seller": "Cityads.com CPA Platform (прямой)",
+  "holding": "Cityads.com CPA Platform (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": ":\nот 0- 500к-5%\nот 501К до 1М-8% \nот 1,1М- до 2М -9%\n>2М -10%\n\n",
+      "holding": "Cityads.com CPA Platform (прямой)",
+      "seller": "Cityads.com CPA Platform (прямой)",
+      "site_meta": "ООО \"Смарт Финанс\"",
+      "full_row": [
+        ":\nот 0- 500к-5%\nот 501К до 1М-8% \nот 1,1М- до 2М -9%\n>2М -10%\n\n",
+        "Cityads.com CPA Platform (прямой)",
+        "Cityads.com CPA Platform (прямой)",
+        "ООО \"Смарт Финанс\"",
+        "ООО \"Смарт Финанс\"",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "ООО \" Смарт Финанс\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

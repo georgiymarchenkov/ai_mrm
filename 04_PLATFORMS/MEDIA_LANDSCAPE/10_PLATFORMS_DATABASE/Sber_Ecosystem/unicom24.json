@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_unicom24",
+  "name": "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+  "site": "Unicom24",
+  "website_url": "https://Unicom24",
+  "category": "Sber",
+  "seller": "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+  "holding": "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+      "seller": "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+      "site_meta": "Unicom24",
+      "full_row": [
+        "Sber",
+        "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+        "\nNikita Arkhipov <nikita.arkhipov@npoanalitika.ru>",
+        "Unicom24",
+        "Unicom24",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        " ",
+        " ",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

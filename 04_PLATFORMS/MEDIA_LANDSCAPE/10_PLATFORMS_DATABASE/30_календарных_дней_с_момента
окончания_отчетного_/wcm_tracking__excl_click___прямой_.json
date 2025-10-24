@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_wcm_tracking__excl_click___прямой_",
+  "name": "VideoNetwork (DA)",
+  "site": "WCM Tracking (excl click) (прямой)",
+  "website_url": "https://WCM Tracking (excl click) (прямой)",
+  "category": "30 календарных дней с момента\nокончания отчетного периода.",
+  "seller": "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+  "holding": "VideoNetwork (DA)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "30 календарных дней с момента\nокончания отчетного периода.",
+      "holding": "VideoNetwork (DA)",
+      "seller": "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+      "site_meta": "",
+      "full_row": [
+        "30 календарных дней с момента\nокончания отчетного периода.",
+        "VideoNetwork (DA)",
+        "CPM 350 р. ( включая скидку, сезонник, гео,интересы, соц- дем, хроно)",
+        "WCM Tracking (excl click) (прямой)",
+        "",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "МФЦ медиа",
+        "МФЦ медиа",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

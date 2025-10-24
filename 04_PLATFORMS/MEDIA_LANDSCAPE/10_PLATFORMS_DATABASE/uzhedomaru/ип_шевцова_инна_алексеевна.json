@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ип_шевцова_инна_алексеевна",
+  "name": "ИП Шевцова И. А.",
+  "site": "ИП Шевцова Инна Алексеевна",
+  "website_url": "https://ИП Шевцова Инна Алексеевна",
+  "category": "uzhedoma.ru",
+  "seller": "ИП Шевцова И. А.",
+  "holding": "ИП Шевцова И. А.",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "ИП Шевцова И. А.",
+      "seller": "ИП Шевцова И. А.",
+      "site_meta": "ИП Лаванов",
+      "full_row": [
+        "uzhedoma.ru",
+        "ИП Шевцова И. А.",
+        "ИП Шевцова И. А.",
+        "ИП Шевцова Инна Алексеевна",
+        "ИП Лаванов",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "DudeMagazine.ru NewMedia (прямой)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_vedomosti.ru__прямой_",
+  "name": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "site": "Vedomosti.ru (прямой)",
+  "website_url": "https://Vedomosti.ru (прямой)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "holding": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+      "seller": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+      "site_meta": "",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+        "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+        "Vedomosti.ru (прямой)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Timeout.ru (Прямой)",
+        "Timeout.ru (Прямой)",
+        "ООО \"Диджитал Фэктори\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_akm.ru__s_",
+  "name": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "site": "akm.ru (S)",
+  "website_url": "https://akm.ru (S)",
+  "category": "m.bodnariuk@banki.ru Максим,  tatarintseva@banki.ru bosenkova@banki.ru Босенкова Виктория  cherkashina@banki.ru Черкашина Марина",
+  "seller": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "holding": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "m.bodnariuk@banki.ru Максим,  tatarintseva@banki.ru bosenkova@banki.ru Босенкова Виктория  cherkashina@banki.ru Черкашина Марина",
+      "holding": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+      "seller": "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+      "site_meta": "akm.ru (S)",
+      "full_row": [
+        "m.bodnariuk@banki.ru Максим,  tatarintseva@banki.ru bosenkova@banki.ru Босенкова Виктория  cherkashina@banki.ru Черкашина Марина",
+        "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+        "Алексей Пантелеев aleksei.lead@oxcapital.ru\n",
+        "akm.ru (S)",
+        "akm.ru (S)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "35-40",
+        "Timeout.ru (Прямой)",
+        "Rostov.rbc",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

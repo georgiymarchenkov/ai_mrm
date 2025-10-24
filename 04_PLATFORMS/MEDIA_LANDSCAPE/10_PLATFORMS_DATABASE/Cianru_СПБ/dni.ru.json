@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_dni.ru",
+  "name": "Dni",
+  "site": "Dni.ru",
+  "website_url": "https://Dni.ru",
+  "category": "Cian.ru СПБ",
+  "seller": "Dni",
+  "holding": "Dni",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Cian.ru СПБ",
+      "holding": "Dni",
+      "seller": "Dni",
+      "site_meta": "",
+      "full_row": [
+        "Cian.ru СПБ",
+        "Dni",
+        "Dni",
+        "Dni.ru",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Sostav",
+        "Sostav",
+        "",
+        "30.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

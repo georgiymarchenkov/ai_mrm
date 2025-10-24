@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ано__тв-новости_",
+  "name": "Russian.rt.com (прямой)",
+  "site": "АНО \"ТВ-Новости\"",
+  "website_url": "https://АНО \"ТВ-Новости\"",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Russian.rt.com (прямой)",
+  "holding": "Russian.rt.com (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Russian.rt.com (прямой)",
+      "seller": "Russian.rt.com (прямой)",
+      "site_meta": "oklapina@rttv.ru Ольга Лапина",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Russian.rt.com (прямой)",
+        "Russian.rt.com (прямой)",
+        "АНО \"ТВ-Новости\"",
+        "oklapina@rttv.ru Ольга Лапина",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "30.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_smotrim.ru__roden_media_pr_",
+  "name": ">",
+  "site": "Smotrim.ru (Roden media_PR)",
+  "website_url": "https://Smotrim.ru (Roden media_PR)",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": ">",
+  "holding": ">",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": ">",
+      "seller": ">",
+      "site_meta": "Smotrim.ru (Roden media_PR)",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        ">",
+        ">",
+        "Smotrim.ru (Roden media_PR)",
+        "Smotrim.ru (Roden media_PR)",
+        "",
+        "да",
+        "RW",
+        "нет",
+        "да",
+        "на согласовании",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        "a.grinfeld@roden-media.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

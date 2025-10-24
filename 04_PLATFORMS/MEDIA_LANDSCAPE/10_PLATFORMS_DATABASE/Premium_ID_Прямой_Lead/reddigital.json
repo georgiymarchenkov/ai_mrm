@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_reddigital",
+  "name": "Reddigital.ru (Прямой_Retargeting)",
+  "site": "Reddigital",
+  "website_url": "https://Reddigital",
+  "category": "Premium ID (Прямой_Lead)",
+  "seller": "Reddigital.ru (Прямой_Retargeting)",
+  "holding": "Reddigital.ru (Прямой_Retargeting)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Premium ID (Прямой_Lead)",
+      "holding": "Reddigital.ru (Прямой_Retargeting)",
+      "seller": "Reddigital.ru (Прямой_Retargeting)",
+      "site_meta": "Носков Александр aleksandr.noskov@sbermarket.ru",
+      "full_row": [
+        "Premium ID (Прямой_Lead)",
+        "Reddigital.ru (Прямой_Retargeting)",
+        "Reddigital.ru (Прямой_Retargeting)",
+        "Reddigital",
+        "Носков Александр aleksandr.noskov@sbermarket.ru",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "",
+        "20.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

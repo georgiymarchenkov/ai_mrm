@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_smi2",
+  "name": "Владимир Рубанов <rubanov@brandly.team>",
+  "site": "Smi2",
+  "website_url": "https://Smi2",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Владимир Рубанов <rubanov@brandly.team>",
+  "holding": "Владимир Рубанов <rubanov@brandly.team>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Владимир Рубанов <rubanov@brandly.team>",
+      "seller": "Владимир Рубанов <rubanov@brandly.team>",
+      "site_meta": "Smi2",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Владимир Рубанов <rubanov@brandly.team>",
+        "Владимир Рубанов <rubanov@brandly.team>",
+        "Smi2",
+        "Smi2",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "70.0",
+        "Smi2.ru (прямой)",
+        "Smi2.ru (прямой)",
+        "ООО \"СМИ2\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

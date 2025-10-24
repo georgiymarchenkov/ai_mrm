@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_move.ru",
+  "name": "Move",
+  "site": "Move.ru",
+  "website_url": "https://Move.ru",
+  "category": "до 30 %",
+  "seller": "Move",
+  "holding": "Move",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "до 30 %",
+      "holding": "Move",
+      "seller": "Move",
+      "site_meta": "Move.ru",
+      "full_row": [
+        "до 30 %",
+        "Move",
+        "Move",
+        "Move.ru",
+        "Move.ru",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "30 календарных дней с даты Акта",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_30_календарных_дней_с_даты_выхода_публикации",
+  "name": "Banner Network (BS)",
+  "site": "30 календарных дней с даты выхода публикации",
+  "website_url": "https://30 календарных дней с даты выхода публикации",
+  "category": "Техника, Электроника",
+  "seller": "Banner Network (BS)",
+  "holding": "Banner Network (BS)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Banner Network (BS)",
+      "seller": "Banner Network (BS)",
+      "site_meta": "30 календарных дней с даты выхода публикации",
+      "full_row": [
+        "Техника, Электроника",
+        "Banner Network (BS)",
+        "Banner Network (BS)",
+        "30 календарных дней с даты выхода публикации",
+        "30 календарных дней с даты выхода публикации",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "Kidoz",
+        "Kidoz",
+        "ООО \"ЛИНИИ ЖИЗНИ\"",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

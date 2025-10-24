@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cpaexchange.ru__прямой__без_ндс_",
+  "name": "ООО \"ФО ЛИДС\"",
+  "site": "cpaexchange.ru (прямой, без НДС)",
+  "website_url": "https://cpaexchange.ru (прямой, без НДС)",
+  "category": "Отдельные цены на первый квартал:",
+  "seller": "ООО \"ФО ЛИДС\"",
+  "holding": "ООО \"ФО ЛИДС\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Отдельные цены на первый квартал:",
+      "holding": "ООО \"ФО ЛИДС\"",
+      "seller": "ООО \"ФО ЛИДС\"",
+      "site_meta": "cpaexchange.ru (прямой, без НДС)",
+      "full_row": [
+        "Отдельные цены на первый квартал:",
+        "ООО \"ФО ЛИДС\"",
+        "ООО \"ФО ЛИДС\"",
+        "cpaexchange.ru (прямой, без НДС)",
+        "cpaexchange.ru (прямой, без НДС)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "Nikita Lukyanov <n.lukyanov@cpaexchange.net>; Viktoriya Brekhova <v.brekhova@cpaexchange.net>; Ekaterina Shinkevich <ekaterina.shinkevich@cpaexchange.net>",
+        "Nikita Lukyanov <n.lukyanov@cpaexchange.net>; Viktoriya Brekhova <v.brekhova@cpaexchange.net>; Ekaterina Shinkevich <ekaterina.shinkevich@cpaexchange.net>",
+        "zoneofgames",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

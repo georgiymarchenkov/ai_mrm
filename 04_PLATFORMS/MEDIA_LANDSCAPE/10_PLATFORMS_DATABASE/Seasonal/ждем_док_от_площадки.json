@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ждем_док_от_площадки",
+  "name": "Cossa",
+  "site": "ждем док от площадки",
+  "website_url": "https://ждем док от площадки",
+  "category": "полугодие",
+  "seller": "Cossa",
+  "holding": "Cossa",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "Cossa",
+      "seller": "Cossa",
+      "site_meta": "ждем док от площадки",
+      "full_row": [
+        "полугодие",
+        "Cossa",
+        "Cossa",
+        "ждем док от площадки",
+        "ждем док от площадки",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "full service минималка 200 тыс  до НДС",
+        "full service минималка 200 тыс  до НДС",
+        "40 и 45 ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

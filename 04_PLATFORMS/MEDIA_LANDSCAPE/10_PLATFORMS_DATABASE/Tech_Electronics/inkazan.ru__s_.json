@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_inkazan.ru__s_",
+  "name": "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+  "site": "Inkazan.ru (S)",
+  "website_url": "https://Inkazan.ru (S)",
+  "category": "Техника, Электроника",
+  "seller": "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+  "holding": "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+      "seller": "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+      "site_meta": "Inkazan.ru (S)",
+      "full_row": [
+        "Техника, Электроника",
+        "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+        "До 15 млн – 15% ; 15 млн и более – 20%, биллинговы клиенты -7%\n",
+        "Inkazan.ru (S)",
+        "Inkazan.ru (S)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Natiscope",
+        "Yastreb.dvigus",
+        "Yastreb.dvigus",
+        "Inkazan.ru TG канал (S)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

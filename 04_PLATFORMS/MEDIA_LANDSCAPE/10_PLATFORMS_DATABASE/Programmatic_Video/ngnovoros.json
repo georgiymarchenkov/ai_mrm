@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ngnovoros",
+  "name": "Performance (Full service, только managed)",
+  "site": "Ngnovoros",
+  "website_url": "https://Ngnovoros",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Performance (Full service, только managed)",
+  "holding": "Performance (Full service, только managed)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Performance (Full service, только managed)",
+      "seller": "Performance (Full service, только managed)",
+      "site_meta": "Ngnovoros",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Performance (Full service, только managed)",
+        "Performance (Full service, только managed)",
+        "Ngnovoros",
+        "Ngnovoros",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Ngnovoros.ru (S)",
+        "Ngnovoros.ru (S)",
+        "в случае размещения через Сайтсинг, то мы должны будем оплатить Сайтсинг 4/6% АК\n",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

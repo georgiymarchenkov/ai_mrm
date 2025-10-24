@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_keepcall",
+  "name": "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+  "site": "Keepcall",
+  "website_url": "https://Keepcall",
+  "category": "полугодие",
+  "seller": "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+  "holding": "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "полугодие",
+      "holding": "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+      "seller": "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+      "site_meta": "",
+      "full_row": [
+        "полугодие",
+        "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+        "Анастасия Ильина ilina@site-seeing.ru; Наталия Бабенко babenko@site-seeing.ru",
+        "Keepcall",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "Keepcall.ru (прямой)",
+        "Keepcall.ru (прямой)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

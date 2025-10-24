@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_finmarket.ru__roden_media_pr_",
+  "name": "a.grinfeld@roden-media.ru",
+  "site": "Finmarket.ru (Roden media_PR)",
+  "website_url": "https://Finmarket.ru (Roden media_PR)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "a.grinfeld@roden-media.ru",
+  "holding": "a.grinfeld@roden-media.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "a.grinfeld@roden-media.ru",
+      "seller": "a.grinfeld@roden-media.ru",
+      "site_meta": "Finmarket.ru (Roden media_PR)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "a.grinfeld@roden-media.ru",
+        "a.grinfeld@roden-media.ru",
+        "Finmarket.ru (Roden media_PR)",
+        "Finmarket.ru (Roden media_PR)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "Rg.ru",
+        "Interfax.ru (Roden media_PR)",
+        "Антон Гринфельд <",
+        "Антон Гринфельд <",
+        "услуги под платформу 6feeds ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_cian.ru__прямой_аудитория_",
+  "name": "People target (прямой)",
+  "site": "Cian.ru (прямой_аудитория)",
+  "website_url": "https://Cian.ru (прямой_аудитория)",
+  "category": "Кристина Корниенко adv@2realty.ru",
+  "seller": "People target (прямой)",
+  "holding": "People target (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Кристина Корниенко adv@2realty.ru",
+      "holding": "People target (прямой)",
+      "seller": "People target (прямой)",
+      "site_meta": "Cian.ru (прямой_аудитория)",
+      "full_row": [
+        "Кристина Корниенко adv@2realty.ru",
+        "People target (прямой)",
+        "People target (прямой)",
+        "Cian.ru (прямой_аудитория)",
+        "Cian.ru (прямой_аудитория)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "ООО \"ДатаДепо\"",
+        "Kermen Erendjenova <k.erendjenova@weborama.com.ru>",
+        "Kermen Erendjenova <k.erendjenova@weborama.com.ru>",
+        "Audio",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

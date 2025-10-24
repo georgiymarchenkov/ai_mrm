@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_roden_media_package__w_",
+  "name": "VideoNetwork (DA)",
+  "site": "Roden Media Package (W)",
+  "website_url": "https://Roden Media Package (W)",
+  "category": "Sber",
+  "seller": "VideoNetwork (DA)",
+  "holding": "VideoNetwork (DA)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "VideoNetwork (DA)",
+      "seller": "VideoNetwork (DA)",
+      "site_meta": "Roden Media Package (W)",
+      "full_row": [
+        "Sber",
+        "VideoNetwork (DA)",
+        "VideoNetwork (DA)",
+        "Roden Media Package (W)",
+        "Roden Media Package (W)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "На производство нет СК",
+        "На производство нет СК",
+        "СК ",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_thevoicemag.ru__w___бывший_cosmo.ru_",
+  "name": "исключения",
+  "site": "Thevoicemag.ru (W) (бывший Cosmo.ru)",
+  "website_url": "https://Thevoicemag.ru (W) (бывший Cosmo.ru)",
+  "category": "Обсуждение СК будет по факту наличия брифов. НЕ БЕРЕМ ИХ",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Обсуждение СК будет по факту наличия брифов. НЕ БЕРЕМ ИХ",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "Thevoicemag.ru (W) (бывший Cosmo.ru)",
+      "full_row": [
+        "Обсуждение СК будет по факту наличия брифов. НЕ БЕРЕМ ИХ",
+        "исключения",
+        "исключения",
+        "Thevoicemag.ru (W) (бывший Cosmo.ru)",
+        "Thevoicemag.ru (W) (бывший Cosmo.ru)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

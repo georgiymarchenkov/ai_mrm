@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_vinstant.pro",
+  "name": "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+  "site": "Vinstant.pro",
+  "website_url": "https://Vinstant.pro",
+  "category": "Техника, Электроника",
+  "seller": "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+  "holding": "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Техника, Электроника",
+      "holding": "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+      "seller": "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+      "site_meta": "Vinstant.pro",
+      "full_row": [
+        "Техника, Электроника",
+        "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+        "Victor Boyarchuk <v.boyarchuk@cardsmobile.ru>",
+        "Vinstant.pro",
+        "Vinstant.pro",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

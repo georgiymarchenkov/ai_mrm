@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_superjob",
+  "name": "Iphones.ru (S)",
+  "site": "Superjob",
+  "website_url": "https://Superjob",
+  "category": "Sber",
+  "seller": "Iphones.ru (S)",
+  "holding": "Iphones.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Iphones.ru (S)",
+      "seller": "Iphones.ru (S)",
+      "site_meta": "Superjob",
+      "full_row": [
+        "Sber",
+        "Iphones.ru (S)",
+        "Iphones.ru (S)",
+        "Superjob",
+        "Superjob",
+        "да",
+        "нет",
+        "RW",
+        "да",
+        "да",
+        "Superjob.ru (S)",
+        "Hr-portal",
+        "Hr-portal",
+        "Антон Гринфельд <",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

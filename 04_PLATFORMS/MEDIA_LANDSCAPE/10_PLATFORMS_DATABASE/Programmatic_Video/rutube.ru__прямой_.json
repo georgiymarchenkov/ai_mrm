@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_rutube.ru__прямой_",
+  "name": "RuTube.ru (W)",
+  "site": "RuTube.ru (прямой)",
+  "website_url": "https://RuTube.ru (прямой)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "RuTube.ru (W)",
+  "holding": "RuTube.ru (W)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "RuTube.ru (W)",
+      "seller": "RuTube.ru (W)",
+      "site_meta": "",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "RuTube.ru (W)",
+        "RuTube.ru (W)",
+        "RuTube.ru (прямой)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "нет",
+        "нет",
+        "на согласовании",
+        "Targetads",
+        "Targetads",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ivi_smart_tv__universal_media_",
+  "name": "IVI",
+  "site": "IVI Smart TV (Universal Media)",
+  "website_url": "https://IVI Smart TV (Universal Media)",
+  "category": "Онлайн кинотеатры",
+  "seller": "IVI",
+  "holding": "IVI",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Онлайн кинотеатры",
+      "holding": "IVI",
+      "seller": "IVI",
+      "site_meta": "IVI Smart TV (Universal Media)",
+      "full_row": [
+        "Онлайн кинотеатры",
+        "IVI",
+        "IVI",
+        "IVI Smart TV (Universal Media)",
+        "IVI Smart TV (Universal Media)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "55.0",
+        "ООО \"Юниверсал Медиа Уорлдвайд\"",
+        "ООО \"Юниверсал Медиа Уорлдвайд\"",
+        "Важно! ",
+        "Считаем сами ( никуда не запрашиваем)  спец. CPM для Риавлеб 231 р. сезонники и наценки по прайсу.\nНа январь 2024 действует пролонгация условий 2023 - спец. CPM для Риавлеб 201 р.  наценки по прайс листу\n"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

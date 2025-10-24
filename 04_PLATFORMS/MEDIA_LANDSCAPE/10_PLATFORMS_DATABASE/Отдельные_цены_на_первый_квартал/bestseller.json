@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_bestseller",
+  "name": "Reddigital.ru",
+  "site": "BestSeller",
+  "website_url": "https://BestSeller",
+  "category": "Отдельные цены на первый квартал:",
+  "seller": "Reddigital.ru",
+  "holding": "Reddigital.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Отдельные цены на первый квартал:",
+      "holding": "Reddigital.ru",
+      "seller": "Reddigital.ru",
+      "site_meta": "BestSeller",
+      "full_row": [
+        "Отдельные цены на первый квартал:",
+        "Reddigital.ru",
+        "Reddigital.ru",
+        "BestSeller",
+        "BestSeller",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "Минимальный бюджет составляет 500к без НДС (клиентских).",
+        "Минимальный бюджет составляет 500к без НДС (клиентских).",
+        "Businessman.ru (BS)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

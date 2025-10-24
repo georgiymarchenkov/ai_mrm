@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_hyperad.tech__прямой_пс_",
+  "name": "Hyperad.tech",
+  "site": "Hyperad.tech (прямой_ПС)",
+  "website_url": "https://Hyperad.tech (прямой_ПС)",
+  "category": "uzhedoma.ru",
+  "seller": "Hyperad.tech",
+  "holding": "Hyperad.tech",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "uzhedoma.ru",
+      "holding": "Hyperad.tech",
+      "seller": "Hyperad.tech",
+      "site_meta": "Hyperad.tech (прямой_ПС)",
+      "full_row": [
+        "uzhedoma.ru",
+        "Hyperad.tech",
+        "Hyperad.tech",
+        "Hyperad.tech (прямой_ПС)",
+        "Hyperad.tech (прямой_ПС)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

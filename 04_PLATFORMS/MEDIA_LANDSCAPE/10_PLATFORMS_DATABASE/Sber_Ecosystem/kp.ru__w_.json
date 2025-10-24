@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kp.ru__w_",
+  "name": "Komsomolskaya Pravda",
+  "site": "KP.ru (W)",
+  "website_url": "https://KP.ru (W)",
+  "category": "Sber",
+  "seller": "Komsomolskaya Pravda",
+  "holding": "Komsomolskaya Pravda",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Komsomolskaya Pravda",
+      "seller": "Komsomolskaya Pravda",
+      "site_meta": "KP.ru (W)",
+      "full_row": [
+        "Sber",
+        "Komsomolskaya Pravda",
+        "Komsomolskaya Pravda",
+        "KP.ru (W)",
+        "KP.ru (W)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "АО \"ИД \"КОМСОМОЛЬСКАЯ ПРАВДА\"",
+        "АО \"ИД \"КОМСОМОЛЬСКАЯ ПРАВДА\"",
+        "Avaho",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

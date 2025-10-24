@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_videosmart__w_",
+  "name": "исключения",
+  "site": "VideoSmart (W)",
+  "website_url": "https://VideoSmart (W)",
+  "category": "imedia.ru (прямой)",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "imedia.ru (прямой)",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "VideoSmart (W)",
+      "full_row": [
+        "imedia.ru (прямой)",
+        "исключения",
+        "исключения",
+        "VideoSmart (W)",
+        "VideoSmart (W)",
+        "Yabbi.me (прямой)",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Mediasurfer(прямой_Video)",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

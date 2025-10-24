@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kommersant.ru_63",
+  "name": "Vinstant.pro (прямой_production)",
+  "site": "kommersant.ru 63",
+  "website_url": "https://kommersant.ru 63",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Vinstant.pro (прямой_production)",
+  "holding": "Vinstant.pro (прямой_production)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Vinstant.pro (прямой_production)",
+      "seller": "Vinstant.pro (прямой_production)",
+      "site_meta": "kommersant.ru 63",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Vinstant.pro (прямой_production)",
+        "Vinstant.pro (прямой_production)",
+        "kommersant.ru 63",
+        "kommersant.ru 63",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,247 @@
+{
+  "$schema": "targeting_schema_v1",
+  "id": "tgt_vk_ads_001",
+  "platform_id": "plt_vk_ads_001",
+  "platform_name": "VK Реклама",
+  "last_updated": "2025-10-24",
+  "geo_targeting": {
+    "available": true,
+    "levels": ["country", "region", "city", "district", "radius"],
+    "min_radius_km": 0.5,
+    "supports_exclusion": true,
+    "notes": "Геотаргетинг работает по IP и GPS. Радиус-таргетинг доступен для мобильных устройств."
+  },
+  "demographic_targeting": {
+    "age": {
+      "available": true,
+      "min_age": 14,
+      "max_age": 80,
+      "granularity": "year",
+      "notes": "Возможен выбор по годам рождения"
+    },
+    "gender": {
+      "available": true,
+      "options": ["male", "female", "any"]
+    },
+    "education": {
+      "available": true,
+      "levels": [
+        "secondary",
+        "specialized_secondary",
+        "incomplete_higher",
+        "higher",
+        "bachelor",
+        "master",
+        "phd"
+      ]
+    },
+    "income": {
+      "available": true,
+      "levels": ["low", "medium", "high"]
+    },
+    "marital_status": {
+      "available": true,
+      "options": [
+        "not_married",
+        "have_friend",
+        "engaged",
+        "married",
+        "complicated",
+        "actively_searching",
+        "in_love"
+      ]
+    },
+    "children": {
+      "available": true,
+      "options": ["have_children", "no_children"]
+    }
+  },
+  "behavioral_targeting": {
+    "interests": {
+      "available": true,
+      "categories_count": 300,
+      "supports_custom": false,
+      "main_categories": [
+        "Автомобили",
+        "Бизнес",
+        "Домашние животные",
+        "Здоровье и медицина",
+        "Знакомства и общение",
+        "Игры",
+        "Кино",
+        "Красота и мода",
+        "Культура и искусство",
+        "Литература",
+        "Мобильные устройства и приложения",
+        "Музыка",
+        "Наука и технологии",
+        "Недвижимость",
+        "Новости и СМИ",
+        "Безопасность",
+        "Общество",
+        "Политика",
+        "Продукты питания",
+        "Промышленность",
+        "Путешествия",
+        "Работа и карьера",
+        "Развлечения",
+        "Растения",
+        "Религия",
+        "Семья и дети",
+        "Спорт",
+        "Страхование",
+        "Телевидение",
+        "Товары и услуги",
+        "Фото",
+        "Хобби и увлечения",
+        "Экономика",
+        "Электроника и бытовая техника"
+      ]
+    },
+    "online_behavior": {
+      "available": true,
+      "types": [
+        "active_groups",
+        "liked_pages",
+        "watched_videos",
+        "listened_music",
+        "played_games",
+        "used_apps"
+      ]
+    },
+    "purchase_behavior": {
+      "available": false
+    }
+  },
+  "contextual_targeting": {
+    "keywords": {
+      "available": true,
+      "max_keywords": 10000,
+      "notes": "Ключевые слова из групп, на которые подписан пользователь"
+    },
+    "topics": {
+      "available": true,
+      "taxonomy": "custom",
+      "notes": "Таргетинг по тематикам сообществ VK"
+    },
+    "placements": {
+      "available": true,
+      "can_select_sites": false,
+      "can_exclude_sites": false,
+      "notes": "Можно выбрать размещение в новостной ленте, сообществах, клипах, историях"
+    }
+  },
+  "audience_targeting": {
+    "retargeting": {
+      "available": true,
+      "pixel_tracking": true,
+      "list_upload": true,
+      "max_list_size": 1000000,
+      "min_list_size": 100,
+      "supported_identifiers": ["vk_user_id", "email", "phone"],
+      "notes": "Ретаргетинг через пиксель VK или загрузку аудиторий"
+    },
+    "lookalike": {
+      "available": true,
+      "similarity_ranges": [1, 2, 5, 10],
+      "min_source_size": 1000,
+      "notes": "Похожие аудитории создаются на основе исходных сегментов"
+    },
+    "custom_audiences": {
+      "available": true,
+      "types": ["vk_user_id", "email", "phone", "device_id"],
+      "match_rate": {
+        "phone": "60-70%",
+        "email": "40-50%",
+        "vk_user_id": "95-98%"
+      }
+    }
+  },
+  "device_targeting": {
+    "device_types": {
+      "available": true,
+      "types": ["desktop", "mobile", "tablet"]
+    },
+    "os": {
+      "available": true,
+      "systems": ["ios", "android", "windows", "macos", "linux"]
+    },
+    "browsers": {
+      "available": true,
+      "browsers": [
+        "chrome",
+        "firefox",
+        "safari",
+        "edge",
+        "opera",
+        "yandex",
+        "other"
+      ]
+    },
+    "connection_type": {
+      "available": true,
+      "types": ["wifi", "mobile", "any"]
+    },
+    "mobile_operators": {
+      "available": true,
+      "operators": ["МТС", "Мегафон", "Билайн", "Теле2", "Yota", "другие"]
+    }
+  },
+  "time_targeting": {
+    "day_parting": {
+      "available": true,
+      "granularity": "hour",
+      "notes": "Можно задать расписание показов по часам и дням недели"
+    },
+    "day_of_week": {
+      "available": true
+    },
+    "seasonality": {
+      "available": false
+    }
+  },
+  "frequency_capping": {
+    "available": true,
+    "levels": ["campaign", "ad_group"],
+    "time_windows": ["day", "week", "month", "lifetime"],
+    "notes": "Ограничение частоты показов одному пользователю"
+  },
+  "advanced_features": {
+    "vk_business_profile_targeting": {
+      "available": true,
+      "description": "Таргетинг на владельцев бизнес-профилей VK"
+    },
+    "vk_pay_users": {
+      "available": true,
+      "description": "Таргетинг на пользователей VK Pay"
+    },
+    "music_preferences": {
+      "available": true,
+      "description": "Таргетинг по музыкальным предпочтениям"
+    },
+    "video_preferences": {
+      "available": true,
+      "description": "Таргетинг по просмотрам видео"
+    },
+    "games_players": {
+      "available": true,
+      "description": "Таргетинг на игроков в игры VK"
+    }
+  },
+  "exclusions": {
+    "supported": true,
+    "types": [
+      "negative_interests",
+      "negative_groups",
+      "existing_customers",
+      "converters"
+    ]
+  },
+  "api_support": {
+    "available": true,
+    "api_version": "5.131",
+    "bulk_creation": true,
+    "notes": "Полная поддержка через VK Ads API"
+  }
+}
+

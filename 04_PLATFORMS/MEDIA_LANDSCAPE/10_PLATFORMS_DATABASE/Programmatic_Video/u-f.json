@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_u-f",
+  "name": "newslab.ru (S)",
+  "site": "u-f",
+  "website_url": "https://u-f",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "newslab.ru (S)",
+  "holding": "newslab.ru (S)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "newslab.ru (S)",
+      "seller": "newslab.ru (S)",
+      "site_meta": "u-f",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "newslab.ru (S)",
+        "newslab.ru (S)",
+        "u-f",
+        "u-f",
+        "да",
+        "да",
+        "RW",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "от 45",
+        "u-f.ru (S)",
+        "u-f.ru (S)",
+        "Prokazan",
+        "40.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

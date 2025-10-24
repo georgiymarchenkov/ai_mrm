@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_global_venture_alliance",
+  "name": "исключения",
+  "site": "Global Venture Alliance",
+  "website_url": "https://Global Venture Alliance",
+  "category": "Hitmedia",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Hitmedia",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "Global Venture Alliance",
+      "full_row": [
+        "Hitmedia",
+        "исключения",
+        "исключения",
+        "Global Venture Alliance",
+        "Global Venture Alliance",
+        "нет",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "Forbes.ru (W)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

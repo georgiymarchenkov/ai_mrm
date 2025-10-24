@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_unitydigital.ru__прямой_production_",
+  "name": "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+  "site": "unitydigital.ru (прямой_production)",
+  "website_url": "https://unitydigital.ru (прямой_production)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+  "holding": "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+      "seller": "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+      "site_meta": "unitydigital.ru (прямой_production)",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+        "Вадим Гогилашвили vgogilashvili@digital-boost.ru, @vad_bens",
+        "unitydigital.ru (прямой_production)",
+        "unitydigital.ru (прямой_production)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "услуги по лидогенрации без СК",
+        "Alphamatic.ru (прямой)",
+        "Alphamatic.ru (прямой)",
+        "m2",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

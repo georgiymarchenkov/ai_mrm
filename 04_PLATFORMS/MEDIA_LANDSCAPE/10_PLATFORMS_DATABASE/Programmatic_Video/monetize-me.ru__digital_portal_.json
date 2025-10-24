@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_monetize-me.ru__digital_portal_",
+  "name": "Monetizeme",
+  "site": "Monetize-me.ru (Digital portal)",
+  "website_url": "https://Monetize-me.ru (Digital portal)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Monetizeme",
+  "holding": "Monetizeme",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Monetizeme",
+      "seller": "Monetizeme",
+      "site_meta": "Monetize-me.ru (Digital portal)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Monetizeme",
+        "Monetizeme",
+        "Monetize-me.ru (Digital portal)",
+        "Monetize-me.ru (Digital portal)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "от 45",
+        "ООО \"Диджитал Портал\"",
+        "ООО \"Диджитал Портал\"",
+        "-Размещение через Диджитал Портал \n-СПМ базовый 1200 р (упрощенка без НДС)\nДалее СПМ  в зависимости от объема снижается до 900 р в пакете 5000К\n \nМинимальный бюджет 500 К",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

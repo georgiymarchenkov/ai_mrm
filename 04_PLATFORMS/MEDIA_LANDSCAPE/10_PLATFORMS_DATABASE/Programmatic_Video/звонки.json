@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_звонки",
+  "name": "novostroy.su без НДС (Прямой)",
+  "site": "звонки",
+  "website_url": "https://звонки",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "novostroy.su без НДС (Прямой)",
+  "holding": "novostroy.su без НДС (Прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "novostroy.su без НДС (Прямой)",
+      "seller": "novostroy.su без НДС (Прямой)",
+      "site_meta": "звонки",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "novostroy.su без НДС (Прямой)",
+        "novostroy.su без НДС (Прямой)",
+        "звонки",
+        "звонки",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "не требуется",
+        "zonov.v@art.su  Зонов Вячеслав; gromova@art.su Анна Громова",
+        "zonov.v@art.su  Зонов Вячеслав; gromova@art.su Анна Громова",
+        "Unitydigital.ru (прямой)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

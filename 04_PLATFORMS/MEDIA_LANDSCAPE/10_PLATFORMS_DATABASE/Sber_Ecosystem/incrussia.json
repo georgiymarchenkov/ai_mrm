@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_incrussia",
+  "name": "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+  "site": "Incrussia",
+  "website_url": "https://Incrussia",
+  "category": "Sber",
+  "seller": "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+  "holding": "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+      "seller": "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+      "site_meta": "Incrussia",
+      "full_row": [
+        "Sber",
+        "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+        "A.klimkin@programmatica.com  Алексей Климкин; G.tkacenko@programmatica.com Галина Ткаченко",
+        "Incrussia",
+        "Incrussia",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "Incrussia.ru (прямой)",
+        "Incrussia.ru (прямой)",
+        "ООО \"Издательская Компания Совет Директоров\"",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

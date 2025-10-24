@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_https___t.me_sergey",
+  "name": "s.lavrinenko@byyd.me mobile manager ",
+  "site": "https://t.me/sergey",
+  "website_url": "https://t.me/sergey",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "s.lavrinenko@byyd.me mobile manager ",
+  "holding": "s.lavrinenko@byyd.me mobile manager ",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "s.lavrinenko@byyd.me mobile manager ",
+      "seller": "s.lavrinenko@byyd.me mobile manager ",
+      "site_meta": "https://t.me/sergey",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "s.lavrinenko@byyd.me mobile manager ",
+        "s.lavrinenko@byyd.me mobile manager ",
+        "https://t.me/sergey",
+        "https://t.me/sergey",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

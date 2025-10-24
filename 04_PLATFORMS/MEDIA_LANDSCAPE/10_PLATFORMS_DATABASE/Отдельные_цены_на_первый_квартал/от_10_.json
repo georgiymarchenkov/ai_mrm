@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_от_10_",
+  "name": "Otclick-adv",
+  "site": "от 10%",
+  "website_url": "https://от 10%",
+  "category": "Отдельные цены на первый квартал:",
+  "seller": "Otclick-adv",
+  "holding": "Otclick-adv",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Отдельные цены на первый квартал:",
+      "holding": "Otclick-adv",
+      "seller": "Otclick-adv",
+      "site_meta": "от 10%",
+      "full_row": [
+        "Отдельные цены на первый квартал:",
+        "Otclick-adv",
+        "Otclick-adv",
+        "от 10%",
+        "от 10%",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "60 дней с момента окончания отчетного периода",
+        "60 дней с момента окончания отчетного периода",
+        "",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

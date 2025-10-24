@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_63.ru__w_",
+  "name": "Medaboutme.ru",
+  "site": "63.ru (W)",
+  "website_url": "https://63.ru (W)",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "Medaboutme.ru",
+  "holding": "Medaboutme.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "Medaboutme.ru",
+      "seller": "Medaboutme.ru",
+      "site_meta": "",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "Medaboutme.ru",
+        "Medaboutme.ru",
+        "63.ru (W)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "45.0",
+        "ООО \"Т2 Мобайл\"",
+        "ООО \"Т2 Мобайл\"",
+        "alexey.a.kovalev@tele2.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

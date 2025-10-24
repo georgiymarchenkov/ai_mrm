@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ооо__смарт_диджитал_",
+  "name": "Vinstant.pro (прямой_Пакет fix)",
+  "site": "ООО \"СМАРТ ДИДЖИТАЛ\"",
+  "website_url": "https://ООО \"СМАРТ ДИДЖИТАЛ\"",
+  "category": "разница между ставкой в кабинете и стоимостью клиента",
+  "seller": "Vinstant.pro (прямой_Пакет fix)",
+  "holding": "Vinstant.pro (прямой_Пакет fix)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "разница между ставкой в кабинете и стоимостью клиента",
+      "holding": "Vinstant.pro (прямой_Пакет fix)",
+      "seller": "Vinstant.pro (прямой_Пакет fix)",
+      "site_meta": "ООО \"СМАРТ ДИДЖИТАЛ\"",
+      "full_row": [
+        "разница между ставкой в кабинете и стоимостью клиента",
+        "Vinstant.pro (прямой_Пакет fix)",
+        "Vinstant.pro (прямой_Пакет fix)",
+        "ООО \"СМАРТ ДИДЖИТАЛ\"",
+        "ООО \"СМАРТ ДИДЖИТАЛ\"",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "на согласовании",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

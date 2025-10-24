@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_ru.kinorium.com",
+  "name": "Kinoafisha.info (BS)",
+  "site": "Ru.kinorium.com",
+  "website_url": "https://Ru.kinorium.com",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Kinoafisha.info (BS)",
+  "holding": "Kinoafisha.info (BS)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Kinoafisha.info (BS)",
+      "seller": "Kinoafisha.info (BS)",
+      "site_meta": "Ru.kinorium.com",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Kinoafisha.info (BS)",
+        "Kinoafisha.info (BS)",
+        "Ru.kinorium.com",
+        "Ru.kinorium.com",
+        "",
+        "да",
+        "RW",
+        "да",
+        "нет",
+        "Ru.kinorium.com (BS)",
+        "Kino-teatr",
+        "Kino-teatr",
+        "Kino-teatr.ru (BS)",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

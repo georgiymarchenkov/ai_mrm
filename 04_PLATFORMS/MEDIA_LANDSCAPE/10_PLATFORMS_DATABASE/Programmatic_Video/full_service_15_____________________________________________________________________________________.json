@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_full_service_15________________________________________________________________________________________________________",
+  "name": "Soloway.ru (Full_DR_ Internest)",
+  "site": "Full Service 15%                                                                                                      \n",
+  "website_url": "https://Full Service 15%                                                                                                      \n",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "Soloway.ru (Full_DR_ Internest)",
+  "holding": "Soloway.ru (Full_DR_ Internest)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "Soloway.ru (Full_DR_ Internest)",
+      "seller": "Soloway.ru (Full_DR_ Internest)",
+      "site_meta": "Full Service 15%                                                                                                      \n",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "Soloway.ru (Full_DR_ Internest)",
+        "Soloway.ru (Full_DR_ Internest)",
+        "Full Service 15%                                                                                                      \n",
+        "Full Service 15%                                                                                                      \n",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "60.0",
+        "Soloway.ru (Self_ Internest)",
+        "Soloway.ru (Self_ Internest)",
+        "Self-Service (оплата по CPM), самостоятельно управляем ставкой премии.\nмедийные размещения        0-50%        задается самостоятельно менеджером, запускающим РК        \nдинамический ремаркетинг        0-20%        задается самостоятельно менеджером, запускающим РК        \n",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

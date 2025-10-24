@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_stream_telecom",
+  "name": "СМС рассылки",
+  "site": "Stream Telecom",
+  "website_url": "https://Stream Telecom",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "СМС рассылки",
+  "holding": "СМС рассылки",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "СМС рассылки",
+      "seller": "СМС рассылки",
+      "site_meta": "Stream Telecom",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "СМС рассылки",
+        "СМС рассылки",
+        "Stream Telecom",
+        "Stream Telecom",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "60.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

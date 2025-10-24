@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_kommersant.ru__w_",
+  "name": "Kommersant",
+  "site": "Kommersant.ru (W)",
+  "website_url": "https://Kommersant.ru (W)",
+  "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+  "seller": "Kommersant",
+  "holding": "Kommersant",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+      "holding": "Kommersant",
+      "seller": "Kommersant",
+      "site_meta": "Kommersant.ru (W)",
+      "full_row": [
+        "Если иное не согласовано в приложениях, то оплата не позднее 10 числа месяца, следующего за отчетным",
+        "Kommersant",
+        "Kommersant",
+        "Kommersant.ru (W)",
+        "Kommersant.ru (W)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "УСН, \nПри ежемесячном объеме от 500-та тысяч руб. (конечная сумма для нас) готовы добавить +5% к ранее согласованной скидке.\nПри ежемесячном объеме от 1 млн. руб. (конечная сумма для нас) готовы добавить +10% к ранее согласованной скидке.",
+        "АО \"КОММЕРСАНТЪ\"",
+        "АО \"КОММЕРСАНТЪ\"",
+        "Kommersant.ru (W_production)",
+        "На производство рекламных материалов в т.ч. проектов и статей условия не распространяются."
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

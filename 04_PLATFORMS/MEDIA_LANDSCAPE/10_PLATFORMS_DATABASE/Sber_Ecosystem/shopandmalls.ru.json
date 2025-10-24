@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_shopandmalls.ru",
+  "name": "Shopandmalls.ru",
+  "site": "Shopandmalls.ru",
+  "website_url": "https://Shopandmalls.ru",
+  "category": "Sber",
+  "seller": "Shopandmalls.ru",
+  "holding": "Shopandmalls.ru",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Shopandmalls.ru",
+      "seller": "Shopandmalls.ru",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "Shopandmalls.ru",
+        "Shopandmalls.ru",
+        "Shopandmalls.ru",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "10.0",
+        "ООО \"Адвердата\"",
+        "ООО \"Адвердата\"",
+        ">",
+        "30.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

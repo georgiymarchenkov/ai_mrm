@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_gazeta.ru__index20_",
+  "name": "\n",
+  "site": "Gazeta.ru (Index20)",
+  "website_url": "https://Gazeta.ru (Index20)",
+  "category": "Спорт",
+  "seller": "\n",
+  "holding": "\n",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Спорт",
+      "holding": "\n",
+      "seller": "\n",
+      "site_meta": "Gazeta.ru (Index20)",
+      "full_row": [
+        "Спорт",
+        "\n",
+        "\n",
+        "Gazeta.ru (Index20)",
+        "Gazeta.ru (Index20)",
+        "да",
+        "нет",
+        "Agency (partner)",
+        "да",
+        "да",
+        "30.0",
+        "Reforum.ru (прямой_call)",
+        "Reforum.ru (прямой_call)",
+        "СК на Медийку, Видео -25%;",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

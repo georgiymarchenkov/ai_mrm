@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_нет_оригинала",
+  "name": "110km.ru (прямой)",
+  "site": "нет оригинала",
+  "website_url": "https://нет оригинала",
+  "category": "Mediatoday.ru (прямой_production)",
+  "seller": "110km.ru (прямой)",
+  "holding": "110km.ru (прямой)",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Mediatoday.ru (прямой_production)",
+      "holding": "110km.ru (прямой)",
+      "seller": "110km.ru (прямой)",
+      "site_meta": "нет оригинала",
+      "full_row": [
+        "Mediatoday.ru (прямой_production)",
+        "110km.ru (прямой)",
+        "110km.ru (прямой)",
+        "нет оригинала",
+        "нет оригинала",
+        "да",
+        "да",
+        "RW",
+        "Benequire.ru (прямой)",
+        "нет",
+        "ООО \"Пространство Технологий\"",
+        "Дарья Ларина d.larina@benequire.ru",
+        "25 дней с момента размещения.",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

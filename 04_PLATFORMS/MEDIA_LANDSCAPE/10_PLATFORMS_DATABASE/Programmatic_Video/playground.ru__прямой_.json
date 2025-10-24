@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_playground.ru__прямой_",
+  "name": "PlayGround",
+  "site": "Playground.ru (прямой)",
+  "website_url": "https://Playground.ru (прямой)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "PlayGround",
+  "holding": "PlayGround",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "PlayGround",
+      "seller": "PlayGround",
+      "site_meta": "Playground.ru (прямой)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "PlayGround",
+        "PlayGround",
+        "Playground.ru (прямой)",
+        "Playground.ru (прямой)",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "30.0",
+        "на обновлении",
+        "на обновлении",
+        "90 календарных дней с момента окончания отчетного периода",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

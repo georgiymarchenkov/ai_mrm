@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_от_5_000_000_00___24_999_999_99_-20__от_25_000_000_00_-_25__",
+  "name": "СК нет",
+  "site": "от 5 000 000,00 – 24 999 999,99 -20%\nот 25 000 000,00 - 25%\n",
+  "website_url": "https://от 5 000 000,00 – 24 999 999,99 -20%\nот 25 000 000,00 - 25%\n",
+  "category": "WCM Tracking click (прямой)",
+  "seller": "СК нет",
+  "holding": "СК нет",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "WCM Tracking click (прямой)",
+      "holding": "СК нет",
+      "seller": "СК нет",
+      "site_meta": "от 5 000 000,00 – 24 999 999,99 -20%\nот 25 000 000,00 - 25%\n",
+      "full_row": [
+        "WCM Tracking click (прямой)",
+        "СК нет",
+        "СК нет",
+        "от 5 000 000,00 – 24 999 999,99 -20%\nот 25 000 000,00 - 25%\n",
+        "от 5 000 000,00 – 24 999 999,99 -20%\nот 25 000 000,00 - 25%\n",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "WAM DMP (excl segment transmission)",
+        "WAM DMP (excl segment transmission)",
+        "Weborama.ru (Прямой_Segment)",
+        " ООО \"ММ Системс\""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

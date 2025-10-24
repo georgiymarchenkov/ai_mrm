@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_novochag.ru__w__бывший_goodhouse_",
+  "name": "исключения",
+  "site": "novochag.ru (W)(бывший GoodHouse)",
+  "website_url": "https://novochag.ru (W)(бывший GoodHouse)",
+  "category": "Программатик, Видео, Перфоманс",
+  "seller": "исключения",
+  "holding": "исключения",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Программатик, Видео, Перфоманс",
+      "holding": "исключения",
+      "seller": "исключения",
+      "site_meta": "novochag.ru (W)(бывший GoodHouse)",
+      "full_row": [
+        "Программатик, Видео, Перфоманс",
+        "исключения",
+        "исключения",
+        "novochag.ru (W)(бывший GoodHouse)",
+        "novochag.ru (W)(бывший GoodHouse)",
+        "",
+        "да",
+        "RW",
+        "да",
+        "да",
+        "Snob.ru (прямой)",
+        "ООО \"Ябби\"",
+        "ООО \"Ябби\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

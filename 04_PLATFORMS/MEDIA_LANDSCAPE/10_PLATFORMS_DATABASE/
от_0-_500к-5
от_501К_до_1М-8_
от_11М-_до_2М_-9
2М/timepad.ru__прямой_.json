@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_timepad.ru__прямой_",
+  "name": "Timepad",
+  "site": "Timepad.ru (прямой)",
+  "website_url": "https://Timepad.ru (прямой)",
+  "category": ":\nот 0- 500к-5%\nот 501К до 1М-8% \nот 1,1М- до 2М -9%\n>2М -10%\n\n",
+  "seller": "Timepad",
+  "holding": "Timepad",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": ":\nот 0- 500к-5%\nот 501К до 1М-8% \nот 1,1М- до 2М -9%\n>2М -10%\n\n",
+      "holding": "Timepad",
+      "seller": "Timepad",
+      "site_meta": "",
+      "full_row": [
+        ":\nот 0- 500к-5%\nот 501К до 1М-8% \nот 1,1М- до 2М -9%\n>2М -10%\n\n",
+        "Timepad",
+        "Timepad",
+        "Timepad.ru (прямой)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "да",
+        "Getintent.ru (прямой_Full_DR_exceptions)",
+        "90.0",
+        "ООО \"ТАЙМПЭД ЛТД\"",
+        "ООО \"ТАЙМПЭД ЛТД\"",
+        "",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

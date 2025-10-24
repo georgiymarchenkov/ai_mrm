@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_161.ru__w_",
+  "name": "Ilya Nizhenko nizhenkoilya@gmail.com",
+  "site": "161.ru (W)",
+  "website_url": "https://161.ru (W)",
+  "category": "Sber",
+  "seller": "Ilya Nizhenko nizhenkoilya@gmail.com",
+  "holding": "Ilya Nizhenko nizhenkoilya@gmail.com",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "Sber",
+      "holding": "Ilya Nizhenko nizhenkoilya@gmail.com",
+      "seller": "Ilya Nizhenko nizhenkoilya@gmail.com",
+      "site_meta": "",
+      "full_row": [
+        "Sber",
+        "Ilya Nizhenko nizhenkoilya@gmail.com",
+        "Ilya Nizhenko nizhenkoilya@gmail.com",
+        "161.ru (W)",
+        "",
+        "да",
+        "да",
+        "RW",
+        "",
+        "",
+        "",
+        "RBC",
+        "RBC",
+        "spb.rbc.ru",
+        ""
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}

@@ -1,0 +1,44 @@
+{
+  "$schema": "platform_v1",
+  "id": "plt_для_сра-активности__премии_нет_",
+  "name": "ООО \"ЕДАДИЛ ПРОМО\"",
+  "site": "для СРА-активности (премии нет)",
+  "website_url": "https://для СРА-активности (премии нет)",
+  "category": "ООО \"СитиЛит\"",
+  "seller": "ООО \"ЕДАДИЛ ПРОМО\"",
+  "holding": "ООО \"ЕДАДИЛ ПРОМО\"",
+  "data_sources": [
+    "rw_reestr"
+  ],
+  "status": "active",
+  "availability": "russia",
+  "is_active": true,
+  "source_data": {
+    "rw_reestr": {
+      "category": "ООО \"СитиЛит\"",
+      "holding": "ООО \"ЕДАДИЛ ПРОМО\"",
+      "seller": "ООО \"ЕДАДИЛ ПРОМО\"",
+      "site_meta": "для СРА-активности (премии нет)",
+      "full_row": [
+        "ООО \"СитиЛит\"",
+        "ООО \"ЕДАДИЛ ПРОМО\"",
+        "ООО \"ЕДАДИЛ ПРОМО\"",
+        "для СРА-активности (премии нет)",
+        "для СРА-активности (премии нет)",
+        "да",
+        "да",
+        "RW",
+        "Irina Bunova <ibunova@yandex-team.ru>,   Anna Rubtsova\" <anya-rubtsova@yandex-team.ru>",
+        "да",
+        "Natiscope",
+        "Natiscope.ru (прямой)",
+        "Natiscope.ru (прямой)",
+        "30 дней с момента подписания акта",
+        "50.0"
+      ]
+    }
+  },
+  "created_at": "2025-10-24T12:00:00Z",
+  "updated_at": "2025-10-24T12:00:00Z",
+  "last_verified_at": "2025-10-24T12:00:00Z"
+}
